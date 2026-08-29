@@ -1,0 +1,353 @@
+{
+  "chapter": "01-02-08",
+  "annotator": { "agent": "main-session", "date": "2026-08-28", "rev": 2 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "term",
+      "quote": "Æsop, that buffoon, that Pierrot",
+      "label": "Three costumes",
+      "note": "Miüsov's three names for Fyodor, each a costume: Æsop — the ugly, clever fabulist; buffoon — the fool licensed to say anything; Pierrot — the pathetic white-faced pantomime clown. A type can be disowned; that's why Miüsov needs Fyodor to be one.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a large glass jug of kvas",
+      "label": "The monastery table",
+      "note": "Kvas: a lightly fermented bread drink, negligible alcohol — a monastery staple. The fasting-day menu (sterlet soup, salmon cutlets, blanc-mange) is luxury without meat: no asceticism, but no broken rule either.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p3",
+      "placement": "after",
+      "type": "idea",
+      "quote": "dishonorable, and quite unconscious of being so himself",
+      "label": "Rakitin audits himself and passes",
+      "note": "The narrator's thumbnail of Rakitin: able, envious — and sincerely convinced of his own integrity because he doesn't steal banknotes left on the table. Dostoevsky distrusts self-audited virtue. Rakitin is being set up as the counter-Alyosha: same intelligence, opposite engine.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "context",
+      "quote": "kissing his hand as peasants do",
+      "label": "Asking a blessing",
+      "note": "Laymen greet a priest or bishop by bowing and asking his blessing; the devout may kiss his hand. Ivan and Kalganov doing it 'as peasants do' — simply, without Miüsov's ironic self-consciousness — is a quiet early signal about Ivan: capable of unguarded reverence.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "He fully and sincerely loved humanity again.",
+      "label": "Philanthropy as a light switch",
+      "note": "One sentence of pure acid. Miüsov finishes his polished apology, feels his dignity restored, and his love of humanity switches back on like a lamp. Loving humanity in general is easy; it's individual persons who are impossible — Miüsov is the novel's chief exhibit.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p10",
+      "placement": "after",
+      "type": "idea",
+      "quote": "I always feel when I meet people that I am lower than all, and that they all take me for a buffoon; so I say let me play the buffoon, for you are, every one of you, stupider and lower than I.",
+      "label": "The buffoon's arithmetic",
+      "note": "The engine of the whole chapter, stated in advance. Shame is anticipated, priced, and converted into aggression: if they've already decided I'm a buffoon, I'll take the role and use its license — and inside the role I can tell myself I'm the only honest one here. It predicts everything he does next, down to the sober legal self-assessment: obscenity, 'nothing criminal, nothing for which he could be legally punished.' And the remembered anecdote supplies the psychology underneath — 'He has done me no harm. But I played him a dirty trick, and ever since I have hated him': hate as the interest paid on guilt, the order inverted. Nietzsche was reading this novel four years later; ressentiment never got a cleaner lab demonstration.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p23",
+      "placement": "before",
+      "type": "context",
+      "quote": "he was killed and robbed, and in spite of his venerable age, he was nailed up in a box",
+      "label": "This murder was real",
+      "note": "Know this before the joke lands: von Sohn was a real early-1870s St. Petersburg scandal — an elderly official murdered in a brothel, his body nailed into a box and shipped toward Moscow while the newspapers feasted. Fyodor isn't raving; he's doing tabloid-era cruelty, christening the harmless Maximov with a fresh headline corpse, 'risen from the dead.'",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p26",
+      "placement": "page",
+      "type": "foreign",
+      "quote": "plus de noblesse que de sincérité",
+      "title": "Nobility vs. Sincerity — the chapter's French duel",
+      "original": "plus de noblesse que de sincérité / plus de sincérité que de noblesse",
+      "render": "more nobility than sincerity / more sincerity than nobility",
+      "note": "The exchange, in Fyodor's words: 'Miüsov, my relation, prefers to have plus de noblesse que de sincérité in his words, but I prefer in mine plus de sincérité que de noblesse, and—damn the noblesse!'\n\nWhy French, here and all through the novel: the Russian gentry code-switched constantly, and Dostoevsky wrote these phrases in French inside his Russian text — the language of refinement weaponized in the least refined mouth in the room. That is the joke's engine: the buffoon speaking the idiom of nobility to announce his contempt for it.\n\nAnd note what the exchange actually does. Miüsov, the chapter's great believer in nobility-without-sincerity, has just finished a polished, insincere apology to the Father Superior — so Fyodor's taunt, for once, is simply true. It is one of the rare moments where the buffoon lands a real hit, which is exactly why Miüsov 'passed immediately from the most benevolent frame of mind to the most savage.'",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p26",
+      "placement": "page",
+      "type": "context",
+      "quote": "It was ordained by the holy Fathers to confess in secret",
+      "title": "Elders, confession, and the 'Flagellants' slander",
+      "note": "Fyodor's accusation: that in the elder's cell the monks 'all kneel down and confess aloud,' a corruption he will report 'to the Synod' — adding that one might be 'carried along with you to the Flagellants.'\n\nWhat he's actually touching: the institution of the elder (starets) — a monk to whom others, including laymen, submit for spiritual guidance. In Dostoevsky's Russia this was genuinely contested: critics inside the Church alleged that charismatic elders absorbed authority that canon law gave to bishops, and that confession of thoughts to a starets blurred the sacrament. 'Flagellants' renders the khlysty, a persecuted sect long a byword for secret debauchery — the smear by association. The Synod is the Church's governing body: Fyodor is threatening to escalate gossip to the top.\n\nAnd the ground under his feet is fake, as the narrator flatly states in the next paragraph: no one had been kneeling and confessing aloud in the cell at all. He is speaking from 'confused memory of old slanders' — a polemic he half-remembers, deployed as an attack. The novel lets the slander be recognizable and false at once.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p26",
+      "placement": "inline",
+      "type": "term",
+      "quote": "As a thing falls, so it lies. As a thing once has fallen, so it must lie for ever.",
+      "label": "A proverb in costume",
+      "note": "Reads as a literal rendering of a Russian proverb: once down, stay down — reputation as much as body. Fyodor recites it as the common wisdom precisely to defy it ('Not a bit of it! I want to get up again'); Garnett's translated stiffness suits a proverb being worn like a costume.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p29",
+      "placement": "after",
+      "type": "allusion",
+      "quote": "it is the correction of the Lord and He has sent it to heal my vain soul",
+      "label": "The Superior's first answer",
+      "note": "Introduced by 'It was said of old' — the marker of Church literature rather than Scripture: an ascetic-flavored gloss on accepting reproach as medicine, in the spirit of the Desert Fathers. Dostoevsky's documented wellspring for the monks' speech is St. Tikhon of Zadonsk, the 18th-century bishop whose writings Zosima's teachings follow closely elsewhere. The effect is the point of the scene: the Superior answers obscenity with a bow — and it is the one answer Fyodor has no counter for.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p30",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "A kiss on the lips and a dagger in the heart",
+      "title": "Schiller's The Robbers (Die Räuber, 1781)",
+      "note": "Fyodor swats away the Superior's humble blessing — 'A kiss on the lips and a dagger in the heart, as in Schiller's Robbers. I don't like falsehood, Fathers, I want the truth.'\n\nThe play: Schiller's debut, about two brothers — Karl, the passionate elder son slandered to their father and driven into banditry, and Franz, the scheming younger who engineers it. A sensation in Germany, and in nineteenth-century Russia it mattered even more: the Schiller cult made 'Robbers'-references shorthand among educated readers for noble rebellion, filial betrayal, theatricality of evil. The kiss-plus-dagger tag itself reads as Fyodor's paraphrase of stage treachery (a Judas-kiss image) rather than a quotation of a specific line — but the play he names is exactly right: the Karamazov household is The Robbers with the morality stripped out.\n\nKeep the play in mind: within the same scene, Fyodor will crown Ivan 'most honored Karl von Moor' — the wronged rebel son — as the carriage drives away. Two allusions, one play, twenty-four paragraphs apart: Dostoevsky assumes his readers carry the first one until the second one pays it off.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p30",
+      "placement": "page",
+      "type": "idea",
+      "quote": "Father monks, why do you fast? Why do you expect reward in heaven for that?",
+      "title": "The challenge to the monastery",
+      "note": "Buried in the vomit of the scene is a serious argument. Fyodor's case, assembled from his taunts: monastic renunciation is virtue on easy terms — you fast inside walls, at other people's expense, billing heaven for the reward ('Why, for reward like that I will come and fast too!'), while 'you try being virtuous in the world, do good to society... without expecting a reward up aloft — you'll find that a bit harder.'\n\nDostoevsky does not let this be mere buffoon noise. The novel takes the question with full seriousness and answers it at length in Book VI, through Zosima's recorded conversations and life — which reframe asceticism not as reward-accounting but as active love of the world, precisely the thing Fyodor pretends to demand. The buffoon has accidentally spoken the skeptics' best line; the author spends a book earning the reply.\n\nThis is the chapter's one genuinely forward-looking note — the fight it starts is not settled until much later.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n15",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "context",
+      "quote": "mead brewed by the Eliseyev Brothers",
+      "label": "Eliseyev Brothers",
+      "note": "Real luxury merchants — their grocery was a St. Petersburg byword for delicacy and expense. Fyodor's implication: capitalist pantry, peasant's farthings. But as the narrator noted, the mead is actually brewed in the monastery — his props are real, his facts wrong.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p33",
+      "placement": "inline",
+      "type": "context",
+      "quote": "This is the age of Liberalism, the age of steamers and railways.",
+      "label": "The age of Liberalism",
+      "note": "The stock phrase of the post-Reform 1860s–70s: 'railways and steamers' stood for the whole modernizing program — and, to conservatives like Dostoevsky, for the collapse of everything sacred. Fyodor wears it as a buffoon's shield ('history is on my side'), while the novel quietly asks whether 'the age' actually abolishes the soul.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p33",
+      "placement": "inline",
+      "type": "context",
+      "quote": "I sent you a thousand roubles, so you have begun to keep your eye on me",
+      "label": "A thousand roubles",
+      "note": "A serious sum — of the same order as a middle-class annual income in the 1870s. A thousand roubles is a major donation from a man who insists he's stingy, which is exactly why he itemizes it aloud.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p37",
+      "placement": "inline",
+      "type": "context",
+      "quote": "It is only one short verst",
+      "label": "Versts, pig, and fast days",
+      "note": "A verst is a little over a kilometre (1.07 km). The menu is the joke: during the fast, lenten oil is the permitted indulgence — 'instead of lenten oil, I will give you sucking-pig and kasha' is sin advertised at maximum volume, to an audience of monks.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p41",
+      "placement": "inline",
+      "type": "term",
+      "quote": "What did you vonsohn there?",
+      "label": "A name made into a verb",
+      "note": "Garnett keeps Dostoevsky's coinage: the murder victim's surname turned into a verb — what were you von-sohn-ing at the dinner? Fyodor doesn't describe the world; he vandalizes the language it's described in. Seconds later, Ivan's fist introduces the novel's first real violence.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p42",
+      "placement": "after",
+      "type": "idea",
+      "quote": "without a word gave Maximov a violent punch in the breast",
+      "label": "Ivan's hand",
+      "note": "The chapter's quiet climax. Through the whole scandal Ivan has said almost nothing — then, wordlessly, he strikes a harmless old man hard enough to knock him off the carriage step. No inner monologue is given; the silence rides home ('they did not speak again all the way'). Register the hand now, attached to the son of ideas — Dostoevsky is keeping accounts.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p54",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "most honored Karl von Moor",
+      "label": "Karl von Moor",
+      "note": "The wronged rebel son of Schiller's The Robbers — the play Fyodor invoked at the scene's peak. Costume assignment as insult: the buffoon casts Ivan as romantic avenger, 'most honored,' and dares him to play the role or refuse it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "sterlets",
+      "label": "sterlet",
+      "note": "a small, prized species of sturgeon — the classic Russian banquet fish.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "recovered his self-complacency",
+      "label": "self-complacency",
+      "note": "in the older sense: calm self-satisfaction, smugness — not the modern “complacency” (being unbothered). Miüsov gets his smugness back.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p26",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "eating gudgeon",
+      "label": "gudgeon",
+      "note": "a small, bony river fish, barely worth eating — the taunt is that the monks make a fuss over trivial fare.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p27",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "depths of ignominy",
+      "label": "ignominy",
+      "note": "public shame and disgrace.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "sanctimoniousness and stock phrases",
+      "label": "sanctimoniousness",
+      "note": "making a show of holiness; affected piety.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "formal prostrations",
+      "label": "prostration",
+      "note": "a full bow to the ground, forehead touching the floor, in prayer or reverence.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the farthing earned by his horny hand",
+      "label": "farthing",
+      "note": "the smallest English copper coin, a quarter of an old penny — Garnett’s stand-in for the peasant’s last small coppers.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p33",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "in a paroxysm of simulated feeling",
+      "label": "paroxysm",
+      "note": "a sudden, uncontrollable fit — of laughter, rage, or (as here) feeling he is only acting out.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p37",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the rest of the rigmarole",
+      "label": "rigmarole",
+      "note": "a long, rambling string of words that means nothing; ritual nonsense.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n32",
+      "anchor": "p48",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "Ivan snapped sullenly",
+      "label": "sullenly",
+      "note": "with moody, resentful silence — irritated and withdrawn rather than angry aloud.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The office presided over by this scene's absent center — Zosima, and behind him the Father Superior — is the elder, or starets: a monk to whom others, including laymen, submit for spiritual direction. In nineteenth-century Russian monasticism this was a genuinely contested institution; critics inside the Church charged that charismatic elders absorbed authority canon law assigned to bishops, and that confession of thoughts to a starets blurred the sacrament itself. Dostoevsky knew the terrain firsthand: in June 1878, weeks after the death of his three-year-old son Alyosha, he made a documented pilgrimage to Optina Pustyn and conversed with its elders — the model for the monastery of this novel, down to the Superior's two comfortable rooms. When Fyodor alleges that the monks 'all kneel down and confess aloud,' mutters about 'the Flagellants' (the persecuted khlysty sect, a byword for secret debauchery), and threatens to write 'to the Synod,' he is half-remembering that real polemic — which is why the narrator must stop the scene to certify that nothing of the kind occurred in the cell. The slander is drawn from the world and false in the chapter.",
+      "The chapter is dressed in the newspaper texture of the 1870s. Von Sohn — the elderly official murdered and shipped toward Moscow in a box — was a real St. Petersburg scandal; the Eliseyev Brothers' grocery was the city's byword for expensive delicacy; 'the age of Liberalism, the age of steamers and railways' was the post-Reform generation's formula for itself, and for conservatives like Dostoevsky a confession of faith in steam over soul. Serialized in The Russian Messenger in 1879–80, the novel reached readers who met these as recent headlines. The design is functional rather than decorative: when Fyodor christens Maximov with a murder victim and bills monks for port wine they never poured ('Old port wine, mead brewed by the Eliseyev Brothers' — though the mead, as the narrator noted, is the monastery's own), the obscenity feels reported rather than invented. The publicity age has armed the buffoon.",
+      "The scene's central duel is fought in quotation registers. The Father Superior's two answers — introduced by 'It was said of old…' and 'It is written again…' — signal Church literature rather than Scripture: counsel on accepting reproach as medicine, in the lineage of the Desert Fathers and close to Thomas à Kempis's counsel to bear contempt gladly. Dostoevsky's documented wellspring for the monks' speech is St. Tikhon of Zadonsk (1724–1783), the bishop whose writings supplied much of Zosima's teaching across the novel. Constance Garnett's apparent stiffness in these lines ('Bear circumspectly and gladly dishonor that cometh upon thee by no act of thine own') is often the register of quoted Church language rather than her smoothing — just as her decision to keep the French of the noblesse/sincérité exchange, and the coined verb 'vonsohn,' preserves the scene's actual layering of languages.",
+      "Around the whole brawl stands Schiller. The Robbers (1781) — two brothers, a slandered son turned bandit, a father destroyed by his own household — held cult status among educated Russians, where Schiller reverence made the play shorthand for noble rebellion and theatrical evil. The chapter quotes it twice: Fyodor swats away the Superior's blessing with 'a kiss on the lips and a dagger in the heart, as in Schiller's Robbers,' and as the carriage pulls away he names his son 'most honored Karl von Moor,' the play's wronged rebel. To the period reader the double allusion made the household's shape legible: this is The Robbers with the morality stripped out, and Ivan — silent through the entire scandal except for one wordless act of violence — has been dared to play Karl von Moor or refuse the role. The chapter ends on that dare: father and son riding home without another word."
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "chapter": "01-02-02",
+  "annotator": { "agent": "bk-annotator", "date": "2026-08-28", "rev": 1 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "term",
+      "quote": "two monks of the hermitage",
+      "label": "Hermitage (skete)",
+      "note": "Not the main monastery but its skete — a secluded colony of cells in the woods where the elders lived apart. Dostoevsky modeled it on the famous skete at Optina Pustyn, which he visited in 1878.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p2",
+      "placement": "before",
+      "type": "context",
+      "quote": "The two monks rose and greeted him with a very deep bow",
+      "label": "The etiquette of the cell",
+      "note": "Before the scene starts, know the etiquette. This is the cell of a starets — an elder: a monk whom laymen visit for counsel and blessing. The norm here is veneration: a bow to the ground, a kiss on the elder’s hand. Now watch the visitors negotiate it — Miüsov calculates, Fyodor mimics, Kalganov freezes.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "greeted him with a very deep bow, touching the ground with their fingers",
+      "label": "The greeting, both ways",
+      "note": "A full bow to the ground, then a kiss on the elder’s hand — and the elder bows as deeply back and asks the monks’ blessing. Elderhood as mutual service rather than rank: the authority everyone will fight over in this scene is the one Zossima keeps giving away.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "term",
+      "quote": "a Catholic cross of ivory, with a Mater Dolorosa embracing it",
+      "label": "Mater Dolorosa",
+      "note": "Latin, ‘Sorrowful Mother’ — Mary grieving at the Cross. The odd object out: an ivory Catholic crucifix hung among Orthodox ikons, china eggs and cheap prints — one of the ‘costly’ pieces in an otherwise bare cell.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p5",
+      "placement": "after",
+      "type": "idea",
+      "quote": "“To all appearances a malicious soul, full of petty pride,” thought Miüsov.",
+      "label": "Insight, first product",
+      "note": "We have just been told Miüsov ‘had a high opinion of his own insight.’ Its first output is a complete misreading: the face he pronounces malicious belongs to the novel’s gentlest man. Every judgment Miüsov delivers in this cell — on Zossima, on Russia, on faith — will run the same course: elegant, confident, and finally about himself.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "term",
+      "quote": "remembering that punctuality is the courtesy of kings",
+      "label": "Courtesy of kings",
+      "note": "A French court tag — l’exactitude est la politesse des rois — usually pinned on Louis XVIII: a king who owns everyone’s time owes his punctuality. Fyodor wears the aphorism for two sentences, then drops it: ‘I’m not a king.’",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p9",
+      "placement": "page",
+      "type": "context",
+      "quote": "‘Mr. Ispravnik,’ said I, ‘be our Napravnik.’",
+      "title": "Ispravnik, not Napravnik: anatomy of a failed pun",
+      "note": "The two names. An ispravnik was the head of the district police in provincial Russia — the state’s man on the spot, with real power over the local merchants Fyodor was befriending. Eduard Nápravník (1839–1916), Czech-born, was chief conductor of the Mariinsky Theatre from 1869 — the most famous conductor in Russia, a household name.\n\nThe joke: Fyodor greets the police chief by promoting him to the podium — ‘what we need for the harmony of our undertaking is some one of that sort’ — flattering the merchant party and pricking the official. The pun is one prefix long (is-/na-), and the victim hears it as an insult to ‘my calling.’\n\nFyodor’s own moral, told in advance: ‘Always injuring myself with my politeness.’ The buffoon’s joke is a bid to be liked that reads as contempt the moment it misses — this anecdote is the whole chapter in miniature.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p12",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "how Diderot went to see the Metropolitan Platon",
+      "title": "Diderot before the Metropolitan: fact, anecdote, invention",
+      "note": "The frame is fact. Denis Diderot — the Encyclopédie’s editor, Europe’s most famous atheist — really was Catherine II’s guest in Russia, in 1773–74. Metropolitan Platon (Levshin) was Moscow’s celebrated court preacher. Princess Dashkov, named as godmother, is real — Yekaterina Dashkova, later director of the Academy of Sciences; so is Potyomkin, Catherine’s general and favorite. A meeting between philosopher and bishop, with exchanges about God, belongs to the anecdote tradition the gentry repeated exactly as Fyodor says — he heard it ‘twenty times’ as a child.\n\nThe punchline is Scripture — ‘The fool hath said in his heart there is no God’ (Psalm 14:1) — and the conversion is invention. Diderot left Russia unbaptized and died in Paris in 1784, a nonbeliever. Fyodor confesses the fabrication within the page: ‘the last thing about Diderot’s christening I made up just now... I made it up to add piquancy.’\n\nThen he delivers the observation that matters: ‘They all believe to this day that the infidel Diderot came to dispute about God with the Metropolitan Platon.’ The scene is a pocket demonstration of how apocrypha work — a trace of fact, a good punchline, an audience that wants the story.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "The fool hath said in his heart there is no God.",
+      "label": "Psalm 14:1",
+      "note": "The bishop’s answer is Scripture — the opening of Psalm 14 (repeated as Psalm 53), in the King James wording Garnett uses. Atheism answered by quotation rather than argument: one verse, lifted finger, done.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "a devil within me. But only a little one.",
+      "label": "A little devil",
+      "note": "‘A devil within me. But only a little one. A more serious one would have chosen another lodging.’ Scale the devil down and you never have to fight him. Late in the novel one of his sons will entertain a much more serious guest, and lodging will be exactly the question.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n11",
+      "anchor": "p16",
+      "placement": "inline",
+      "type": "context",
+      "quote": "some even freethinkers, attracted by curiosity",
+      "label": "Skeptics in the queue",
+      "note": "Fact, not flattery: educated skeptics did come to elders. Gogol made a recorded visit to Optina Pustyn in 1850; Dostoevsky followed in June 1878, weeks after his three-year-old son’s death — the monastery behind this novel.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p16",
+      "placement": "after",
+      "type": "idea",
+      "quote": "sat now quite unmoved, with downcast eyes, apparently waiting with interest to see how it would end",
+      "label": "The son who watches",
+      "note": "Alyosha’s whole hope is pinned here — Ivan alone ‘had such influence on his father that he could have stopped him.’ Ivan sits unmoved, ‘waiting with interest to see how it would end, as though he had nothing to do with it.’ Not indifference: experiment. The watcher’s pose — let it run, observe the result — is Ivan’s moral position in this house, and the novel keeps the account open.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p21",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "do not be so ashamed of yourself, for that is at the root of it all",
+      "label": "The root named first",
+      "note": "Zosima names the root before Fyodor confesses it: not drink, lust, or money — shame. The buffoonery is armor, and the elder’s first move is not to rebuke the act but to touch the wound under it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p23",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "Blessed be the womb that bare thee, and the paps that gave thee suck",
+      "label": "Luke 11:27, defiled",
+      "note": "A woman in the crowd blesses Jesus’ mother: ‘Blessed is the womb that bare thee, and the paps which gave thee suck.’ Jesus answers, ‘Yea rather, blessed are they that hear the word of God, and keep it.’ Fyodor quotes the blessing and adds ‘the paps especially.’",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p23",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "what must I do to gain eternal life?",
+      "label": "The rich young ruler’s question",
+      "note": "The kneeling question of the rich young ruler (Mark 10:17), whose answer was ‘sell whatsoever thou hast, and give to the poor’ — and who ‘went away grieved.’ Fyodor, who keeps taverns, kneels in the right posture with the wrong heart.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p28",
+      "placement": "after",
+      "type": "idea",
+      "quote": "it is sometimes very pleasant to take offense, isn’t it?",
+      "label": "The luxury of being insulted",
+      "note": "Zosima’s psychology, and Fyodor’s instant confession — ‘It is, it is pleasant to take offense.’ Nobody has insulted him; the insult is ‘invented... to make it picturesque,’ nursed until resentment becomes ‘genuine vindictiveness,’ with pleasure paid out along the way. Dostoevsky had run this engine before, in Notes from Underground (1864); here it gets diagnosed aloud, in the voice of mercy — and the patient kisses the doctor’s hand.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "Of a truth, I am a lie, and the father of lies.",
+      "label": "John 8:44, corrected",
+      "note": "‘Ye are of your father the devil... he is a liar, and the father of it’ — Christ’s words (John 8:44). Fyodor claims the title, then revises the paperwork: ‘Say, the son of lies.’ Half-blasphemy, accurately filed.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p30",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "stood up, picked up his head, and, ‘courteously kissing it,’ walked a long way",
+      "title": "The saint who carried his own head",
+      "note": "Fyodor’s test question — two years in the intending, he says: a martyr whose head is cut off, ‘stood up, picked up his head, and, “courteously kissing it,” walked a long way, carrying it in his hands.’ Is it in the Lives of the Saints?\n\nNo — and the monks are right. The Russian Lives contain no courteous head-kissing. But the legend Fyodor half-remembers is real: the cephalophore — the head-carrier — is a genuine topos of Western hagiography, most famously St. Denis, the third-century bishop of Paris, said to have walked miles after decapitation carrying his head. Miüsov heard the story ‘in Paris from a Frenchman’ — precisely where the legend lives — and the Frenchman swore it was ‘read at our mass from the Lives of the Saints.’\n\nThe joke cuts both ways: the gentry’s piety is secondhand folklore, while the monks turn out to be the scene’s fact-checkers — the Father Librarian coolly asks, ‘What saint do you say the story is told of?’",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p37",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a very learned man who had made a special study of Russian statistics",
+      "label": "The Russia expert",
+      "note": "The type Dostoevsky loved to skewer: the Western scholar with ‘a special study of Russian statistics’ and long residence behind him, confidently misreporting the faith he measured. Miüsov’s piety is secondhand Parisian folklore about Russian holiness.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p40",
+      "placement": "inline",
+      "type": "context",
+      "quote": "going towards the portico to bless the people waiting for him there",
+      "label": "The other audience",
+      "note": "After the gentry, the queue: Zossima goes out to bless the crowds of pilgrims at the portico — peasants who have traveled for days. The next chapter is their scene.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p41",
+      "placement": "after",
+      "type": "idea",
+      "quote": "I have been testing you all the time to see whether I could get on with you.",
+      "label": "Testing, not tempting",
+      "note": "The exit speech inverts the scene: the buffoon was running an experiment on the saint — ‘Is there room for my humility beside your pride?’ is humility used as an accusation. And the verb is exact: testing is the tempter’s verb. Fyodor arrived as a petitioner and leaves as an examiner issuing grades — ‘one can get on with you’ — before surrendering the stage ‘for ten minutes.’ Whether any of it was sincere is precisely what the narrator has declined, twice, to say.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "carved cherubims",
+      "label": "cherubims",
+      "note": "cherubim is already the plural of cherub; ‘cherubims’ doubles it — an old English habit (the King James Bible says ‘cherubims’). One cherub, many cherubim.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "It’s their liver",
+      "label": "liver",
+      "note": "in the old physiology, the seat of ill temper: a ‘liverish’ man is bilious and sullen. The fat police captain’s glumness is blamed on his digestion.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "Your wife is a ticklish lady",
+      "label": "ticklish",
+      "note": "older sense: sensitive, easily offended, needing delicate handling (a ‘ticklish subject’). The whole joke hangs on the slide from that meaning to the literal one.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "that it had missed fire",
+      "label": "miss fire",
+      "note": "from firearms: fail to discharge. Of a joke: fall flat, not go off.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "I am an inveterate buffoon",
+      "label": "inveterate",
+      "note": "long-established, habitual, rooted (from Latin vetus, ‘old’) — an inveterate buffoon has been one as far back as anyone can remember.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p14",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "I made it up to add piquancy",
+      "label": "piquancy",
+      "note": "an agreeable sharpness or zest, as of seasoning. Fyodor adds lies to a story the way a cook adds spice.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p16",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "feelings of the profoundest veneration",
+      "label": "veneration",
+      "note": "profound, reverent respect — the deepest regard that stops short of worship.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p26",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "incontinence of speech",
+      "label": "incontinence",
+      "note": "in its older, general sense: failure of self-restraint (‘incontinence of speech’ = unbridled talk) — not the modern medical meaning.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "sinks to bestiality in his vices",
+      "label": "bestiality",
+      "note": "in its older, general sense: beastlikeness, brutish coarseness of behavior — not the modern sexual sense.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p41",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "I am ready to give you a testimonial",
+      "label": "testimonial",
+      "note": "a formal written tribute to someone’s character or merit — as given to a departing employee or a reliable product. Zossima rated, in writing.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The scene’s ground note is struck by furniture. The elder’s cell contains ‘nothing but the most necessary furniture, of coarse and poor quality,’ two pots of flowers, a lamp before a ‘huge ancient ikon of the Virgin’ — and, incongruously, a Catholic ivory cross with its Mater Dolorosa, ‘costly and artistic engravings’ of Italian masters, and rough prints of saints ‘sold for a few farthings at all the fairs.’ Dostoevsky was transcribing a real room: the cell of an elder in the hermitage of Optina Pustyn — the skete he visited in June 1878, weeks after the death of his three-year-old son Alyosha, in search of the counsel this novel turns into fiction. The narrator’s claim that ‘for forty or fifty years past, from the times of former elders,’ no visitor had entered the cell without veneration measures the Optina institution, where eldership took root in the early nineteenth century and became the center of Russian spiritual life; the ‘freethinkers, attracted by curiosity’ in that same paragraph are documented — Gogol came to Optina in 1850, Dostoevsky twenty-eight years later. Even the supporting cast — the learned Father Païssy, the Father Librarian, the divinity student ‘living under the protection of the monastery’ — is the skete’s actual bench, with the portico at the end where the crowds of pilgrims wait their turn after the gentry.",
+      "The chapter’s centerpiece is a controlled experiment in folklore. Fyodor’s Diderot story has fact at its core — Denis Diderot, the Encyclopédie’s editor, really was Catherine II’s guest in Russia in 1773–74, and Metropolitan Platon really was Moscow’s celebrated preacher — but the version the gentry told ‘twenty times,’ with the atheist floored by a verse of Psalms and christened between Princess Dashkov and Potyomkin, is salon apocrypha, as Fyodor confesses within the page: ‘the last thing about Diderot’s christening I made up just now... I made it up to add piquancy.’ The confession is the point. Dostoevsky then shows the whole machinery of legend in a single scene: the teller who knows he lies, the childhood audience that received the story as religion — ‘I heard as far as “the fool hath said in his heart” twenty times from the gentry about here when I was young’ — and the social fact that outlives them both, ‘They all believe to this day that the infidel Diderot came to dispute about God.’ Miüsov’s fury is the fury of a man who can see the process and cannot stop being part of it; his own piety, as he admits, is secondhand — ‘all sorts of things are said at dinner—we were dining then.’",
+      "Zossima’s answers are drawn from the practice of eldership, not its theory. His first counsel is startlingly specific — ‘don’t give way to drunkenness and incontinence of speech; don’t give way to sensual lust; and, above all, to the love of money. And close your taverns’ — the register of the recorded elders, whose answers to pilgrims ran to drink, debts, and family quarrels rather than doctrine; ‘close your taverns’ even names the petitioner’s actual business. The second answer — on the man who lies to himself until ‘he cannot distinguish the truth within him, or around him,’ and takes offense pleasurably, having ‘lied and exaggerated to make it picturesque’ — is the moral center of gravity of the whole scene. Constance Garnett renders the chapter’s Scripture in the cadence English readers knew: ‘The fool hath said in his heart there is no God’ comes over nearly word for word from the King James Psalm; ‘Blessed be the womb that bare thee’ carries Luke 11:27; ‘I am a lie, and the father of lies’ rides on John 8:44. Where Dostoevsky’s Russian quotes smell of Church Slavonic, Garnett substitutes the seventeenth-century English Bible — a different antiquity, but an antiquity, which is what the scene requires. Her ‘incontinence of speech’ likewise keeps the older general sense of restraint, a diction one generation later than the novel’s Russian.",
+      "Against the cell’s hagiography stands the buffoon, and Dostoevsky builds him as an inverted holy fool. The yurodivy of Russian tradition accepted shame and abuse voluntarily, for God’s sake; Fyodor’s own genealogy runs the other way — ‘I had to make jokes for my living in noblemen’s families,’ the remnant of the serf-era house jester kept by landowners for entertainment, hardened by shame into an ‘inveterate buffoon’ ‘from birth up.’ He performs the holy fool’s gestures with the engine reversed: he falls on his knees with the rich young ruler’s question (‘what must I do to gain eternal life?’), blesses with a woman’s cry from Luke and adds ‘the paps especially,’ names himself the father of lies and corrects the filing to son. His trick question about the martyr who ‘stood up, picked up his head, and, “courteously kissing it,” walked a long way’ is hagiography weaponized — a real topos of Western saints’ legends (St. Denis of Paris, walking with his severed head), misfiled into the Orthodox Lives by a Parisian expert in ‘Russian statistics’ and retold by gentry at dinner. The monks answer with the Lives’ actual contents: in this cell, fact-checking is a form of piety."
+    ]
+  }
+}

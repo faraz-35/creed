@@ -1,0 +1,377 @@
+{
+  "chapter": "01-02-05",
+  "annotator": {
+    "agent": "bk-annotator",
+    "date": "2026-08-28",
+    "rev": 1
+  },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p2",
+      "placement": "before",
+      "type": "context",
+      "quote": "Hitherto at least I have stood in the front ranks of all that is progressive in Europe",
+      "label": "A man of the forties",
+      "note": "Miüsov's grievance is generational. He is a wealthy liberal of the 1840s — the Europe-facing, progressive generation — watching the new men not even attack him; they simply look through him. Russia's fathers-and-sons war, the century's running cultural drama (Turgenev's novel of 1862 named it), is being fought in real time inside this cell, and Miüsov is on the fathers' side.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "context",
+      "quote": "after the ‘courteously kissing’?",
+      "label": "Scare-quoted courtesy",
+      "note": "The quotation marks are the taunt: presumably Miüsov's own perfumed phrase, performed when he rose, offended, to leave — before staying. Fyodor files such performances and produces them at the worst possible moment.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "context",
+      "quote": "liable to fainting fits from exhaustion",
+      "label": "The clinical detail",
+      "note": "Pallor, white lips, fainting fits: the narrator is quietly scheduling the novel's great death scene. Zosima's decline runs beneath everything from here — this gathering is one of his last sustained public acts.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n04",
+      "anchor": "p8",
+      "placement": "page",
+      "type": "context",
+      "quote": "an article written in answer to a book by an ecclesiastical authority on the question of the ecclesiastical court",
+      "title": "The church-courts question behind Ivan's article",
+      "note": "The question Iosif names — 'the ecclesiastical court, and the scope of its jurisdiction' — was a real Russian controversy. Alexander II's judicial reform of 1864 rebuilt the civil courts (open proceedings, jury trial, an independent bar), but the Church's own courts, the consistories that handled marriage cases and clergy discipline, were left essentially unreformed — and for decades afterward jurists, churchmen, and the press argued about what to do with them.\n\nThe positions around the elder's table reproduce that debate's map. The propositions Iosif recites — no 'social organization' may dispose of its members' 'civic and political rights,' the Church as mere 'organization of men for religious objects' — are the liberal settlement, the Church bounded and subordinated. The book Ivan answers speaks for the clerical center; Païssy's 'Perfectly true' marks the third, Slavophile current: not separation nor absorption into the State, but the State's transfiguration — 'worthy to become only the Church and nothing else.'\n\nThat the most theocratic position at the table is taken by the novel's most modern intelligence is the chapter's engineered scandal — Ivan outbids the believers in their own currency, and the narrator takes care to certify only his manner ('modesty and reserve'), never his faith.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "foreign",
+      "quote": "arrière-pensée",
+      "label": "arrière-pensée",
+      "note": "French, kept by Dostoevsky and Garnett alike: a thought behind the stated thought — ulterior motive, mental reservation. Ivan answers with visible goodwill and, the narrator certifies, none of that.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p13",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "the Church ought to include the whole State, and not simply to occupy a corner in it",
+      "label": "Corner or whole",
+      "note": "The thesis in one clause. His clerical opponent (and Europe's liberal program) bounds the Church — a corner, 'an organization of men for religious objects.' Ivan argues absorption: society itself becoming the Church, the State dissolving into it. Païssy's 'Perfectly true' says the monks just heard their own dream stated best.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p15",
+      "placement": "page",
+      "type": "context",
+      "quote": "The purest Ultramontanism!",
+      "title": "Ultramontanism — and the mountains Russia lacks",
+      "note": "Ultra montes, 'beyond the mountains' — the Alps: the name for the party that located ultimate church authority on the far side of the Alps, in Rome. By Miüsov's century it meant the Vatican program in its hardest form — papal supremacy over national churches, and after the First Vatican Council of 1870, the newly defined infallibility of the pope. For a European liberal, 'ultramontanism' was the period's byword for clerical absolutism.\n\nHence the exchange the taunt starts. Miüsov hears a Church swallowing the State and files it under Rome; Father Iosif's retort — 'Oh, well, we have no mountains' — is a pun and a creed at once: no Alps, no pope, no ultramontane center. When Miüsov escalates ('It's beyond the dreams of Pope Gregory the Seventh!'), Païssy draws the line the other way: Rome's error is wanting to BE a state — the third temptation — while Orthodoxy's destiny is the reverse flow, State into Church.\n\nThe chapter keeps borrowing Western Christendom's vocabulary while insisting the referents diverge — which is precisely Miüsov's problem: he has only one filing system, and it was built for Rome.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p16",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "the Church is a kingdom not of this world",
+      "label": "John 18:36",
+      "note": "Christ to Pilate: 'My kingdom is not of this world.' The debate's hinge verse. The clerical author uses it to de-world the Church; Païssy next paragraph calls that playing with words — Christ founded the Church on earth so the Kingdom could be entered through it. Exegesis is the battlefield.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p19",
+      "placement": "after",
+      "type": "idea",
+      "quote": "That is the gist of my article.",
+      "label": "The gift horse",
+      "note": "Watch what Ivan has just done: argued the monks' position further than the monks dare — the State's total absorption into the Church — with a historical sweep (Constantine's Rome, pagan departments) that outclasses the believers. The narrator certifies only his manner: 'modesty and reserve,' no arrière-pensée — sincerity of performance, not of faith. That same faculty, inhabiting an idea to its limit, will later produce his Grand Inquisitor, an entire poem argued from inside a position its author does not hold. The monks applaud the gift without asking why it is given.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n10",
+      "anchor": "p20",
+      "placement": "inline",
+      "type": "term",
+      "quote": "So be it! So be it!",
+      "label": "The doubled amen",
+      "note": "The chapter's title-phrase, first given to Païssy. 'So be it' is simply amen — the Hebrew liturgical word, translated. Doubled, it closes argument with assent: the end is settled ('ordained to come to pass'); only the date is not.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p21",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "a beautiful Utopian dream of the abolition of war, diplomacy, banks, and so on",
+      "label": "Filed under socialism",
+      "note": "Miüsov's inventory — war, diplomacy, banks abolished — hears the Church's end-state as a manifesto, 'something after the fashion of socialism.' The monks claim a terminus, not a program; his own phrase supplies the date he is mocking: 'at the second coming of Christ.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p24",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "but I don’t go against the Church",
+      "label": "The criminal's compromise",
+      "note": "Ivan's phenomenology of modern crime: with Church and State as separate ledgers, a man steals in one and stays solvent in the other. Unify the ledgers and the self-acquittal — 'all mankind are the false Church' — becomes impossible to say with a straight face.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p28",
+      "placement": "after",
+      "type": "idea",
+      "quote": "there must be at least some one to have pity on him",
+      "label": "The Church's one job",
+      "note": "The speech's center of gravity. Zosima's Church renounces punishment not from weakness but from a theory of judgment: the State's mechanical cutting-off is necessary and spiritually useless; excommunication-despair would be worse than any prison; and since the civil law already crushes the criminal, someone must stand on the other side. Pity here is not sentiment — it is an entire penal code held in deliberate reserve. Dostoevsky spent four years in a Siberian hard-labor prison learning the limits of the State's half of the bargain.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "only resting on some seven righteous men",
+      "label": "Seven righteous",
+      "note": "Genesis 18: Sodom would be spared for the sake of ten righteous men. Zosima counts seven — Christendom running below quota — but adds that 'they are never lacking.' The righteous-minimum that sustains a city also runs through Jewish tradition (the thirty-six hidden righteous).",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "context",
+      "quote": "So it seems at least in Lutheran countries.",
+      "label": "Where church became state",
+      "note": "The Reformation's settlement in Lutheran Germany and Scandinavia made the reigning prince the territorial church's supreme governor — summus episcopus. Exactly the 'passing from Church into State' Zosima has just described: not slander, constitutional fact.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "no need to be troubled about times and seasons",
+      "label": "Times and seasons",
+      "note": "Acts 1:7 — Christ to the apostles asking when the kingdom will be restored: 'It is not for you to know the times or the seasons.' Zosima borrows the verse to refuse every timetable: the far-off end may be 'on the eve of its appearance.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p28",
+      "placement": "page",
+      "type": "context",
+      "quote": "all these sentences to exile with hard labor, and formerly with flogging also, reform no one",
+      "title": "Katorga: the prison behind the elder's speech",
+      "note": "The elder's penal speech has an autobiography beneath it. Dostoevsky was arrested in 1849 in the Petrashevsky circle, stood through a mock execution on a St. Petersburg square until a last-moment reprieve converted the sentence, and served four years, 1850–54, in the hard-labor prison (katorga) at Omsk. Notes from the House of the Dead (1860–62) turned it into literature.\n\nThe Dead House's findings are Zosima's: sentences to hard labor 'reform no one' and 'deter hardly a single criminal'; what changes men is the conscience and community they carry — in that prison, specifically the peasant convicts' faith. Even the tense of 'formerly with flogging also' is period-precise: the penal reforms of the early 1860s had curtailed flogging, so an 1870s speaker says 'formerly.'\n\nAnd when Zosima says the Church admits the convict 'to church services, to the holy sacrament' and treats him 'more as a captive than as a convict,' that too is observed rather than invented — Russian practice kept the prisoner inside the Church's pastoral care. The argument is Dostoevsky's own, moved from reportage into an elder's mouth.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p32",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "beyond the dreams of Pope Gregory the Seventh",
+      "label": "Gregory VII",
+      "note": "Hildebrand, pope 1073–85, who claimed power over kings and humbled the Emperor Henry IV at Canossa — for Miüsov, the ceiling of 'Church becomes State.' Zosima below dates Rome's fall into statehood 'a thousand years ago': roughly Gregory's day.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p33",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "That is the third temptation of the devil.",
+      "label": "The third temptation",
+      "note": "Matthew 4:8–9: from a high mountain the devil offers Christ all the kingdoms of the world. Païssy's charge: a church that seizes worldly power has accepted the devil's terms — which is why Rome's dream and Orthodoxy's destiny run in opposite directions.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p33",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "This star will arise in the east!",
+      "label": "Star out of the east",
+      "note": "Messianic star language — 'a star out of Jacob' (Numbers 24:17), the star the Magi saw 'in the east' (Matthew 2) — repointed at the Orthodox east: not Rome, Russia. The Slavophile hope of the world's light rising in Russia, in one exclamation.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p34",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "he knew what caused his excitement",
+      "label": "Rakitin at the door",
+      "note": "The chapter withholds what Alyosha knows: we get the flush, the immovable posture, the downcast eyes — appetite in the stance of a novice — and only the assurance that Alyosha 'knew what caused his excitement.' Whatever the cause, it is not theological.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p35",
+      "placement": "page",
+      "type": "context",
+      "quote": "soon after the coup d’état of December",
+      "title": "Miüsov's Paris: the coup of December 1851",
+      "note": "The date Miüsov glides past in French: 2 December 1851, Louis-Napoleon Bonaparte's coup — the assembly dissolved, opponents arrested in the thousands, a plebiscite to follow, and within a year the Second Empire. Miüsov, calling 'some years after' on an 'extremely influential personage,' is paying court to that regime; the 'regiment of political detectives' is the Empire's surveillance apparatus, which kept files on socialists and émigrés as a standing duty.\n\nThe anecdote's point is its taxonomy of fear: not the atheists but 'the socialist who is a Christian' — belief married to politics. That puzzle was genuinely the French police's after 1848, when democratic-socialist republicans included many believing Catholics and the memory of Lamennais's Christian democracy was fresh. Dostoevsky puts the observation in a police official's mouth: the state, too, has a theology of sorts.\n\nAnd it is aimed sideways at this cell. Païssy's flat 'You apply them to us, and look upon us as socialists?' catches the application — Miüsov's way of saying that monks with a political dream are the dangerous ones. What he does not notice is that the room has just produced the reverse specimen.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p35",
+      "placement": "after",
+      "type": "idea",
+      "quote": "The socialist who is a Christian is more to be dreaded than a socialist who is an atheist.",
+      "label": "The taxonomy misfires",
+      "note": "Miüsov throws the policeman's aphorism at the monks and it boomerangs: the cell has just watched Ivan — whose faith is at best an open question — build the Church's political dream more ruthlessly than the Church would. The dangerous compound is not belief plus politics but intellect without commitment, wearing convictions as costumes; Ivan's Grand Inquisitor, later in the novel, will clothe exactly that in a cardinal's robe. Païssy's direct counter-question is the sound of a taunt missing its target.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n24",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "obviously enjoying his discomfiture",
+      "label": "discomfiture",
+      "note": "defeat and embarrassment together: the fluster of a man whose pose has just failed.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p8",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a book by an ecclesiastical authority",
+      "label": "ecclesiastical",
+      "note": "of the Church as an institution — its clergy, courts, and government.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "not condescendingly, as Alyosha had feared",
+      "label": "condescendingly",
+      "note": "stooping to a lesser: here the older, almost gracious sense — a clever man kindly humoring a holy man — shading into 'patronizing.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p16",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "arrogate to itself power",
+      "label": "arrogate",
+      "note": "to claim or seize a power or right without warrant; to presume upon.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p19",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the foundations which he predicates now",
+      "label": "predicate",
+      "note": "to found or base something on; to assert as a starting point — logic's verb, not the grammar teacher's.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p26",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "no real chastisement for it afterwards",
+      "label": "chastisement",
+      "note": "punishment, especially as correction or discipline; often with a divine or parental hand implied.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the obnoxious member is mechanically cut off",
+      "label": "obnoxious",
+      "note": "older sense: offensive, objectionable — the offending member of a body — not the modern 'extremely annoying.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n33",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "She can enter into no compact",
+      "label": "compact",
+      "note": "a noun here: a formal agreement, a bargain between parties.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n34",
+      "anchor": "p34",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "A supercilious and condescending smile",
+      "label": "supercilious",
+      "note": "haughtily disdainful — from Latin 'above the eyelid': the raised brow as social verdict.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The chapter's argumentative furniture is drawn from a real controversy. When Father Iosif introduces 'an article written in answer to a book by an ecclesiastical authority on the question of the ecclesiastical court, and the scope of its jurisdiction,' he names the question left open by Alexander II's judicial reform of 1864, which rebuilt the civil courts — open argument, jury trial, an independent bar — while leaving the Church's consistory courts, with their jurisdiction over marriage and clergy discipline, essentially unreformed; for decades afterward, jurists, churchmen, and the press argued over what to do with them. The positions around the elder's table reproduce that debate's map. The propositions Iosif recites — no 'social organization' may dispose of its members' 'civic and political rights,' the Church as mere 'organization of men for religious objects' — are the liberal settlement, the Church bounded and subordinated. The book Ivan answers speaks for the clerical center; Païssy's 'Perfectly true' marks the third, Slavophile current: not the Church's absorption into the State nor mere separation, but the State's transfiguration — 'that the State should end by being worthy to become only the Church and nothing else.' That the most theocratic position at the table is argued by the novel's most modern intelligence is the chapter's engineered scandal, and the scene keeps the engineering visible: Ivan's argument is addressed to the elder, delivered with certified 'modesty and reserve,' and wins its applause from Païssy, the one man present who most despises the theories 'only too clearly formulated in the nineteenth century.'",
+      "The fight borrows Western Christendom's vocabulary while insisting the referents diverge. 'The purest Ultramontanism!' — ultra montes, 'beyond the Alps,' the papal-supremacy party that had just triumphed at the Vatican Council of 1870 with the definition of papal infallibility — is Miüsov's filing label for what he has heard, and Father Iosif's retort, 'Oh, well, we have no mountains,' is pun and creed at once: no Alps, no pope. Miüsov escalates to the type specimen — 'beyond the dreams of Pope Gregory the Seventh,' Hildebrand, who humbled an emperor — and Païssy answers with the scene's hardest theological move: a church seizing state power has accepted 'the third temptation of the devil,' the mountain-top offer of the world's kingdoms. Zosima completes the map from the other side: the Lutheran lands where the churches 'have long ago striven to pass from Church into State' (the Reformation settlement had indeed made princes supreme governors of territorial churches), and Rome, 'proclaimed a State instead of a Church a thousand years ago.' A reader of 1879 recognized every item on the table: Europe's church-state settlements — Protestant establishment, Roman theocracy, liberal separation — all named in one scene, and all declared wrong.",
+      "Zosima's great speech on crime has an autobiography beneath it. Dostoevsky was arrested in 1849 in the Petrashevsky circle, stood before a firing squad on a St. Petersburg square until a last-moment reprieve converted the sentence, and served 1850–54 in the hard-labor prison at Omsk; Notes from the House of the Dead (1860–62) turned it into literature. Its findings are the elder's: 'all these sentences to exile with hard labor, and formerly with flogging also, reform no one'; the number of crimes 'continually on the increase'; the only effectual corrective 'the law of Christ speaking in his conscience.' Even the tense of 'formerly with flogging' is period-precise — the penal reforms of the early 1860s had curtailed flogging. When Zosima says the Church admits the convict 'to church services, to the holy sacrament' and treats him 'more as a captive than as a convict,' he describes Russian practice as Dostoevsky watched it: the one institution that entered the prison as something other than a machine. And the speech's bitterest passage is contemporary in a different register — the foreign criminal who 'rarely repents,' confirmed by 'the very doctrines of to-day' in the idea that his crime is 'only a reaction against an unjustly oppressive force': the decade's sociological explanations of crime arrive in the novel as Zosima's negative citation.",
+      "The chapter runs on three registers at once, and Garnett's translation mostly preserves the seams. Scripture sounds like Scripture: 'the Church is a kingdom not of this world' carries John 18:36 into a legal argument, and Zosima's 'times and seasons' echoes Acts ('It is not for you to know the times or the seasons') — the elder speaks in biblical cadence even while making penal policy. French marks the cosmopolitan and the police state alike: Ivan's certified 'arrière-pensée,' Miüsov's 'coup d'état' of December — phrases Dostoevsky wrote in French inside his Russian and Garnett rightly kept, since the code-switching is itself characterization. And one word bears the whole speech: 'mechanical,' struck four times in the chapter — the 'mechanical cutting off' of the tainted member, the 'mechanical punishment' that only embitters, the 'obnoxious member... mechanically cut off,' the European state's force 'that triumphs over him mechanically' — against the Church's organic, maternal vocabulary ('motherly exhortation,' 'like a tender, loving mother'). The State is a machine, the speech says; only what can pity is an organism. Garnett retains the repetition flatly, which is the right call: the clank is the point."
+    ]
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "book": {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "translator": "Constance Garnett (1912)",
+    "source": "Project Gutenberg eBook #28054"
+  },
+  "parts": [
+    {
+      "n": 1,
+      "roman": "I",
+      "books": [
+        {
+          "roman": "I",
+          "title": "The History Of A Family",
+          "chapters": [
+            {
+              "file": "01-01-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "Fyodor Pavlovitch Karamazov",
+              "order": 1
+            },
+            {
+              "file": "01-01-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "He Gets Rid Of His Eldest Son",
+              "order": 2
+            },
+            {
+              "file": "01-01-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "The Second Marriage And The Second Family",
+              "order": 3
+            },
+            {
+              "file": "01-01-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "The Third Son, Alyosha",
+              "order": 4
+            },
+            {
+              "file": "01-01-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "Elders",
+              "order": 5
+            }
+          ]
+        },
+        {
+          "roman": "II",
+          "title": "An Unfortunate Gathering",
+          "chapters": [
+            {
+              "file": "01-02-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "They Arrive At The Monastery",
+              "order": 6
+            },
+            {
+              "file": "01-02-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "The Old Buffoon",
+              "order": 7
+            },
+            {
+              "file": "01-02-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "Peasant Women Who Have Faith",
+              "order": 8
+            },
+            {
+              "file": "01-02-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "A Lady Of Little Faith",
+              "order": 9
+            },
+            {
+              "file": "01-02-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "So Be It! So Be It!",
+              "order": 10
+            },
+            {
+              "file": "01-02-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "Why Is Such A Man Alive?",
+              "order": 11
+            },
+            {
+              "file": "01-02-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "A Young Man Bent On A Career",
+              "order": 12
+            },
+            {
+              "file": "01-02-08.json",
+              "n": 8,
+              "roman": "VIII",
+              "title": "The Scandalous Scene",
+              "order": 13
+            }
+          ]
+        },
+        {
+          "roman": "III",
+          "title": "The Sensualists",
+          "chapters": [
+            {
+              "file": "01-03-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "In The Servants’ Quarters",
+              "order": 14
+            },
+            {
+              "file": "01-03-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "Lizaveta",
+              "order": 15
+            },
+            {
+              "file": "01-03-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "The Confession Of A Passionate Heart—In Verse",
+              "order": 16
+            },
+            {
+              "file": "01-03-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "The Confession Of A Passionate Heart—In Anecdote",
+              "order": 17
+            },
+            {
+              "file": "01-03-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "The Confession Of A Passionate Heart—“Heels Up”",
+              "order": 18
+            },
+            {
+              "file": "01-03-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "Smerdyakov",
+              "order": 19
+            },
+            {
+              "file": "01-03-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "The Controversy",
+              "order": 20
+            },
+            {
+              "file": "01-03-08.json",
+              "n": 8,
+              "roman": "VIII",
+              "title": "Over The Brandy",
+              "order": 21
+            },
+            {
+              "file": "01-03-09.json",
+              "n": 9,
+              "roman": "IX",
+              "title": "The Sensualists",
+              "order": 22
+            },
+            {
+              "file": "01-03-10.json",
+              "n": 10,
+              "roman": "X",
+              "title": "Both Together",
+              "order": 23
+            },
+            {
+              "file": "01-03-11.json",
+              "n": 11,
+              "roman": "XI",
+              "title": "Another Reputation Ruined",
+              "order": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "roman": "II",
+      "books": [
+        {
+          "roman": "IV",
+          "title": "Lacerations",
+          "chapters": [
+            {
+              "file": "02-04-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "Father Ferapont",
+              "order": 25
+            },
+            {
+              "file": "02-04-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "At His Father’s",
+              "order": 26
+            },
+            {
+              "file": "02-04-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "A Meeting With The Schoolboys",
+              "order": 27
+            },
+            {
+              "file": "02-04-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "At The Hohlakovs’",
+              "order": 28
+            },
+            {
+              "file": "02-04-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "A Laceration In The Drawing-Room",
+              "order": 29
+            },
+            {
+              "file": "02-04-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "A Laceration In The Cottage",
+              "order": 30
+            },
+            {
+              "file": "02-04-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "And In The Open Air",
+              "order": 31
+            }
+          ]
+        },
+        {
+          "roman": "V",
+          "title": "Pro And Contra",
+          "chapters": [
+            {
+              "file": "02-05-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "The Engagement",
+              "order": 32
+            },
+            {
+              "file": "02-05-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "Smerdyakov With A Guitar",
+              "order": 33
+            },
+            {
+              "file": "02-05-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "The Brothers Make Friends",
+              "order": 34
+            },
+            {
+              "file": "02-05-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "Rebellion",
+              "order": 35
+            },
+            {
+              "file": "02-05-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "The Grand Inquisitor",
+              "order": 36
+            },
+            {
+              "file": "02-05-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "For Awhile A Very Obscure One",
+              "order": 37
+            },
+            {
+              "file": "02-05-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "“It’s Always Worth While Speaking To A Clever Man”",
+              "order": 38
+            }
+          ]
+        },
+        {
+          "roman": "VI",
+          "title": "The Russian Monk",
+          "chapters": [
+            {
+              "file": "02-06-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "Father Zossima And His Visitors",
+              "order": 39
+            },
+            {
+              "file": "02-06-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "The Duel",
+              "order": 40
+            },
+            {
+              "file": "02-06-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "Conversations And Exhortations Of Father Zossima",
+              "order": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "roman": "III",
+      "books": [
+        {
+          "roman": "VII",
+          "title": "Alyosha",
+          "chapters": [
+            {
+              "file": "03-07-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "The Breath Of Corruption",
+              "order": 42
+            },
+            {
+              "file": "03-07-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "A Critical Moment",
+              "order": 43
+            },
+            {
+              "file": "03-07-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "An Onion",
+              "order": 44
+            },
+            {
+              "file": "03-07-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "Cana Of Galilee",
+              "order": 45
+            }
+          ]
+        },
+        {
+          "roman": "VIII",
+          "title": "Mitya",
+          "chapters": [
+            {
+              "file": "03-08-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "Kuzma Samsonov",
+              "order": 46
+            },
+            {
+              "file": "03-08-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "Lyagavy",
+              "order": 47
+            },
+            {
+              "file": "03-08-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "Gold-Mines",
+              "order": 48
+            },
+            {
+              "file": "03-08-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "In The Dark",
+              "order": 49
+            },
+            {
+              "file": "03-08-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "A Sudden Resolution",
+              "order": 50
+            },
+            {
+              "file": "03-08-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "“I Am Coming, Too!”",
+              "order": 51
+            },
+            {
+              "file": "03-08-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "The First And Rightful Lover",
+              "order": 52
+            },
+            {
+              "file": "03-08-08.json",
+              "n": 8,
+              "roman": "VIII",
+              "title": "Delirium",
+              "order": 53
+            }
+          ]
+        },
+        {
+          "roman": "IX",
+          "title": "The Preliminary Investigation",
+          "chapters": [
+            {
+              "file": "03-09-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "The Beginning Of Perhotin’s Official Career",
+              "order": 54
+            },
+            {
+              "file": "03-09-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "The Alarm",
+              "order": 55
+            },
+            {
+              "file": "03-09-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "The Sufferings Of A Soul, The First Ordeal",
+              "order": 56
+            },
+            {
+              "file": "03-09-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "The Second Ordeal",
+              "order": 57
+            },
+            {
+              "file": "03-09-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "The Third Ordeal",
+              "order": 58
+            },
+            {
+              "file": "03-09-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "The Prosecutor Catches Mitya",
+              "order": 59
+            },
+            {
+              "file": "03-09-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "Mitya’s Great Secret. Received With Hisses",
+              "order": 60
+            },
+            {
+              "file": "03-09-08.json",
+              "n": 8,
+              "roman": "VIII",
+              "title": "The Evidence Of The Witnesses. The Babe",
+              "order": 61
+            },
+            {
+              "file": "03-09-09.json",
+              "n": 9,
+              "roman": "IX",
+              "title": "They Carry Mitya Away",
+              "order": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "roman": "IV",
+      "books": [
+        {
+          "roman": "X",
+          "title": "The Boys",
+          "chapters": [
+            {
+              "file": "04-10-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "Kolya Krassotkin",
+              "order": 63
+            },
+            {
+              "file": "04-10-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "Children",
+              "order": 64
+            },
+            {
+              "file": "04-10-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "The Schoolboy",
+              "order": 65
+            },
+            {
+              "file": "04-10-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "The Lost Dog",
+              "order": 66
+            },
+            {
+              "file": "04-10-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "By Ilusha’s Bedside",
+              "order": 67
+            },
+            {
+              "file": "04-10-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "Precocity",
+              "order": 68
+            },
+            {
+              "file": "04-10-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "Ilusha",
+              "order": 69
+            }
+          ]
+        },
+        {
+          "roman": "XI",
+          "title": "Ivan",
+          "chapters": [
+            {
+              "file": "04-11-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "At Grushenka’s",
+              "order": 70
+            },
+            {
+              "file": "04-11-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "The Injured Foot",
+              "order": 71
+            },
+            {
+              "file": "04-11-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "A Little Demon",
+              "order": 72
+            },
+            {
+              "file": "04-11-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "A Hymn And A Secret",
+              "order": 73
+            },
+            {
+              "file": "04-11-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "Not You, Not You!",
+              "order": 74
+            },
+            {
+              "file": "04-11-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "The First Interview With Smerdyakov",
+              "order": 75
+            },
+            {
+              "file": "04-11-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "The Second Visit To Smerdyakov",
+              "order": 76
+            },
+            {
+              "file": "04-11-08.json",
+              "n": 8,
+              "roman": "VIII",
+              "title": "The Third And Last Interview With Smerdyakov",
+              "order": 77
+            },
+            {
+              "file": "04-11-09.json",
+              "n": 9,
+              "roman": "IX",
+              "title": "The Devil. Ivan’s Nightmare",
+              "order": 78
+            },
+            {
+              "file": "04-11-10.json",
+              "n": 10,
+              "roman": "X",
+              "title": "“It Was He Who Said That”",
+              "order": 79
+            }
+          ]
+        },
+        {
+          "roman": "XII",
+          "title": "A Judicial Error",
+          "chapters": [
+            {
+              "file": "04-12-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "The Fatal Day",
+              "order": 80
+            },
+            {
+              "file": "04-12-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "Dangerous Witnesses",
+              "order": 81
+            },
+            {
+              "file": "04-12-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "The Medical Experts And A Pound Of Nuts",
+              "order": 82
+            },
+            {
+              "file": "04-12-04.json",
+              "n": 4,
+              "roman": "IV",
+              "title": "Fortune Smiles On Mitya",
+              "order": 83
+            },
+            {
+              "file": "04-12-05.json",
+              "n": 5,
+              "roman": "V",
+              "title": "A Sudden Catastrophe",
+              "order": 84
+            },
+            {
+              "file": "04-12-06.json",
+              "n": 6,
+              "roman": "VI",
+              "title": "The Prosecutor’s Speech. Sketches Of Character",
+              "order": 85
+            },
+            {
+              "file": "04-12-07.json",
+              "n": 7,
+              "roman": "VII",
+              "title": "An Historical Survey",
+              "order": 86
+            },
+            {
+              "file": "04-12-08.json",
+              "n": 8,
+              "roman": "VIII",
+              "title": "A Treatise On Smerdyakov",
+              "order": 87
+            },
+            {
+              "file": "04-12-09.json",
+              "n": 9,
+              "roman": "IX",
+              "title": "The Galloping Troika. The End Of The Prosecutor’s Speech.",
+              "order": 88
+            },
+            {
+              "file": "04-12-10.json",
+              "n": 10,
+              "roman": "X",
+              "title": "The Speech For The Defense. An Argument That Cuts Both Ways",
+              "order": 89
+            },
+            {
+              "file": "04-12-11.json",
+              "n": 11,
+              "roman": "XI",
+              "title": "There Was No Money. There Was No Robbery",
+              "order": 90
+            },
+            {
+              "file": "04-12-12.json",
+              "n": 12,
+              "roman": "XII",
+              "title": "And There Was No Murder Either",
+              "order": 91
+            },
+            {
+              "file": "04-12-13.json",
+              "n": 13,
+              "roman": "XIII",
+              "title": "A Corrupter Of Thought",
+              "order": 92
+            },
+            {
+              "file": "04-12-14.json",
+              "n": 14,
+              "roman": "XIV",
+              "title": "The Peasants Stand Firm",
+              "order": 93
+            }
+          ]
+        },
+        {
+          "roman": "Epilogue",
+          "title": "Epilogue",
+          "chapters": [
+            {
+              "file": "04-13-01.json",
+              "n": 1,
+              "roman": "I",
+              "title": "Plans For Mitya’s Escape",
+              "order": 94
+            },
+            {
+              "file": "04-13-02.json",
+              "n": 2,
+              "roman": "II",
+              "title": "For A Moment The Lie Becomes Truth",
+              "order": 95
+            },
+            {
+              "file": "04-13-03.json",
+              "n": 3,
+              "roman": "III",
+              "title": "Ilusha’s Funeral. The Speech At The Stone",
+              "order": 96
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
