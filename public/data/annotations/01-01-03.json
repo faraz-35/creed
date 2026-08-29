@@ -1,0 +1,395 @@
+{
+  "chapter": "01-01-03",
+  "annotator": { "agent": "bk-annotator", "date": "2026-08-29", "rev": 1 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "the daughter of an obscure deacon",
+      "label": "A deacon's daughter",
+      "note": "In the Orthodox Church a deacon is the rank below priest. The clergy formed their own hereditary estate — set apart, mostly poor, neither peasant nor gentry — and 'obscure deacon' places Sofya at the bottom of it: an orphan with a name, a faith, and nothing else.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "in company with a Jew",
+      "label": "Business 'in company with a Jew'",
+      "note": "Provincial trade commonly ran through Jewish middlemen, brokers and buyers; the companion on Fyodor's business trip is named and passed over, the flatness itself period-typical. His capital grows through such go-betweens while he drinks — the sentence quietly dates and places his money.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "cut down from a halter in which she was hanging from a nail in the loft",
+      "label": "The loft",
+      "note": "A suicide attempt, cut down in time — the only evidence offered for how terrible her sufferings were. The narrator pleads ignorance of the details; the gentle orphan's one recorded act of resistance in this house is directed at her own life.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a drunkard and a vicious debauchee",
+      "label": "debauchee",
+      "note": "a person given over completely to drink and sensual vice — stronger than a mere rake.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "at once her benefactress and tormentor",
+      "label": "benefactress",
+      "note": "a female benefactor — a woman who supports and protects a dependent. Paired with 'tormentor,' the word carries the chapter's whole argument about charity.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "her sufferings from the caprice and everlasting nagging",
+      "label": "caprice",
+      "note": "sudden, unaccountable changes of mood; whim. 'Everlasting' in the older sense means constant, without end.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "he proposed an elopement to the orphan girl",
+      "label": "The same plot, again",
+      "note": "Both marriages begin as runaway matches, as the chapter itself notes. First the heiress ran off with him; now he recruits an orphan to run off with him. Fyodor does not court — he abducts by consent, the one method that converts a refusal into a wedding.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p2",
+      "placement": "after",
+      "type": "idea",
+      "quote": "the poor child exchanged a benefactress for a benefactor",
+      "label": "The arithmetic of no exit",
+      "note": "The narrator's balance sheet for a penniless sixteen-year-old orphan: the halter in the loft, the bottom of the river, or a wedding to a stranger negotiated from another province. 'Exchanged a benefactress for a benefactor' is the cruelest sentence in the chapter — the prefix changes, the dependency does not; her 'choice' was only choosing which hand would hold her. Keep this economy in view when the novel later makes much of meekness: Sofya's meekness is what a world produces when it owns every exit.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a vicious profligate",
+      "label": "profligate",
+      "note": "a person recklessly abandoned to vice and self-indulgence.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "Those innocent eyes slit my soul up like a razor",
+      "label": "Innocence as a blade",
+      "note": "Fyodor's one accurate self-diagnosis: innocence that wounds. The image makes the innocent eyes the active party — they cut him — which becomes, in his accounting, a license. The narrator instantly deflates it: 'this might, of course, mean no more than sensual attraction.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "Making her feel that she had “wronged” him",
+      "label": "The debt is hers",
+      "note": "The abuser's bookkeeping. Because she brought no dowry, she owes him: poverty is converted into guilt, and the tormenting that follows becomes — to her — deserved. He does not merely hurt his wife; he balances the accounts first.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "so to speak, taken her “from the halter,”",
+      "label": "Taken 'from the halter'",
+      "note": "An idiom of the dowry-less bride — taken for nothing, like an animal led off by its rope. Garnett's phrase lands with accidental horror here: the same halter she once put her neck into now names the form of the bargain.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "He championed her cause, abusing Fyodor Pavlovitch in a manner little befitting a servant",
+      "label": "The servant's verdict",
+      "note": "The adjective pile — gloomy, stupid, obstinate, argumentative — is Grigory's standing portrait; then he does the one thing the clever people never do: risks his place for the victim. The household's conscience lives in its dullest man.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p3",
+      "placement": "page",
+      "type": "context",
+      "quote": "possessed by devils",
+      "title": "The klikushi: peasant women 'possessed by devils'",
+      "note": "Sofya's illness is given a village name. The klikushi (from a Russian verb meaning to shriek or cry out) were women who broke into screaming fits, convulsions and strange voices, most often in church or in crowds; the popular explanation was possession, and the usual remedies were exorcism and pilgrimage. What the medical writing of the day called hysteria, the village called devils.\n\nDostoevsky had written about the klikushi in his Writer's Diary earlier in the 1870s, and for him they were not folklore but evidence — Russian women driven past endurance, breaking in ways their world could only name demonically.\n\nThe register-shift is the point of the sentence here. Sofya is a deacon's daughter in a moneyed house, yet her terror-bred fits are diagnosed in peasant terms — the whole illness hangs on the clause 'kept in terror from her childhood.' The devils are the village's reading; the tyrant upstairs is the cause.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "with his loathsome snigger",
+      "label": "snigger",
+      "note": "a sneering, half-suppressed laugh; the British form of 'snicker.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "It serves her right. God has punished her for her ingratitude.",
+      "label": "Providence as bookkeeping",
+      "note": "The widow's theology: God audits gratitude and punishes its absence. Having tormented the girl for years, she reads the resulting death as heaven's endorsement of the torment — charity had made the child her debtor, and unpaid debt is sin.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p5",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "God would repay her for the orphans",
+      "label": "Grigory's Bible cadence",
+      "note": "The old servant answers a slap with a proverb's promise. Behind the wording stands Proverbs 19:17 — pity on the poor is lending to the Lord, who repays — Grigory takes the blow and leaves the bookkeeping to God.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p5",
+      "placement": "after",
+      "type": "idea",
+      "quote": "she wrapped them just as they were in a rug",
+      "label": "Rescue in the family dialect",
+      "note": "Half an hour does what eight years of everyone else could not — but note the grammar of every good deed in this chapter: two resounding slaps, a box on the ear for the faithful servant, two children carried off unwashed in a rug, a will that gives grudgingly. Mercy here speaks exactly the language of the cruelty it corrects. Grigory, bowing low under his blow, is the only one who treats the rescue as sacred rather than as force — and she calls him a blockhead for it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p5",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "gave Grigory, too, a box on the ear",
+      "label": "box on the ear",
+      "note": "a sharp blow to the side of the head; the classic period idiom for a slap.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "he drove all over the town telling the story.",
+      "label": "Shame converted to currency",
+      "note": "Slapped and hair-pulled in front of the household, Fyodor's response is to retail it himself, all over town. For him humiliation is never a loss; it is material — the buffoon's economy in miniature.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p7",
+      "placement": "before",
+      "type": "context",
+      "quote": "If other people think fit to throw away their money, let them.",
+      "label": "The will you are about to hear",
+      "note": "The long quotation is the widow's will itself — heard, not read ('I have not read the will myself'). Exactly a thousand roubles per boy, rationed to last to twenty-one, 'more than adequate' — with a parting jab at the man who 'throws away' money. Weigh her arithmetic against the guardian's, below.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a thousand roubles each",
+      "label": "A thousand roubles",
+      "note": "A substantial but narrow sum — roughly the order of a middle-class year's income in the 1870s. From a wealthy widow it is a pittance dressed as provision: enough to survive on, never enough to be free on.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p7",
+      "placement": "page",
+      "type": "context",
+      "quote": "the position of the ecclesiastical courts",
+      "title": "The ecclesiastical courts debate",
+      "note": "What the article is about. From Peter I's time the Orthodox Church judged its own sphere through consistory courts — clergy-run tribunals with jurisdiction over marriage, divorce and family morality — while the state's courts handled everything else. Alexander II's judicial reform of 1864 rebuilt the secular courts on modern, public lines and left the ecclesiastical system untouched; through the 1860s and 1870s jurists, churchmen and journalists argued over the gap — cut back the Church's jurisdiction over marriage and morals, restructure it, or defend it as the Church's essence.\n\nThat a natural-science student publishes on it is itself a provocation: Ivan enters a Church-and-state controversy from outside both camps.\n\nAnd the chapter records only the reception, never the argument: the Church party claims him, 'not only the secularists but even atheists joined them in their applause,' and the 'sagacious' call the whole thing burlesque. The verdict is sealed — the reader, like the monks, must wait for the author.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p7",
+      "placement": "page",
+      "type": "context",
+      "quote": "the Marshal of Nobility of the province",
+      "title": "The Marshal of Nobility",
+      "note": "Yefim Petrovitch's office. Under the provincial order created by Catherine II's reforms, each province's hereditary nobility elected a Marshal of Nobility (predvoditel dvoryanstva) to preside over its assembly and represent the estate to the government — by the 1870s a post of real local weight, habitually held by the province's leading landowners. The office instantly certifies the orphan boys' guardian as the province's first-among-gentry.\n\nAnd the chapter runs its ledgers against the appointment. From a drunk who will not pay, and a dead widow who paid grudgingly by will, the boys pass to this elected pillar of the nobility — who keeps the two thousand roubles 'intact,' spends far more than a thousand on each boy, and takes the younger into his own family. The novel pauses to certify one honest official; in this book that is a marked event.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "not only the secularists but even atheists joined them in their applause",
+      "label": "Everyone signs him",
+      "note": "Three readings arrive at once: our man, say the Church party; our man, say the atheists; satire, say the 'sagacious.' Dostoevsky builds Ivan's ambiguity into the prose itself — the article is written so every camp can claim it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "entering a Moscow gymnasium",
+      "label": "gymnasium",
+      "note": "not a hall for exercise: the classical secondary school of the German-Russian system, with Greek, Latin and mathematics, preparing boys for the university.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "at first giving sixpenny lessons",
+      "label": "sixpenny",
+      "note": "sixpence — a small English silver coin, half a shilling; Garnett's stand-in for kopeck-cheap. 'Sixpenny lessons': tutoring at the lowest going rate.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "so interesting and piquant",
+      "label": "piquant",
+      "note": "provocatively interesting — with a spice of the improper or scandalous about it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "an impudent satirical burlesque",
+      "label": "burlesque",
+      "note": "a mocking caricature that exaggerates something into ridicule; here, a serious argument read as deliberate parody of both sides.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p7",
+      "placement": "after",
+      "type": "idea",
+      "quote": "under the signature of “Eye-Witness.”",
+      "label": "The byline as a thesis",
+      "note": "Ivan's first signature is a claim about knowledge: he sees, he reports, he commits to nothing — street items at sixpence, then reviews, then the article every camp claims. Refused his own money ('formalities inevitable in Russia'), he never once asks the father who owes him — 'perhaps from pride, from contempt for him, or perhaps from his cool common sense,' the narrator offering three motives and choosing none. The chapter hands us Ivan complete except for the one thing that matters: what he believes. Even the name he gives himself says only that he was there.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p8",
+      "placement": "inline",
+      "type": "context",
+      "quote": "He had come from Paris, which was his permanent home.",
+      "label": "Miüsov, re-entering",
+      "note": "The first wife's cousin, mentioned before, now given his geography: home in Paris, income from a Russian estate, opinions Continental. Dostoevsky's standing type of the gentry liberal — civilized at a distance, and unable to place a man like Ivan in any of his categories ('What does he want here?').",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n32",
+      "anchor": "p8",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "compared himself in acquirements",
+      "label": "acquirements",
+      "note": "the older sense: accomplishments, learned skills and knowledge — not property acquired. Miüsov measures himself against Ivan in attainments, and loses.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n33",
+      "anchor": "p11",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "the reader will learn fully in due time",
+      "label": "The withheld card",
+      "note": "A secret is named, weighed — 'more concern to Dmitri than himself' — and locked away: the serial novelist's discipline, with the plot's engine kept just offstage. Readers of The Russian Messenger waited months between such promissory notes.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n34",
+      "anchor": "p13",
+      "placement": "inline",
+      "type": "term",
+      "quote": "the cassock of a novice",
+      "label": "Novice and 'hero'",
+      "note": "The cassock is the plain long robe; a novice (poslushnik in Russian — 'one under obedience') is on trial at the monastery, short of vows. And 'my hero' in that robe states the book's declared problem: centering a novel on a genuinely good man.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "This is the chapter where the narrator's method becomes an object of study in itself. At every load-bearing point he confesses the limits of his knowledge — 'I do not know the details' before the halter in the loft, 'I have not read the will myself' before quoting the will, 'so they say at least' of Ivan's infancy — and where knowledge fails he substitutes the town's wonder: the father-son harmony 'was a special cause of wonder to many others as well as to me.' Dostoevsky had experimented with chronicler-narrators before, most elaborately in The Possessed; here the device is gentler and stranger, a biographer of a family who knows it only as provincial towns know families — through report, notoriety, and the occasional half-hour raid. Even motive is given as a menu: Ivan never approaches his father for help 'perhaps from pride, from contempt for him, or perhaps from his cool common sense,' and no choice is made among the three. The refusal to choose is the method: the Karamazovs reach us already mediated by gossip, which is why, in this novel, performance and fact will keep trading places.",
+      "Sofya Ivanovna's story compresses the social history of the dependent woman into two paragraphs. A deacon's orphan of the clerical estate — a world of hereditary poverty and borrowed patronage — she is passed from a wealthy widow who is 'at once her benefactress and tormentor' to a husband who wants her because innocence has 'a peculiar attraction for a vicious profligate'; the narrator leaves her three exits, the halter, the river, and the wedding ('she would be better at the bottom of the river than remaining with her benefactress'), and calls none of them an exit. Her collapse into 'that kind of nervous disease which is most frequently found in peasant women who are said to be possessed by devils' deliberately shifts registers: the cruelties of a gentry marriage produce the village's demons — the klikushi, whom Dostoevsky had treated in the Writer's Diary not as folklore but as evidence of what Russian women endured. Against all of it stand two checks only: Grigory's unprecedented rebellion, a servant abusing his master in terms 'little befitting' his role, and the widow's eight-year surveillance from afar — itself poisoned by the theology of 'God has punished her for her ingratitude.'",
+      "Around the orphans stands the institutional Russia of forms, offices, and postscripts. The widow's will — a thousand roubles per boy, portioned out to last till twenty-one and pronounced 'more than adequate provision for such children' — encodes the law of minority, under which legacies to children sat in guardianship accumulating interest; and when the doubled sum must finally be released, 'formalities inevitable in Russia' delay it so that Ivan starves through his first university years on 'sixpenny lessons' and newspaper items. The cast list is institutional: an elected Marshal of Nobility as the honest guardian; the Moscow gymnasium and 'a teacher of genius'; the university; finally the press, with its crowd of 'needy and unfortunate students of both sexes who hang about the offices of the newspapers,' living on 'entreaties for copying and translations from the French.' This was the real economy of the educated poor after the reforms, known to Dostoevsky firsthand — translation was among his own first paid literary work — and Ivan's ascent along it, from sixpence to signed reviews to an article everyone claims, is a generation's social history folded into one paragraph.",
+      "The article on the ecclesiastical courts is constructed as a serial cliffhanger around a live controversy — the post-1864 argument over the Church's courts and their jurisdiction over marriage and morals — and the chapter withholds everything except its reception: 'Many of the Church party regarded him unquestioningly as on their side,' yet 'not only the secularists but even atheists joined them in their applause,' while sagacious persons pronounced it 'an impudent satirical burlesque'; and 'just then it was that the author himself made his appearance among us.' Readers of The Russian Messenger, where the novel was appearing through 1879–80, were made to wait exactly like the monks. Around this unreadable son the others are positioned by their inability to read him: Miüsov's ledger ('he will never be in want of pence'), the father's inexplicable obedience, the narrator's confessed unease — 'Why Ivan Fyodorovitch had come amongst us I remember asking myself at the time with a certain uneasiness.' And the chapter closes by announcing its true difficulty as one of genre: a hero who must be introduced 'wearing the cassock of a novice' — the problem Dostoevsky set himself in the Author's Preface, of putting a positively good man at the center of a novel."
+    ]
+  }
+}

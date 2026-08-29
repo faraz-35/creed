@@ -1,0 +1,333 @@
+{
+  "chapter": "01-01-02",
+  "annotator": {
+    "agent": "bk-annotator",
+    "date": "2026-08-29",
+    "rev": 1
+  },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "not from malice, nor because of his matrimonial grievances, but simply because he forgot him",
+      "label": "Not malice — oblivion",
+      "note": "The narrator's first diagnosis of Fyodor's harm: it isn't designed. He loses a son the way one loses a glove. The novel will keep distinguishing wickedness-with-a-plan from the commoner kind — damage done by sheer absence of attention.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a faithful servant of the family, Grigory, took the three-year-old Mitya into his care",
+      "label": "Grigory",
+      "note": "The Karamazovs' one faithful servant. He and his wife Marfa are the closest thing to parents any of the three sons gets; dour, exact in his duties, he is present in this house whenever anything goes wrong.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p1",
+      "placement": "after",
+      "type": "idea",
+      "quote": "He completely abandoned the child of his marriage with Adelaïda Ivanovna",
+      "label": "The accidental family",
+      "note": "In his Diary of a Writer, Dostoevsky had for years been attacking what he called the \"accidental family\" — households formed without vocation, in which children are by-products to be parked wherever is convenient — and resisting the liberal doctrine that \"environment\" explains and excuses a life. This chapter is that argument converted into bookkeeping: one child, four households in three paragraphs (Grigory's cottage, the Moscow cousin, her married daughter, \"I believe he changed his home a fourth time later on\"), and no parent anywhere. Note that the narrator assigns no blame — the relay itself is the indictment. In an accidental family neglect requires no villain; only inattention, of which the house's master has an inexhaustible supply.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a Liberal of the type common in the forties and fifties",
+      "label": "A man of the forties",
+      "note": "The Westernizing gentry generation of the 1840s — Belinsky's, Herzen's — survived into the novel's present as a fossil type: European manners, French opinions, liberal verities half-remembered. Dostoevsky, of the same cohort, enjoyed dissecting what the type decays into.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p2",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "He had known Proudhon and Bakunin personally",
+      "title": "Proudhon and Bakunin",
+      "note": "Two real men, the most famous European radicals of the century's middle years. Pierre-Joseph Proudhon (1809–1865), a French printer turned theorist, published \"What Is Property?\" in 1840 — \"Property is theft\" — and was the first writer to accept the label anarchist. Mikhail Bakunin (1814–1876), a Russian ex-artillery officer turned professional revolutionary, became the great anti-state rival of Marx inside the First International.\n\nThe name-drop is the characterization. Miüsov collects acquaintances the way he collects opinions — for display — and every credential he holds is proximity: he \"had known\" the men, \"almost taken part\" in the fighting. Dostoevsky knew this world from the inside of its consequences: arrested in 1849 in the Petrashevsky circle for reading forbidden literature, mock-executed on a Petersburg square, sent to Siberia. A liberal who nearly attended the barricades is, from that biography, a joke with teeth.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p2",
+      "placement": "page",
+      "type": "context",
+      "quote": "the three days of the Paris Revolution of February 1848",
+      "title": "The February Revolution of 1848",
+      "note": "Real, and exactly three days. On 22–24 February 1848 Paris rose — the immediate trigger was a crackdown on the reform \"banquets\" — the citizen-king Louis-Philippe abdicated and fled, and the Second Republic was proclaimed. Within weeks the shock had unseated or shaken governments across Europe.\n\nFor Russian liberals of Miüsov's generation the event arrived in fragments: Nicholas I's censors smothered the news and tightened the press. That made 1848 all the more magnetic — history had happened, almost within reach, and they had been prevented from attending. Miüsov's barricade \"hinting\" is the period's most common memoir inflation: proximity to the great days as a lifetime credential.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p2",
+      "placement": "page",
+      "type": "term",
+      "quote": "an independent property of about a thousand souls",
+      "title": "A thousand souls",
+      "note": "\"Souls\" (dushi) was the unit in which Russian landowners measured their wealth: the male serfs entered on the census rolls, human beings counted as estate inventory. A thousand souls was a substantial property — the kind that supports decades in Paris.\n\nThe narrator's \"to reckon in the old style\" does quiet work. Serfdom was abolished in 1861, and the novel's present is the 1860s; by then souls could only be a manner of speaking. That is the joke about Miüsov — his enlightened European opinions rest on a fortune assembled out of unfree labor. Gogol had already made the idiom immortal in Dead Souls (1842), where Chichikov trades in serfs dead but still on the rolls.\n\nNote, too, what the estate comes with: a border on the monastery's lands and an \"endless lawsuit\" over fish and timber. The quarrel gives Miüsov his standing stake in the monastery next door.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "open an attack upon the “clericals.”",
+      "label": "Anticlericalism, imported",
+      "note": "\"Clericals\" is French political vocabulary, from the church-versus-state battles of nineteenth-century France. Miüsov imports the cause wholesale — and its first application in his life is a lawsuit over fishing rights.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "I don’t know exactly which",
+      "label": "The chronicler's shrug",
+      "note": "The narrator ostentatiously declines to know whether the lawsuit was about fish or timber, because it doesn't matter: the suing is the habit, the object incidental. He keeps these hedges all through, showing the seams of his information.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "The story may have been exaggerated, yet it must have been something like the truth.",
+      "label": "How the chronicler knows",
+      "note": "His method in one sentence: report the anecdote, doubt it, keep it. Testimony is weighed, not omniscience claimed — the town-chronicle pose that makes a gossip's world feel documented.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "fond of acting, of suddenly playing an unexpected part, sometimes without any motive for doing so, and even to his own direct disadvantage",
+      "label": "Acting without motive",
+      "note": "The master key to Fyodor: performance as an end in itself, even self-harming. And the narrator at once universalizes it — \"a very great number of people, some of them very clever ones.\" The buffoon is a species, not an exception.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "term",
+      "quote": "joint guardian of the child",
+      "label": "Guardianship",
+      "note": "A formal legal arrangement: guardians administer an orphan's property and owe accounts for it. Joint guardianship here hands Fyodor shared control of exactly the money that isn't his — the position the inheritance plot will be worked from.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "he, too, forgot the child, especially when the Revolution of February broke out",
+      "label": "The relay of forgetting",
+      "note": "Every adult in Mitya's childhood finds a reason to drop him — a return to Paris, a death, a revolution. History is enlisted as the excuse for private negligence; February matters here chiefly as a distraction.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "grew up in the belief that he had property",
+      "label": "The expectation",
+      "note": "Mitya alone budgets his whole temperament on money he has never seen. The belief is not a detail of finance but the load-bearing wall of a life — and his father, as the next sentences show, knows it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "context",
+      "quote": "went to the Caucasus, was promoted, fought a duel",
+      "label": "A Caucasus officer",
+      "note": "The classic curriculum of the restless Russian officer: the long mountain wars made the Caucasus the place to win promotion, duel, and disgrace yourself — the frontier Pushkin, Lermontov and Tolstoy all wrote out of.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "a vague and exaggerated idea of his property",
+      "label": "Cultivated vagueness",
+      "note": "The trap's mechanism, which the narrator flags twice — \"(a fact worthy of note)… (this, too, should be noted)\": Mitya never extracts a statement of the estate's revenues, and Fyodor prefers him vague. An ignorant heir is cheap to satisfy.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "He gathered only that the young man was frivolous",
+      "label": "The father's shrewdness",
+      "note": "Fyodor's read of his son is exact — violent, impatient, buyable \"for a short time.\" The intelligence is real; he spends it entirely on small advantages. Judge how well he understands people, and what he does with that.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p4",
+      "placement": "after",
+      "type": "idea",
+      "quote": "the account of which forms the subject of my first introductory story, or rather the external side of it.",
+      "label": "External and internal",
+      "note": "The narrator signs his contract with the reader. What drives the book is an accounting dispute — a son who signed agreements he hadn't read, against a father who issued no statements — but here he will give only \"the external side\": facts first. \"Catastrophe\" carries its old dramatic sense — the overturn that ends the action — and so announces that a quarrel over money is being routed toward fate. The novel's whole method sits in that clause: chronicle outside, souls inside, and the second never reducible to the first.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a sink of debauchery",
+      "label": "sink",
+      "note": "older sense: a drain or cesspit — a place where filth collects. Not the modern kitchen sink.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "most grateful recollections",
+      "label": "grateful",
+      "note": "older sense: pleasant, welcome, agreeable (as in \"a grateful shade\"). The memory Miüsov most enjoys taking out and showing.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "pass into this cousin’s keeping",
+      "label": "keeping",
+      "note": "care, charge, custody. \"In someone's keeping\" = looked after by them; Mitya is handed about like a parcel in custody.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "studies at the gymnasium",
+      "label": "gymnasium",
+      "note": "in imperial Russia, the classical state secondary school (languages, history, mathematics) that prepared boys for university — nothing to do with a hall for exercise.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "coming of age",
+      "label": "coming of age",
+      "note": "reaching legal majority — the point at which a person takes control of their own property; for an orphan with an estate, the day the accounts come due.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "was degraded to the ranks",
+      "label": "degraded to the ranks",
+      "note": "stripped of his officer's commission and made to serve as an ordinary soldier — a standing punishment in the imperial army.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "impatient, and dissipated",
+      "label": "dissipated",
+      "note": "given over to drink, gambling and loose company; squandering health and money. The standard Victorian word for a fast life.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "small doles",
+      "label": "doles",
+      "note": "a dole: a small charitable handout, given grudgingly. Fyodor pays his heir like a beggar at the back door.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "almost beside himself",
+      "label": "beside himself",
+      "note": "out of his senses — \"beside\" in the old sense of \"outside\": carried out of himself by rage or grief.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "led to the catastrophe",
+      "label": "catastrophe",
+      "note": "in older English, the final overturn that ends a drama — the stage term. The narrator uses it for the disaster his story is driving toward, with both senses alive.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The chapter is Dostoevsky's opening brief in a controversy he had been prosecuting for a decade. In the Diary of a Writer he attacked what he called the \"accidental family\" — households formed without vocation, in which children are by-products to be parked wherever is convenient — and fought the liberal doctrine that \"environment\" explains and therefore excuses a life. Here the argument is conducted as bookkeeping, not polemic: one child, four households in three paragraphs (Grigory's cottage, the Moscow cousin, her married daughter, \"I believe he changed his home a fourth time later on\"), and no parent anywhere. The narrator assigns no blame, and that is the indictment: in an accidental family neglect requires no villain, only inattention — \"not from malice, nor because of his matrimonial grievances, but simply because he forgot him.\"",
+      "Miüsov arrives as a dated type pinned to real names. \"He had known Proudhon and Bakunin personally\"; he treasures \"the three days of the Paris Revolution of February 1848,\" \"hinting that he himself had almost taken part in the fighting on the barricades.\" Every credential is proximity — acquaintance, near-participation — and each name was real and famous: the author of \"Property is theft,\" the anarchist rival of Marx. Behind the joke stands the author's own history. Arrested in 1849 in the Petrashevsky circle, mock-executed on a Petersburg square, exiled to Siberia, Dostoevsky belonged to that generation with something at stake in it, and here draws a man who merely visited. The fortune beneath the opinions is counted \"in the old style\": \"about a thousand souls\" — serf-owners' arithmetic, deployed a decade and more after emancipation made it obsolete. The passage quietly demonstrates that liberalism can be one of the things an inherited estate affords.",
+      "The novel's conflict enters as paperwork. Guardianship — Miüsov and Fyodor appointed \"joint guardian of the child\" over \"a small property, a house and land, left him by his mother\" — is a legal wrapper that lets a guardian consume what he was appointed to protect; the son's coming of age issues in a settlement in which he cannot \"get a statement\" of revenues, signs \"various agreements\" unread, and discovers he may be the debtor. Constance Garnett's English keeps this institutional furniture legible rather than modernizing it — \"coming of age,\" \"degraded to the ranks,\" \"small doles, installments\" — with occasional transposition: her gymnasium is the Russian classical school, not a hall for exercise. The slightly stiff legal sound is not smoothing; the tragedy is being drafted in exactly this vocabulary, and the stiffness is data.",
+      "The chapter is also a demonstration of how the book will claim to know anything. The narrator is a local chronicler with visible seams: he does not know whether Miüsov's suit concerned \"fishing in the river or wood-cutting in the forest\"; the anecdote of Fyodor's blankness at the mention of a son \"may have been exaggerated, yet it must have been something like the truth\"; and he plants flags in his own text — \"(a fact worthy of note),\" \"(this, too, should be noted)\" — like a lawyer marking exhibits. What he defers is everything: \"I won't enlarge upon that now, as I shall have much to tell later.\" The last sentence issues the reader a contract — the catastrophe will be given as \"the external side of it,\" the internal side reserved. Accounts of sums first, account of souls later, and never confuse the two files: that is the method on which the whole chronicle will be run."
+    ]
+  }
+}

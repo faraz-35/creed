@@ -1,8 +1,9 @@
 # Pipeline plan — annotating the remaining chapters
 
-Status: **3 of 96 chapters done** (`01-02-02`, `01-02-05`, `01-02-08` — all
-Book II; 01-02-08 is the hand-made gold standard, the other two are
-wave-0 agent output that passed review). Observed cost: ~175k–700k
+Status: **6 of 96 chapters done** (`01-01-01`–`01-01-03` wave-1 agent output,
+passed validate + review; `01-02-02`, `01-02-05`, `01-02-08` — all Book II;
+01-02-08 is the hand-made gold standard, the other two are wave-0 agent output
+that passed review). Observed cost: ~175k–700k
 subagent tokens per chapter. Size waves to quota; the resume ledger
 (files on disk + `validate.py` + `index.json`) makes stopping free.
 

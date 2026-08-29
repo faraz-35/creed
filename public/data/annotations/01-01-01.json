@@ -1,0 +1,384 @@
+{
+  "chapter": "01-01-01",
+  "annotator": { "agent": "bk-annotator", "date": "2026-08-29", "rev": 1 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "before",
+      "type": "context",
+      "quote": "a land owner well known in our district in his own day",
+      "label": "A chronicler, not a novelist",
+      "note": "Orientation: the novel opens as a town chronicle, not a scene. The narrator is a local — 'our district' — writing thirteen years after Fyodor Pavlovitch's death, and promises the full story 'in its proper place.' Genealogy first: the father, then two marriages, three sons. Expect hearsay, rival versions, and corrections.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "term",
+      "quote": "Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch Karamazov",
+      "label": "Reading a Russian name",
+      "note": "Three parts: given name — patronymic (father's name + '-ovitch,' son of) — surname. Fyodor Pavlovitch is Fyodor, son of Pavel. Diminutives follow throughout the family: Alyosha for Alexey, Mitya for Dmitri.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "owing to his gloomy and tragic death, which happened thirteen years ago",
+      "label": "The ending, announced first",
+      "note": "Sentence one gives away the ending: Fyodor dies violently, and the whole book stands on the far side of that fact. Not a murder mystery — the death is announced before any scene, and the novel spends itself explaining what kind of family produces such a death.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n04",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "although he hardly spent a day of his life on his own estate",
+      "label": "A landowner in quotation marks",
+      "note": "The narrator's scare quotes do real work: the estate is capital, not a home. He dines off the district as a toady and converts connection into cash — gentry by title, parasite by occupation.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "but just senselessness, and a peculiar national form of it",
+      "label": "A national type",
+      "note": "Not stupidity, the narrator insists twice — these men are shrewd. Senselessness is a diagnosable national vice here: perfect calculation about money, none about anything else. Fyodor is being entered in a catalogue of Russian types, a habit Dostoevsky brought from his journalism.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "fastened on them as a toady",
+      "label": "toady",
+      "note": "a servile hanger-on who flatters the rich for a place at their table.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a type abject and vicious",
+      "label": "abject",
+      "note": "utterly degraded and contemptible; having lost all self-respect.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "fantastical fellows",
+      "label": "fantastical",
+      "note": "older sense: given to whims, fancies and crackpot schemes — dreamers and schemers (Dostoevsky's fantazery), not 'bizarre.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "he had a hundred thousand roubles in hard cash",
+      "label": "A hundred thousand roubles",
+      "note": "A fortune — in the 1870s a thousand roubles roughly supported a middle-class family for a year, so this is several lifetimes of income. And note the form: not land, not securities, but cash, hidden. The 'landowner' hoards liquidity.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "also landowners in our district, the Miüsovs",
+      "label": "The Miüsovs",
+      "note": "A rich, well-connected family — and the thread that leads to Pyotr Alexandrovitch Miüsov, the Paris-polished liberal relative who appears at the monastery gathering in Book II as this family's one presentable face.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n11",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "one of those vigorous, intelligent girls, so common in this generation",
+      "label": "Girls of 'this generation'",
+      "note": "The narrator thinks in generational types. 'This generation' means the educated, restless young women of the post-Emancipation decades, the 'woman question' — expressly conceded to be intelligent; his satire is saved for what gets done with borrowed ideas.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "the bold and ironical spirits of that progressive epoch",
+      "label": "Mistaking a buffoon for a progressive",
+      "note": "Her one grand error, staged by the epoch: in progressive light, insolence reads as freethinking. Fyodor's mockery of everything looked like the era's fashionable anti-establishment irony — the narrator's joke is that the age itself could not always tell the two apart.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p2",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "to be like Shakespeare’s Ophelia",
+      "title": "Ophelia and the picturesque suicide",
+      "note": "Hamlet, Act IV: Ophelia's drowning is never staged — it is reported, by Gertrude, as a picture: the brook, the crowflowers, the willow. Her death arrives already aestheticized, which is precisely what the narrator's anecdote is about.\n\nHis lady 'of the last \"romantic\" generation' chose her spot in advance — 'a chosen and favorite spot of hers' — and the narrator then runs the audit: 'if there had been a prosaic flat bank in its place, most likely the suicide would never have taken place.' Romantic feeling, scenery-dependent, is a script borrowed from literature: she perished 'entirely to satisfy her own caprice, and to be like Shakespeare's Ophelia.'\n\nNote the period resonance: Hamlet-mania was a Russian institution — Turgenev's 1860 essay 'Hamlet and Don Quixote' had made self-sceptical Hamletism a standing term of debate — and 'the last romantic generation' is the narrator's label for the cult of passionate feeling the next generation mocked and then repeated in its own idiom.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "invented insuperable obstacles to their union",
+      "label": "insuperable",
+      "note": "impossible to overcome — and note she had to invent them, because none existed.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "entirely to satisfy her own caprice",
+      "label": "caprice",
+      "note": "a sudden, unmotivated whim; something done for no reason beyond the impulse itself.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "What gave the marriage piquancy",
+      "label": "piquancy",
+      "note": "a spicy, stimulating sharpness — the extra tang that makes something interesting rather than dull.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "always of a voluptuous temper",
+      "label": "voluptuous",
+      "note": "older, broader sense: given to sensual indulgence of every kind — drink, food, ease, women — not the modern narrowed sense of 'curvaceous.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "ready to run after any petticoat",
+      "label": "petticoat",
+      "note": "period shorthand for a woman, seen dismissively — 'any petticoat' means any woman at all who gives encouragement.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p2",
+      "placement": "after",
+      "type": "idea",
+      "quote": "an echo of other people’s ideas",
+      "label": "The psychology of borrowed ideas",
+      "note": "The chapter's first law of human nature. Adelaïda's marriage, the narrator says, was 'no doubt, an echo of other people's ideas': a 'pliable imagination' recast her 'lack of mental freedom' as feminine independence, contempt for her family as the choice of a bold spirit. Nobody in Dostoevsky starts from scratch — feeling arrives ready-made, wearing an idea someone else wore first. The plot of this novel will be driven by exactly such secondhand ideas, in the sons as much as in the father's first wife.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "got hold of all her money up to twenty-five thousand roubles",
+      "label": "Twenty-five thousand roubles",
+      "note": "A quarter of the fortune he will die with (see p1), gone the moment she received it. The figure is precise because the town kept count — the narrator is drawing on a local archive of what 'is now known.'",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p3",
+      "placement": "page",
+      "type": "context",
+      "quote": "to transfer to his name, by means of some deed of conveyance",
+      "title": "A wife's money: dowry under Russian law",
+      "note": "Under Imperial Russian family law, a wife's property passed into her husband's hands on marriage; a woman could keep separate property only through a formal marriage contract — rarely signed, since executing one publicly announced distrust between the spouses.\n\nThat is why the cash and the real estate behave so differently in this paragraph. The twenty-five thousand roubles needed no more than receiving: he 'got hold of all her money... as soon as she received it.' The village and the town house, however, had to be moved by paperwork — the 'deed of conveyance' he pressed on her for years — and against paperwork her own family could fight him with the same machinery: the Miüsovs 'intervened and circumvented his greediness.'\n\nThe chapter's arithmetic of greed is thus legally exact. What he could simply take, he took; what required her signature, he had to beg for, wear down, and ultimately fail to get.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "persistent and shameless importunity",
+      "label": "importunity",
+      "note": "the act of pestering persistently — demanding again and again until the other side gives way from exhaustion.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "did not beat his wife but was beaten by her",
+      "label": "The rumor, inverted",
+      "note": "The chronicle's first version-war: the fights are 'known for a fact,' but their direction is only rumor. The town relishes the inversion — and the detail of her 'remarkable physical strength' — rather more than it would relish the truth.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "term",
+      "quote": "leaving Mitya, a child of three years old, in her husband’s hands",
+      "label": "Mitya",
+      "note": "The diminutive of Dmitri — the eldest son, named two paragraphs back. The abandoned three-year-old is the novel's Dmitri Fyodorovitch, handed over to the least fit guardian in the district.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "ran away from Fyodor Pavlovitch with a destitute divinity student",
+      "label": "The divinity student",
+      "note": "A seminarian: clergy sons, often penniless, proverbial figures of Russian fiction and scandal. For a wife of her rank this was the most humiliating exit available — not a lover of consequence but a poor student of theology.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "introduced a regular harem into the house",
+      "label": "'A regular harem'",
+      "note": "Period gossip vocabulary, borrowed orientalism: 'harem' for a household of kept women. The narrator relays the town's word — and 'regular' certifies that the whole district was talking.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "abandoned himself to orgies of drunkenness",
+      "label": "orgies",
+      "note": "older sense: wild, drunken revelry — the modern sexual meaning is secondary; the emphasis here is the drinking.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p3",
+      "placement": "after",
+      "type": "idea",
+      "quote": "to play the ridiculous part of the injured husband, and to parade his woes with embellishments",
+      "label": "Grief as a comic role",
+      "note": "Desertion is the best thing that ever happened to him, professionally. Fyodor converts his wife's flight into material: 'a new comic part,' a tour of the province, 'details too disgraceful for a husband to mention,' woes paraded 'with embellishments.' The scoffers' joke — 'One would think that you'd got a promotion' — sees him exactly. This is the buffoon's economy: nothing is quite felt until it can be performed, and the performance is for the district, not the wife. Keep the theatrical register in mind; it follows him to the monastery in Book II.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n29",
+      "anchor": "p4",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "Lord, now lettest Thou Thy servant depart in peace",
+      "title": "Simeon's prayer on a drunk man's lips",
+      "note": "The words are the Song of Simeon (Luke 2:29–32): the old man in the temple who, having held the infant Christ, asks to be released from waiting — 'Lord, now lettest thou thy servant depart in peace.' It is said at the close of Orthodox vespers, the prayer of completion; Garnett's cadence is the King James / Book of Common Prayer wording an English ear knows.\n\nFyodor, drunk in the street, hands raised 'to Heaven,' applies the prayer of a man who has seen salvation to the news that his wife is dead. It is blasphemy as farce — scripture requisitioned as a prop — and the most concentrated image of him in the chapter: release celebrated in the words of holiness.\n\nYet the same paragraph holds the counter-version open: he 'wept without restraint like a little child,' so much that people were sorry for him. The narrator refuses to choose between the two men, and the prayer and the weeping are allowed to be equally true.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "context",
+      "quote": "she had thrown herself into a life of complete emancipation",
+      "label": "'Complete emancipation'",
+      "note": "The buzzword of the era's woman question: freedom from marriage, class, convention. The narrator's dry verdict is the garret — emancipation as slogan, ending in typhus or starvation, depending on which version you take.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "died quite suddenly in a garret",
+      "label": "garret",
+      "note": "a wretched top-floor attic room — in Russian fiction, the standard address of Petersburg poverty.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n32",
+      "anchor": "p4",
+      "placement": "after",
+      "type": "idea",
+      "quote": "It is quite possible that both versions were true, that he rejoiced at his release, and at the same time wept for her who released him",
+      "label": "Both versions were true",
+      "note": "The narrator has reported his wife's death, his reaction, and even the manner of dying in rival versions — typhus or starvation, shouting with joy or weeping like a child — and then does the unjournalistic thing: he keeps both. Not indecision; method. Dostoevsky's people are built to hold contradictory feelings at the same instant and mean both, and the buffoon who prays Simeon's prayer over a dead wife and weeps for her is the novel's first exhibit. It is also the ground of the chapter's closing aphorism about how naïve even the wicked are.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n33",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "people, even the wicked, are much more naïve and simple-hearted than we suppose. And we ourselves are, too.",
+      "label": "The chapter's last word",
+      "note": "The narrator's anthropology in a line: wickedness is rarely diabolical — mostly it is childishness, vanity, borrowed feeling. Judge acts harshly, souls gently; the teller and the reader are included in the rule.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The novel opens as a county biography rather than a scene: 'a land owner well known in our district,' dead 'thirteen years ago,' the full account promised 'in its proper place.' Dostoevsky had spent the late 1870s in his Diary of a Writer arguing that the Russian gentry family had become 'accidental' — his recurring phrase, sluchainye semeistva, for households thrown together by whim and dissolved by flight — and Book I's title, 'The History of a Family,' announces exactly that case file. Its contents arrive in three paragraphs: an heiress who weds 'an ill-natured buffoon' on borrowed ideas, a dowry stripped 'up to twenty-five thousand roubles as soon as she received it,' a child of three abandoned 'in her husband's hands,' a garret death in Petersburg. The narrator handles it all like a local archivist, citing his sources — 'as is now known,' 'rumor had it,' 'according to one story... or as another version had it' — so that the family history arrives already weighted with the town's memory.",
+      "Fyodor Pavlovitch enters the book as a specimen rather than an individual: 'a strange type, yet one pretty frequently to be met with.' The taxonomic habit is the one Dostoevsky practiced in his journalism, where Russia is sorted into recognizable species; here the diagnosis is sharpened on purpose — not stupidity, since 'the majority of these fantastical fellows are shrewd and intelligent enough,' but 'senselessness, and a peculiar national form of it': perfect calculation about worldly affairs and none about anything else. The economics complete the portrait. An estate 'of the smallest,' a life spent dining 'at other men's tables' as 'a toady,' and at death 'a hundred thousand roubles in hard cash' — the scare quotes around 'landowner' register a gentry decoupled from land, its capital held as hoarded cash. And the type is a performer from the first: desertion supplies 'a new comic part,' 'the ridiculous part of the injured husband,' woes paraded 'with embellishments' before scoffers who ask whether he has 'got a promotion.'",
+      "The chapter's other target is the period's sorting of people — especially women — by generation. Adelaïda Ivanovna is 'one of those vigorous, intelligent girls, so common in this generation,' the diction of the woman-question debates Dostoevsky's own early-1860s journals had helped run; her marriage is then diagnosed as 'an echo of other people's ideas,' a 'pliable imagination' recasting 'lack of mental freedom' into phrases about independence, class distinctions, family despotism. Set against her is the anecdote of 'the last \"romantic\" generation': the young lady who drowned herself to be 'like Shakespeare's Ophelia' and, the narrator notes, would not have done it had there been 'a prosaic flat bank.' The satire aims at secondhand feeling, not at women's intelligence, which is expressly conceded; its sharpest point is the epoch's own blindness, since she could not distinguish a buffoon from 'one of the bold and ironical spirits of that progressive epoch.' The audit closes in Petersburg, where her 'life of complete emancipation' ends in a garret, of typhus or starvation, depending on the version.",
+      "Constance Garnett's 1912 translation sets registers an English reader should hear deliberately. Her 'buffoon' is the standing rendering of Dostoevsky's shut — a word of professional clowning rather than mere idiocy, exactly right for a man handed 'a new comic part' and an audience of scoffers — and 'fantastical fellows' preserves the older English sense of fantazery, men of whims and schemes. Her scare quotes on 'landowner,' 'for so we used to call him,' reproduce the narrator's own. When the drunk Fyodor lifts his hands to Heaven, Garnett reaches for the King James cadence of Simeon's prayer, 'Lord, now lettest Thou Thy servant depart in peace,' where a Russian reader hears the fixed text of vespers: in both languages the blasphemy is liturgical quotation requisitioned as farce. And the closing aphorism — 'people, even the wicked, are much more naïve and simple-hearted than we suppose. And we ourselves are, too.' — turns the chronicle's method of keeping rival versions into a rule for reading people, teller included."
+    ]
+  }
+}
