@@ -1,0 +1,19 @@
+{
+  "id": "karamazov",
+  "title": "The Brothers Karamazov",
+  "author": "Fyodor Dostoevsky",
+  "translator": "Constance Garnett (1912)",
+  "source": "Project Gutenberg eBook #28054",
+  "edition_label": "Garnett translation · 1912 · a reading edition",
+  "epigraph": {
+    "text": "Verily, verily, I say unto you, except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.",
+    "ref": "John xii. 24, the novel’s epigraph"
+  },
+  "foreign_label": "French",
+  "rights": "Garnett’s 1912 translation is in the public domain. The Project Gutenberg source file keeps its license header. The annotations and commentary in this directory are CC BY 4.0.",
+  "source_path": "source/pg28054.txt",
+  "pipeline": {
+    "gold_standard": "annotations/01-02-08.json",
+    "editorial": "- Show annotation IN PLACE: prefer inline (dotted-underline hover) notes wherever the note fits. Click-through only for deep material.\n- `before`: only when the reader needs orientation for the passage to land (a real event behind a joke, a custom being performed).\n- `after`: RESTRAINT. Only 2–4 per chapter, load-bearing analysis only. Never two blocks on one paragraph (merge instead). If the commentary already covers it, cut it.\n- `page`: 2–4 per chapter — foreign passages (with `original` + `render`), real cases, institutions, plays/poems. Deep, structured material. The reader surfaces these ONLY as a solid underline + ❯ in the text — never duplicate them as blocks or cards elsewhere.\n- `vocab` (type, placement inline): 8–12 per chapter. Words a strong non-native English reader half-knows: archaic/literary/period words, words whose older sense differs from the modern one, period objects. One-line dictionary definition in `note`, headword in `label`. NOT common words; when in doubt, leave it out.\n- Annotations must never mix with the actual text — never put commentary-length material in inline notes.\n- Target 25–35 annotations total per chapter.\n- Commentary — exactly one voice, `scholarly`, 4 paragraphs. Scholarship is the spine, the scene is the evidence: organize each paragraph around a scholarly subject (an institution, the decade’s press, a source, a literary cult, a translation issue) and cite this chapter’s specific moments inside it. Strictly chapter-specific — nothing generic that could be pasted into any chapter. No plot summary, no generic praise of the novel."
+  }
+}

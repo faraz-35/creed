@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "id": "karamazov",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "translator": "Constance Garnett (1912)",
+      "chapters": 96,
+      "annotated": 13
+    }
+  ]
+}

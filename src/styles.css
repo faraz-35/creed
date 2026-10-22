@@ -2,14 +2,14 @@
 
 @font-face {
   font-family: "Source Serif 4";
-  src: url("/fonts/SourceSerif4.ttf") format("truetype");
+  src: url("./fonts/SourceSerif4.ttf") format("truetype");
   font-weight: 200 900;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Source Serif 4";
-  src: url("/fonts/SourceSerif4-Italic.ttf") format("truetype");
+  src: url("./fonts/SourceSerif4-Italic.ttf") format("truetype");
   font-weight: 200 900;
   font-style: italic;
   font-display: swap;
@@ -168,6 +168,18 @@ button {
   text-overflow: ellipsis;
 }
 
+.book-link {
+  font-size: 12.5px;
+  font-weight: 560;
+  color: var(--text-dim);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.book-link:hover {
+  color: var(--accent);
+}
+
 .loc-dim {
   color: var(--text-faint);
 }
@@ -224,6 +236,7 @@ button {
   letter-spacing: -0.015em;
   margin: 28px 0 10px;
   font-variation-settings: "opsz" 60;
+  text-wrap: balance;
 }
 
 .home-author {
@@ -291,6 +304,56 @@ button {
   font-size: 12px;
   color: var(--text-faint);
   font-family: -apple-system, "SF Pro Text", system-ui, sans-serif;
+}
+
+/* ── library ───────────────────────────────────────── */
+
+.library .home-inner {
+  max-width: 640px;
+}
+
+.library-list {
+  margin-top: 44px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  text-align: left;
+}
+
+.library-book {
+  border: 1px solid var(--hairline);
+  border-radius: 14px;
+  padding: 26px 30px;
+  transition: border-color 0.15s ease;
+}
+.library-book:hover {
+  border-color: var(--accent);
+}
+
+.library-book-title {
+  font-size: clamp(26px, 4.5vw, 36px);
+  font-weight: 520;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+  margin-bottom: 7px;
+  font-variation-settings: "opsz" 40;
+  text-wrap: balance;
+}
+.library-book:hover .library-book-title {
+  color: var(--accent);
+}
+
+.library-book-author {
+  font-style: italic;
+  color: var(--text-dim);
+  font-size: 15px;
+  margin-bottom: 12px;
+}
+
+.library-book-meta {
+  font-family: -apple-system, "SF Pro Text", system-ui, sans-serif;
+  font-size: 12px;
+  color: var(--text-faint);
 }
 
 /* ── reader ────────────────────────────────────────── */

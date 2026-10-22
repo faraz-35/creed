@@ -1,55 +1,57 @@
 import type { ChapterMeta, Manifest } from "./types";
 import { loadProgress } from "./App";
 
-const EPIGRAPH =
-  "Verily, verily, I say unto you, except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.";
-const EPIGRAPH_REF = "— John xii. 24, the novel’s epigraph";
-
 export default function Home({
+  book,
   flat,
   manifest,
   annIndex,
 }: {
+  book: string;
   flat: ChapterMeta[];
   manifest: Manifest;
   annIndex: Set<string>;
 }) {
-  const saved = loadProgress();
+  const saved = loadProgress(book);
   const resume = saved ? flat.find((c) => c.file === saved.file) : null;
   const begin = flat[0];
+  const b = manifest.book;
 
   return (
     <div className="home">
       <div className="home-inner">
-        <div className="overline">Garnett translation · 1912 · a reading edition</div>
-        <h1 className="home-title">
-          The Brothers
-          <br />
-          Karamazov
-        </h1>
-        <div className="home-author">Fyodor Dostoevsky</div>
+        {b.edition_label && <div className="overline">{b.edition_label}</div>}
+        <h1 className="home-title">{b.title}</h1>
+        <div className="home-author">{b.author}</div>
 
-        <blockquote className="epigraph">
-          “{EPIGRAPH}”
-          <footer>{EPIGRAPH_REF}</footer>
-        </blockquote>
+        {b.epigraph && (
+          <blockquote className="epigraph">
+            “{b.epigraph.text}”
+            <footer>— {b.epigraph.ref}</footer>
+          </blockquote>
+        )}
 
         <div className="home-actions">
           {resume && (
-            <a className="btn primary" href={`#/c/${resume.file}`}>
+            <a
+              className="btn primary"
+              href={`#/b/${book}/c/${resume.file}`}
+            >
               Continue — ch. {resume.roman}. {resume.title}
             </a>
           )}
           {begin && (
-            <a className={"btn" + (resume ? "" : " primary")} href={`#/c/${begin.file}`}>
+            <a
+              className={"btn" + (resume ? "" : " primary")}
+              href={`#/b/${book}/c/${begin.file}`}
+            >
               Begin reading
             </a>
           )}
         </div>
 
         <div className="home-meta">
-          {flat.length} chapters · {manifest.book.translator} · text:{" "}
-          {manifest.book.source}
+          {flat.length} chapters · {b.translator} · text: {b.source}
           <br />
           {annIndex.size} chapter{annIndex.size === 1 ? "" : "s"} annotated —
           notes, translations &amp; commentary grow chapter by chapter

@@ -5,7 +5,7 @@ import type {
   ChapterDoc,
   ChapterMeta,
 } from "./types";
-import { TYPE_LABEL, VOICE_LABEL } from "./types";
+import { typeLabel, VOICE_LABEL } from "./types";
 import { loadProgress, saveProgress } from "./App";
 
 const CONFIDENCE_GLYPH: Record<string, string> = {
@@ -23,7 +23,12 @@ const PLACEMENT_LABEL: Record<string, string> = {
 
 /** Wrap the exact quote inside a rendered paragraph with a span.
  * Works across element boundaries (e.g. a quote crossing an <em>). */
-function wrapQuote(p: HTMLElement, a: Annotation, cls: string) {
+function wrapQuote(
+  p: HTMLElement,
+  a: Annotation,
+  cls: string,
+  foreignLabel?: string
+) {
   if (p.querySelector(`[data-aid="${a.id}"]`)) return; // idempotent
   const walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT, {
     acceptNode: (n) => {
@@ -65,7 +70,7 @@ function wrapQuote(p: HTMLElement, a: Annotation, cls: string) {
     pop.className = "ann-pop";
     const chip = document.createElement("span");
     chip.className = "ann-pop-type";
-    chip.textContent = `${TYPE_LABEL[a.type]} · ${a.confidence}`;
+    chip.textContent = `${typeLabel(a.type, foreignLabel)} · ${a.confidence}`;
     const body = document.createElement("span");
     body.className = "ann-pop-body";
     body.textContent = a.label ? `${a.label} — ${a.note}` : a.note;
@@ -87,11 +92,17 @@ function wrapQuote(p: HTMLElement, a: Annotation, cls: string) {
 }
 
 export default function Reader({
+  book,
   file,
   flat,
+  multiPart,
+  foreignLabel,
 }: {
+  book: string;
   file: string;
   flat: ChapterMeta[];
+  multiPart: boolean;
+  foreignLabel?: string;
 }) {
   const [doc, setDoc] = useState<ChapterDoc | null>(null);
   const [ann, setAnn] = useState<AnnotationsDoc | null>(null);
@@ -99,7 +110,7 @@ export default function Reader({
   const [pct, setPct] = useState(0);
   const [clean, setClean] = useState(false);
   const [spoilers, setSpoilers] = useState(
-    () => localStorage.getItem("bk.spoilers") === "1"
+    () => localStorage.getItem(`creed.spoilers.${book}`) === "1"
   );
   const [revealed, setRevealed] = useState<Set<string>>(new Set());
   const [openPage, setOpenPage] = useState<Annotation | null>(null);
@@ -116,18 +127,18 @@ export default function Reader({
     setErr(null);
     setOpenPage(null);
     Promise.all([
-      fetch(`/data/chapters/${file}`).then((r) => {
+      fetch(`books/${book}/chapters/${file}`).then((r) => {
         if (!r.ok) throw new Error(`chapter ${file}: ${r.status}`);
         return r.json();
       }),
-      fetch(`/data/annotations/${file}`)
+      fetch(`books/${book}/annotations/${file}`)
         .then((r) => (r.ok ? r.json() : null))
         .catch(() => null),
     ])
       .then(([d, a]) => {
         setDoc(d);
         setAnn(a);
-        const saved = loadProgress();
+        const saved = loadProgress(book);
         if (saved && saved.file === file && saved.pct > 0.01) {
           requestAnimationFrame(() => {
             const h =
@@ -139,11 +150,11 @@ export default function Reader({
         }
       })
       .catch((e) => setErr(String(e)));
-  }, [file]);
+  }, [book, file]);
 
   useEffect(() => {
-    localStorage.setItem("bk.spoilers", spoilers ? "1" : "0");
-  }, [spoilers]);
+    localStorage.setItem(`creed.spoilers.${book}`, spoilers ? "1" : "0");
+  }, [spoilers, book]);
 
   // scroll: hairline progress
   useEffect(() => {
@@ -165,11 +176,11 @@ export default function Reader({
   useEffect(() => {
     window.clearTimeout(saveTimer.current);
     saveTimer.current = window.setTimeout(
-      () => saveProgress(file, pct),
+      () => saveProgress(book, file, pct),
       400
     ) as unknown as number;
     return () => window.clearTimeout(saveTimer.current);
-  }, [pct, file]);
+  }, [pct, book, file]);
 
   // reading keys
   useEffect(() => {
@@ -185,14 +196,16 @@ export default function Reader({
           top: -window.innerHeight * 0.7,
           behavior: "smooth",
         });
-      else if (e.key === "n" && next) location.hash = `#/c/${next.file}`;
-      else if (e.key === "p" && prev) location.hash = `#/c/${prev.file}`;
+      else if (e.key === "n" && next)
+        location.hash = `#/b/${book}/c/${next.file}`;
+      else if (e.key === "p" && prev)
+        location.hash = `#/b/${book}/c/${prev.file}`;
       else if (e.key === "a") setClean((v) => !v);
       else if (e.key === "s") setSpoilers((v) => !v);
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [next, prev]);
+  }, [next, prev, book]);
 
   const byAnchor = useMemo(() => {
     const m = new Map<string, Annotation[]>();
@@ -222,7 +235,7 @@ export default function Reader({
           : a.type === "vocab"
             ? "ann-vocab"
             : "ann-inline";
-      wrapQuote(p, a, cls);
+      wrapQuote(p, a, cls, foreignLabel);
     }
     const onClick = (e: MouseEvent) => {
       const t = (e.target as HTMLElement).closest(
@@ -252,7 +265,7 @@ export default function Reader({
           parent.normalize();
         });
     };
-  }, [doc, ann, clean]);
+  }, [doc, ann, clean, foreignLabel]);
 
   if (err)
     return (
@@ -292,7 +305,8 @@ export default function Reader({
         <div className="chapter-col">
           <header className="chapter-head">
             <div className="book-label">
-              Part {doc.part} · {doc.book_roman}. {doc.book_title}
+              {multiPart && `Part ${doc.part} · `}
+              {doc.book_roman}. {doc.book_title}
             </div>
             <h1 className="chapter-title">
               <span className="chapter-roman">{doc.roman}.</span> {doc.title}
@@ -324,7 +338,12 @@ export default function Reader({
                 <div key={p.id} className="para-wrap">
                   {!clean &&
                     before.map((a) => (
-                      <NoteBlock key={a.id} a={a} kind="before" />
+                      <NoteBlock
+                        key={a.id}
+                        a={a}
+                        kind="before"
+                        foreignLabel={foreignLabel}
+                      />
                     ))}
                   <p
                     className={i === 0 ? "first" : undefined}
@@ -333,7 +352,12 @@ export default function Reader({
                   />
                   {!clean &&
                     after.map((a) => (
-                      <NoteBlock key={a.id} a={a} kind="after" />
+                      <NoteBlock
+                        key={a.id}
+                        a={a}
+                        kind="after"
+                        foreignLabel={foreignLabel}
+                      />
                     ))}
                 </div>
               );
@@ -369,7 +393,7 @@ export default function Reader({
 
           <nav className="chapter-nav">
             {prev ? (
-              <a className="nav-link prev" href={`#/c/${prev.file}`}>
+              <a className="nav-link prev" href={`#/b/${book}/c/${prev.file}`}>
                 <span className="nav-dir">← p</span>
                 <span className="nav-title">{prev.title}</span>
               </a>
@@ -377,7 +401,7 @@ export default function Reader({
               <span />
             )}
             {next ? (
-              <a className="nav-link next" href={`#/c/${next.file}`}>
+              <a className="nav-link next" href={`#/b/${book}/c/${next.file}`}>
                 <span className="nav-dir">n →</span>
                 <span className="nav-title">{next.title}</span>
               </a>
@@ -393,7 +417,7 @@ export default function Reader({
           <div className="page-sheet" onClick={(e) => e.stopPropagation()}>
             <div className="page-head">
               <span className="overline">
-                {TYPE_LABEL[openPage.type]} · reference page
+                {typeLabel(openPage.type, foreignLabel)} · reference page
               </span>
               <button className="icon-btn" onClick={() => setOpenPage(null)}>
                 ✕
@@ -440,9 +464,11 @@ export default function Reader({
 function NoteBlock({
   a,
   kind,
+  foreignLabel,
 }: {
   a: Annotation;
   kind: "before" | "after";
+  foreignLabel?: string;
 }) {
   return (
     <div className={"note-block " + kind}>
@@ -450,7 +476,9 @@ function NoteBlock({
         <span className="nb-kind">
           {kind === "before" ? "before you read" : "after you read"}
         </span>
-        <span className={"chip t-" + a.type}>{TYPE_LABEL[a.type]}</span>
+        <span className={"chip t-" + a.type}>
+          {typeLabel(a.type, foreignLabel)}
+        </span>
         <span className="confidence" title={"confidence: " + a.confidence}>
           {CONFIDENCE_GLYPH[a.confidence]}
         </span>

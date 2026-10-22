@@ -1,12 +1,20 @@
 #!/usr/bin/env python3
-"""Split the Gutenberg Garnett text into per-chapter JSON files.
+"""Split a book's source text into per-chapter JSON files.
 
-Deterministic: same input -> same output. Every paragraph gets a stable id
-("p1", "p2", ...) that the annotation layer anchors to.
+Usage: split.py <book_id>
 
-Output:
-  public/data/manifest.json
-  public/data/chapters/<part>-<book>-<chap>.json   (epilogue: ep-<chap>.json)
+Reads the book's config (public/books/<book_id>/book.json) for metadata
+and the source file, and writes:
+  public/books/<book_id>/manifest.json       (TOC + presentation fields)
+  public/books/<book_id>/chapters/<id>.json  (part-book-chapter ids)
+
+Deterministic: same input -> same output. Every paragraph gets a stable
+id ("p1", "p2", ...) that the annotation layer anchors to.
+
+The parser understands the Project Gutenberg layout of classic novels:
+"PART n" / "Book n. Title" / "Chapter n." headers, _italics_ markup. A
+book from a different kind of source needs its own import pass; the
+manifest + chapter schema below is the contract the reader expects.
 """
 import json
 import re
@@ -14,9 +22,6 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-RAW = ROOT / "texts" / "raw" / "pg28054.txt"
-OUT_CH = ROOT / "public" / "data" / "chapters"
-OUT_MANIFEST = ROOT / "public" / "data" / "manifest.json"
 
 ROMAN = "IVXLC"
 
@@ -35,15 +40,24 @@ def para_html(p: str) -> str:
 
 
 def main() -> None:
-    text = RAW.read_text(encoding="utf-8")
+    if len(sys.argv) != 2:
+        sys.exit("usage: split.py <book_id>")
+    book_dir = ROOT / "public" / "books" / sys.argv[1]
+    cfg_path = book_dir / "book.json"
+    if not cfg_path.exists():
+        sys.exit(f"no book.json in {book_dir}")
+    cfg = json.loads(cfg_path.read_text(encoding="utf-8"))
+    raw = book_dir / cfg["source_path"]
+    out_ch = book_dir / "chapters"
+    out_manifest = book_dir / "manifest.json"
+
+    text = raw.read_text(encoding="utf-8")
     # Strip Gutenberg boilerplate.
     start = text.index("*** START OF THE PROJECT GUTENBERG EBOOK")
     start = text.index("\n", start) + 1
     end = text.index("*** END OF THE PROJECT GUTENBERG EBOOK")
     text = text[start:end].strip("\n")
 
-    # The novel's epigraph sits between the author's note and PART I; capture it
-    # separately by finding the epigraph page marker.
     lines = text.splitlines()
 
     part_re = re.compile(r"^PART ([IVX]+)\s*$")
@@ -59,12 +73,10 @@ def main() -> None:
     chapters: list[dict] = []  # every chapter, flat, in order
     epilogue_books = None
 
-    i = 0
     # Preface: everything before the first PART header is "From the Author".
     first_part = next(
         n for n, l in enumerate(lines) if part_re.match(l.strip())
     )
-    preface_block = "\n".join(lines[:first_part]).strip()
 
     for n in range(first_part, len(lines)):
         l = lines[n].strip()
@@ -140,7 +152,6 @@ def main() -> None:
         )
 
     # Assign chapter numbers within book + global order.
-    book_counters: dict[str, int] = {}
     manifest_parts = []
     flat = []
     order = 0
@@ -164,17 +175,21 @@ def main() -> None:
             mp["books"].append(mb)
         manifest_parts.append(mp)
 
-    OUT_CH.mkdir(parents=True, exist_ok=True)
-    manifest = {
-        "book": {
-            "title": "The Brothers Karamazov",
-            "author": "Fyodor Dostoevsky",
-            "translator": "Constance Garnett (1912)",
-            "source": "Project Gutenberg eBook #28054",
-        },
-        "parts": manifest_parts,
+    out_ch.mkdir(parents=True, exist_ok=True)
+    # The manifest's book block is the app-facing contract: identity plus
+    # the presentation fields (edition label, epigraph, foreign-language
+    # label) merged in from the curated book.json.
+    book_block = {
+        "title": cfg["title"],
+        "author": cfg["author"],
+        "translator": cfg["translator"],
+        "source": cfg["source"],
     }
-    OUT_MANIFEST.write_text(
+    for key in ("edition_label", "epigraph", "foreign_label"):
+        if cfg.get(key) is not None:
+            book_block[key] = cfg[key]
+    manifest = {"book": book_block, "parts": manifest_parts}
+    out_manifest.write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
@@ -198,18 +213,18 @@ def main() -> None:
             "book_roman": c["book_roman"],
             "book_title": c["book_title"],
             "n": entry["n"],
-            "roman": entry["roman"],
-            "title": entry["title"],
+            "roman": c["roman"],
+            "title": c["title"],
             "paragraphs": [
                 {"id": f"p{i+1}", "html": para_html(t)} for i, t in enumerate(paras)
             ],
         }
-        (OUT_CH / entry["file"]).write_text(
+        (out_ch / entry["file"]).write_text(
             json.dumps(doc, ensure_ascii=False, indent=2), encoding="utf-8"
         )
 
     total_paras = sum(
-        len((OUT_CH / e["file"]).read_text(encoding="utf-8").split('"id":')) - 1
+        len((out_ch / e["file"]).read_text(encoding="utf-8").split('"id":')) - 1
         for e, _ in flat
     )
     print(f"parts={len(parts)} books={sum(len(p['books']) for p in parts)} chapters={len(flat)} paragraphs={total_paras}")

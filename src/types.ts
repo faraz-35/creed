@@ -24,8 +24,25 @@ export interface Manifest {
     author: string;
     translator: string;
     source: string;
+    edition_label?: string;
+    epigraph?: { text: string; ref: string };
+    foreign_label?: string;
   };
   parts: Part[];
+}
+
+/** One row of public/books.json — the catalog of every book on the shelf. */
+export interface CatalogEntry {
+  id: string;
+  title: string;
+  author: string;
+  translator: string;
+  chapters: number;
+  annotated: number;
+}
+
+export interface Catalog {
+  books: CatalogEntry[];
 }
 
 export interface Paragraph {
@@ -79,8 +96,8 @@ export interface AnnotationsDoc {
   commentary: Record<string, string[]>;
 }
 
-export const TYPE_LABEL: Record<NoteType, string> = {
-  foreign: "French",
+const TYPE_LABEL: Record<NoteType, string> = {
+  foreign: "Foreign",
   allusion: "Allusion",
   context: "Context",
   translation: "Translation",
@@ -88,6 +105,11 @@ export const TYPE_LABEL: Record<NoteType, string> = {
   idea: "Idea",
   vocab: "Word",
 };
+
+/** Label for a note type; the foreign-language label comes from the book. */
+export function typeLabel(t: NoteType, foreignLabel?: string): string {
+  return t === "foreign" && foreignLabel ? foreignLabel : TYPE_LABEL[t];
+}
 
 export const VOICE_LABEL: Record<string, string> = {
   correader: "Co-reader",

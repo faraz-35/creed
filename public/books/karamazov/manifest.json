@@ -3,7 +3,13 @@
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoevsky",
     "translator": "Constance Garnett (1912)",
-    "source": "Project Gutenberg eBook #28054"
+    "source": "Project Gutenberg eBook #28054",
+    "edition_label": "Garnett translation · 1912 · a reading edition",
+    "epigraph": {
+      "text": "Verily, verily, I say unto you, except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.",
+      "ref": "John xii. 24, the novel’s epigraph"
+    },
+    "foreign_label": "French"
   },
   "parts": [
     {

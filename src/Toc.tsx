@@ -1,16 +1,19 @@
 import type { Manifest } from "./types";
 
 export default function Toc({
+  book,
   manifest,
   currentFile,
   annIndex,
   onClose,
 }: {
+  book: string;
   manifest: Manifest;
   currentFile: string | null;
   annIndex: Set<string>;
   onClose: () => void;
 }) {
+  const multiPart = manifest.parts.length > 1;
   return (
     <div className="overlay" onClick={onClose}>
       <div className="toc" onClick={(e) => e.stopPropagation()}>
@@ -22,7 +25,9 @@ export default function Toc({
         </div>
         {manifest.parts.map((p) => (
           <div key={p.n} className="toc-part">
-            <div className="toc-part-title">Part {p.roman}</div>
+            {multiPart && (
+              <div className="toc-part-title">Part {p.roman}</div>
+            )}
             {p.books.map((b) => (
               <div key={b.roman} className="toc-book">
                 <div className="toc-book-title">
@@ -31,7 +36,7 @@ export default function Toc({
                 {b.chapters.map((c) => (
                   <a
                     key={c.file}
-                    href={`#/c/${c.file}`}
+                    href={`#/b/${book}/c/${c.file}`}
                     className={
                       "toc-row" + (c.file === currentFile ? " current" : "")
                     }
