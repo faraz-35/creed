@@ -1,0 +1,388 @@
+{
+  "chapter": "01-01-05",
+  "annotator": {
+    "agent": "bk-annotator",
+    "date": "2026-08-29",
+    "rev": 2
+  },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a sickly, ecstatic, poorly developed creature",
+      "label": "ecstatic",
+      "note": "in the older religious sense: rapt out of oneself in trance or vision — the aura of the saint and the hysteric, not the modern ‘delighted.’",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a pale, consumptive dreamer",
+      "label": "consumptive",
+      "note": "suffering from consumption — tuberculosis, whose pale victims were the century’s stock romantic image.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "The Apostle Thomas said that he would not believe till he saw",
+      "label": "John 20:24–29",
+      "note": "Doubting Thomas: he demands to touch the wounds, and seeing, cries ‘My Lord and my God!’ Christ’s answer — blessed are those who have not seen — is the verse beneath the narrator’s inversion here.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "Faith does not, in the realist, spring from the miracle but the miracle from faith.",
+      "label": "Miracle from faith",
+      "note": "The chapter’s thesis and Dostoevsky’s own conviction: proof does not produce belief; belief produces what counts as proof. Alyosha’s belief in miracles does not override his realism — it directs it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a youth of our last epoch",
+      "label": "The last epoch",
+      "note": "The newest generation — the honest, truth-hungry young of the 1860s–70s, whom Dostoevsky spent his Diary of a Writer lecturing: eager for ‘immediate action,’ contemptuous of slow preparation.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "Give all that thou hast to the poor and follow Me, if thou wouldst be perfect.",
+      "label": "Matthew 19:21",
+      "note": "Christ’s word to the rich young man. Alyosha takes it literally — hence his refusal, next paragraph, to give ‘two roubles’ instead of ‘all.’ This quotation is the hinge of his whole path.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p2",
+      "placement": "page",
+      "type": "idea",
+      "quote": "the tower of Babel built without God",
+      "title": "Socialism as ‘the atheistic question’",
+      "note": "The narrator’s formula — socialism is ‘before all things the atheistic question, the question of the tower of Babel built without God, not to mount to heaven from earth but to set up heaven on earth’ — is Dostoevsky’s own polemic, not a character’s opinion. He had run it for twenty years: against French socialism in Winter Notes on Summer Impressions (1863), against the Crystal Palace rationalism of the 1860s in Notes from Underground (1864), and through the Diary of a Writer of the 1870s.\n\nNote what the counterfactual claims: Alyosha, deciding that God and immortality do not exist, ‘would at once have become an atheist and a socialist.’ The pious novice and the radical are one psychological type — same truth-hunger, same demand for ‘immediate action’ — with the engine reversed. For Dostoevsky, Russia does not choose between faith and socialism; the same thirst drives both.\n\nAnd the tower points forward. In Book V, Ivan’s Grand Inquisitor builds ‘heaven on earth’ as a deliberate program — the polemic’s final form, put in the mouth of the atheist’s own imagination.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n08",
+      "anchor": "p2",
+      "placement": "after",
+      "type": "idea",
+      "quote": "The path Alyosha chose was a path going in the opposite direction, but he chose it with the same thirst for swift achievement.",
+      "label": "Alyosha, mirror of the radicals",
+      "note": "Dostoevsky’s key move: Alyosha is not the opposite of the era’s radicals but their sibling. Same truth-hunger, same demand for immediate action, same readiness to give everything — plus the narrator’s stinging diagnosis of young men who can sacrifice their lives more easily than ‘five or six years of their seething youth to hard and tedious study.’ Written by a man who had given ten years of his own to Siberia, and addressed, in his Diary of a Writer voice, to the generation then producing Russia’s terrorists. The novel’s wager is that the same energy, turned, becomes sainthood.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "the Tartars, civil war, the interruption of relations with the East after the destruction of Constantinople",
+      "label": "Why eldership lapsed",
+      "note": "The narrator’s chronology of the lapse: the Mongol (‘Tartar’) invasion from the thirteenth century, Russia’s internal wars, and the Ottoman capture of Constantinople in 1453, which cut the Russian Church off from Greek monasticism’s heartland.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "wonder-working ikons",
+      "label": "ikon",
+      "note": "an Orthodox sacred image of Christ, the Mother of God, or a saint, kissed and venerated — not the modern ‘icon’; ‘wonder-working’ means credited with miracles.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "relics of saints",
+      "label": "relics",
+      "note": "the bodily remains of a saint, preserved and venerated as channels of grace — a monastery’s chief prestige asset, as this one’s lacks.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p3",
+      "placement": "page",
+      "type": "context",
+      "quote": "It flourished especially in the celebrated Kozelski Optin Monastery.",
+      "title": "The elder, and Optina Pustyn",
+      "note": "‘Elder’ translates starets — not simply an old monk but a spiritual father to whom others, laymen included, yield their will and confess their thoughts. The chapter’s own definition (‘took your soul, your will, into his soul and his will’) is the accurate one.\n\nThe history the narrator gives is real. Eldership was revived for Russia by Païssy Velitchkovsky (1722–1794), the Ukrainian-born Athonite whose Slavonic translation of the Philokalia became the movement’s textbook; his disciples planted it in Russian monasteries at the very end of the eighteenth century — hence ‘not more than a hundred years old.’ Optina Pustyn, near the town of Kozelsk (the ‘Kozelski Optin Monastery’), began its continuous line of elders in the late 1820s and became the institution’s Russian capital, drawing pilgrims from every province — Gogol in 1850, Tolstoy later.\n\nDostoevsky knew it firsthand: in June 1878, weeks after the death of his three-year-old son Alyosha, he traveled to Optina with the philosopher Vladimir Solovyov and consulted Elder Ambrose (1812–1891), the recognized prototype of Zossima. Even the fictional monastery’s self-description — ‘neither relics of saints, nor wonder-working ikons, nor glorious traditions’ — carries Optina’s argument: its prestige was living holiness, not objects.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "This novitiate, this terrible school of abnegation",
+      "label": "novitiate",
+      "note": "the period of trial and training before monastic vows; here extended to any submission to an elder.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "complete self-abnegation",
+      "label": "self-abnegation",
+      "note": "total renunciation of one’s own will and wishes — negation of the self as a discipline.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "after a life of obedience, to attain perfect freedom, that is, from self",
+      "label": "Freedom from self",
+      "note": "The paradox at the chapter’s center: yield your will completely in order to become free of your own ego — the one slavery the novel rates worse than any submission to an elder.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p5",
+      "placement": "inline",
+      "type": "context",
+      "quote": "Depart all ye unbaptized",
+      "label": "The catechumens’ dismissal",
+      "note": "In the early Church the unbaptized — catechumens — were ordered out before the Eucharist. The deacon’s cry is the legend’s hinge: the martyr’s coffin is cast out with them, the Church itself expelling the unforgiven body.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p5",
+      "placement": "page",
+      "type": "context",
+      "quote": "the coffin containing the martyr’s body left its place and was cast forth from the church",
+      "title": "Obedience outranks martyrdom: the chapter’s two tales",
+      "note": "Two anecdotes are offered as evidence, and both belong to the anecdote literature of monastic obedience — the Paterika and Desert Fathers collections and their descendants, in which keeping obedience habitually outranks martyrdom itself. The text itself distinguishes them: the coffin tale is ‘only an old legend,’ the Athonite story a ‘recent instance.’\n\nThe Syrian novice who left his elder, won a martyr’s crown in Egypt, and whose coffin is cast out of the church three times at the deacon’s cry carries the sterner claim: broken obedience voids even martyrdom — he ‘could not be forgiven without the elder’s absolution.’ The Athonite ordered to Jerusalem and Siberia carries the constitutional one: faced with the Œcumenical Patriarch, ‘not only was he unable to release him’ — the elder’s binding outranks every power on earth.\n\nDostoevsky knows how these stories strike modern ears, and builds his apologia like a defense that concedes the prosecution’s best point: the next paragraph quotes the critics’ real charge (‘the sacrament of confession was being arbitrarily and frivolously degraded’), and the essay closes by admitting the instrument ‘may be a two-edged weapon.’ The order is deliberate: strongest case first, then the audit.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "term",
+      "quote": "commanded by his elder to quit Athos",
+      "label": "Athos",
+      "note": "the ‘Holy Mountain’ — the monastic peninsula in Greece, Orthodoxy’s most revered community of monks and the wellspring of Russian eldership.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "term",
+      "quote": "went to the Œcumenical Patriarch at Constantinople",
+      "label": "Œcumenical Patriarch",
+      "note": "the Patriarch of Constantinople, honorarily first among Orthodox bishops. If even he cannot loose a monk from his elder, the elder’s authority stands above the Church’s whole hierarchy.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "to do homage to the Holy Places",
+      "label": "homage",
+      "note": "reverent veneration or tribute; here, a pilgrim’s worship at the biblical sites of Jerusalem.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "besought him to release him",
+      "label": "besought",
+      "note": "archaic past of beseech: begged, implored.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p6",
+      "placement": "after",
+      "type": "idea",
+      "quote": "may be a two-edged weapon and it may lead some not to humility and complete self-control but to the most Satanic pride, that is, to bondage and not to freedom",
+      "label": "The apologia ends with an audit",
+      "note": "The essay’s last sentence refuses to sell eldership as safe, and its danger is stated precisely: submission that produces ‘the most Satanic pride’ is bondage wearing obedience’s costume — pride masquerading as renunciation. The failure mode is not that the institution breaks but that it works too well: power over souls, even holy power, can corrupt its holder. Against it the chapter has already set Zossima’s own practice — Alyosha ‘was bound by no obligation and could go where he pleased.’ The reader is left holding both descriptions, and the novel intends exactly that.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "context",
+      "quote": "served in the Caucasus as an officer",
+      "label": "The officer turned monk",
+      "note": "A worldly biography — estates, the army, the Caucasus — of the standard stamp of the soldier-turned-monk. Zossima’s full story, the duel and the slap, is told by himself in Book VI, The Russian Monk.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n24",
+      "anchor": "p8",
+      "placement": "inline",
+      "type": "context",
+      "quote": "one, for instance, of the older monks distinguished for his strict keeping of fasts and vows of silence",
+      "label": "The great faster",
+      "note": "Father Ferapont, met later: ascetic extremism as Zossima’s mirror-opposite and the monastery’s resident accuser. The chapter’s warning about ‘the most Satanic pride’ is being given a face.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n25",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "context",
+      "quote": "possessed with devils",
+      "label": "Possessed",
+      "note": "The Gospel idiom for the demoniacs brought to Christ. Among the peasantry, epilepsy and madness were read as possession — these are the sick the women hold up to the elder.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the gates of the hermitage",
+      "label": "hermitage",
+      "note": "a secluded monastic dwelling; at Optina the elders lived in a separate hermitage (skete) apart from the main monastery.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p12",
+      "placement": "after",
+      "type": "idea",
+      "quote": "no more rich nor poor, no exalted nor humbled, but all will be as the children of God",
+      "label": "Two millennial dreams",
+      "note": "Set this beside paragraph two of the chapter: socialism is ‘the tower of Babel built without God, not to mount to heaven from earth but to set up heaven on earth.’ Alyosha’s dream has the identical shape — a final human condition with ‘no more rich nor poor’ — reached from the opposite direction. Dostoevsky places the two millennial pictures in one chapter deliberately. The question he will keep asking is not whether the dream is true but which engine can carry it without rebuilding Babel.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p13",
+      "placement": "inline",
+      "type": "context",
+      "quote": "the important affair which had of late formed such a close and remarkable bond between the two elder brothers",
+      "label": "The important affair",
+      "note": "The Katerina Ivanovna business: Dmitri’s betrothed, whom Ivan also loves, and the money-and-honor episode that made the brothers confidants. Dmitri tells the whole story in Book III.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n29",
+      "anchor": "p14",
+      "placement": "inline",
+      "type": "context",
+      "quote": "A Liberal of the forties and fifties, a freethinker and atheist",
+      "label": "A Liberal of the forties",
+      "note": "The pre-Reform gentry liberal — Belinsky’s generation, Dostoevsky’s own — humanity in theory, French in the mouth. By the 1870s the type had become, in his writing, a museum piece.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p14",
+      "placement": "inline",
+      "type": "context",
+      "quote": "As his lawsuit with the monastery still dragged on",
+      "label": "The lawsuit",
+      "note": "Miüsov’s long-running suit with the monastery: a decision, Book II tells us, might at any moment put the monastery’s fishing rights in his hands. It supplies him a respectable pretext: monastery business with the Superior.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p15",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "Who has made me a judge over them?",
+      "label": "Luke 12:14",
+      "note": "Christ’s reply when asked to divide an inheritance: ‘Man, who made me a judge or a divider over you?’ Spoken over a family quarreling about a father’s money — the exact Karamazov case, and Zossima applies it smiling.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n32",
+      "anchor": "p16",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the supercilious half-utterances of the highly educated Ivan",
+      "label": "supercilious",
+      "note": "haughtily disdainful — from the Latin for ‘eyebrow,’ the raised brow of contempt.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n33",
+      "anchor": "p16",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "contemplating some piece of buffoonery",
+      "label": "buffoonery",
+      "note": "clownish, indecent antics — the trade of the buffoon, the role Fyodor has chosen for himself.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The chapter stops the family chronicle to deliver a small treatise, and the treatise is accurate. Eldership as an organized Russian institution really was, as the narrator says, ‘not more than a hundred years old’ by the 1870s: it was carried back to Russia by Païssy Velitchkovsky (1722–1794), the Ukrainian-born Athonite whose Slavonic translation of the Philokalia became the movement’s textbook, and by the disciples who planted it in Russian houses at that century’s end. The narrator’s pointer — ‘It flourished especially in the celebrated Kozelski Optin Monastery’ — is barely disguised: Optina Pustyn, outside the town of Kozelsk, began its continuous line of elders in the late 1820s and became the institution’s Russian capital, drawing pilgrims from every province, Gogol among them in 1850 and Tolstoy later. Dostoevsky knew the place firsthand: in June 1878, weeks after the death of his three-year-old son Alyosha, he traveled to Optina with the philosopher Vladimir Solovyov and consulted Elder Ambrose (1812–1891), the recognized prototype of Zossima. Even the fictional monastery’s profile — ‘neither relics of saints, nor wonder-working ikons, nor glorious traditions’ — restates Optina’s own claim: its prestige was living holiness rather than objects, which is also why the death of one old man (‘they had no one to take his place’) could be an existential question for the house.",
+      "The evidence the essay offers is two anecdotes, and both are native to the literature of monastic obedience — the Paterika, the Desert Fathers’ collections, and their descendants — in which keeping obedience habitually outranks martyrdom. The Syrian novice’s coffin, cast from the church three times at the deacon’s cry ‘Depart all ye unbaptized’ (the liturgy’s dismissal of the catechumens before the Eucharist), carries the sterner claim: broken obedience voids even a martyr’s crown, since he ‘could not be forgiven without the elder’s absolution.’ The Athonite ordered to Jerusalem and Siberia carries the constitutional one: the Œcumenical Patriarch himself can loose no one from the elder’s binding — ‘there was not and could not be on earth a power which could release him.’ Dostoevsky then constructs the apologia like a defense that concedes the prosecution’s best point: the critics’ real charge is quoted (‘the sacrament of confession was being arbitrarily and frivolously degraded’), and the essay closes by granting that a thousand-year instrument ‘may be a two-edged weapon’ ending in ‘the most Satanic pride... bondage and not to freedom.’ What keeps the chapter from becoming a tract is that its practicing elder keeps breaking the rule-book — Alyosha ‘was bound by no obligation and could go where he pleased’ — because Zossima’s authority is personal: the ‘keenest intuition’ that reads ‘an unknown face,’ a confessor-psychology the great novelist of underground consciousness could not resist.",
+      "Around the treatise runs Dostoevsky’s decades-long argument about the young. Alyosha is ‘a youth of our last epoch,’ and the counterfactual is explicit: decide that God and immortality do not exist and ‘he would at once have become an atheist and a socialist,’ because socialism is ‘before all things the atheistic question, the question of the tower of Babel built without God, not to mount to heaven from earth but to set up heaven on earth.’ That formula compresses the polemic he had run since Winter Notes on Summer Impressions (1863) and Notes from Underground (1864), with its Crystal Palace — and the polemic will reach its final form later in the novel, where heaven-on-earth becomes a deliberate program. The epistemology is stated alongside it: the Apostle Thomas of John 20 ‘believed solely because he desired to believe,’ and ‘Faith does not, in the realist, spring from the miracle but the miracle from faith’ — belief is never concluded from evidence. The kinship runs in both directions: the chosen path is ‘going in the opposite direction’ yet taken ‘with the same thirst for swift achievement,’ and the gibe that ‘the sacrifice of life is, in many cases, the easiest of all sacrifices’ is aimed, in his Diary of a Writer voice, at truth-seekers who cannot give ‘five or six years of their seething youth to hard and tedious study.’ Months after the novel’s final installment appeared, the terrorist wing of that generation killed Alexander II.",
+      "Zossima enters as a biography before he is a presence — a landowner’s son, an army officer in the Caucasus, sixty-five, ‘almost dying of weakness and disease,’ the last of his monastery’s three elders — and behind him stands Ambrose of Optina, famous for precisely the gifts catalogued here: ‘the keenest intuition,’ the reading of ‘an unknown face,’ and a marked partiality for great sinners (‘the greater the sinner the more he loved him’). The veneration scene is Dostoevsky’s populism in miniature: pilgrims who ‘kissed the earth on which he stood,’ women holding up children ‘possessed with devils,’ and the peasant credo of the interpolated paragraph — that somewhere ‘there is some one holy and exalted’ who has the truth, so that truth ‘is not dead upon the earth’ — a belief he had been attributing to the Russian people as their living treasure since the Diary of a Writer. The chapter’s closing allusion arms everything that follows: ‘Who has made me a judge over them?’ is Luke 12:14, Christ’s refusal to divide an inheritance, spoken by an elder about to receive a family quarreling over a father’s money — the whole of Book II is latent in the quotation. In Constance Garnett’s rendering, ‘elder’ translates starets (‘old man’) literally, and English readers must learn from this chapter’s own essay what the Russian carries at once: not age but the office of spiritual father; her retention of the archaic ‘Œcumenical’ keeps an ecclesiastical register that ‘ecumenical’ has since flattened."
+    ]
+  }
+}

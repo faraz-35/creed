@@ -1,0 +1,333 @@
+{
+  "chapter": "01-02-01",
+  "annotator": {
+    "agent": "bk-annotator",
+    "date": "2026-08-29",
+    "rev": 1
+  },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "to persuade him to go abroad to the university of Zurich or Jena",
+      "label": "Zurich or Jena",
+      "note": "A German or Swiss university — the standard route for Russians at odds with the authorities at home. Zurich's Russian colony was so famously radical that in 1873 the government recalled the women students by decree. Kalganov's indecision is a period portrait.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a ten-copeck piece out of his purse",
+      "label": "copeck",
+      "note": "the smallest Russian coin, a hundredth of a rouble — a copper, alms-sized.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "an ancient, jolting, but roomy, hired carriage",
+      "label": "hired carriage",
+      "note": "a carriage rented with its driver — the period's taxi, and a studied step down from Miüsov's 'elegant open carriage' with two valuable horses.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "outside the precincts",
+      "label": "precincts",
+      "note": "the consecrated enclosure of a monastery or church — its sacred bounds, not a police district.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "Divide it equally",
+      "label": "Divide it equally",
+      "note": "Alms given to one beggar would be divided among all present. Kalganov rushes the kindness, then is more embarrassed by its going unremarked than by the giving — the first small portrait of a type the novel keeps: goodness that cannot bear to be watched.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a donation of a thousand roubles",
+      "label": "A thousand roubles",
+      "note": "The donor is Fyodor. Book I records his earlier thousand-roubles impulse: requiem money for the soul of the wife who used to thrash him, followed the same evening by drunken abuse of the monks. The monastery's refusal to roll out the carpet is the narrator's opening joke.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "context",
+      "quote": "as a decision of the lawsuit might at any moment put their fishing rights in his hands",
+      "label": "The lawsuit",
+      "note": "Miüsov's own lawsuit with the monastery, set up in Book I: an 'endless' quarrel over fishing rights (or wood-cutting — the narrator forgets which). A decision in his favor would put those rights in his hands — the monastery's dependence, and the litigant's icy reception.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p5",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "in this imbecile place",
+      "label": "imbecile",
+      "note": "in Garnett's older register: simply absurd, contemptible — an idiotic place. Not yet the clinical slur the word now reads as.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "context",
+      "quote": "lives in the hermitage, apart, four hundred paces from the monastery",
+      "label": "The hermitage (skete)",
+      "note": "The skete: a separate, walled community where the elder and his monks live more strictly than the main monastery — the desert within walking distance of the town of monks. Optina Pustyn, Dostoevsky's 1878 model, has just such a skete beyond its wood.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "foreign",
+      "quote": "un chevalier parfait",
+      "label": "un chevalier parfait",
+      "note": "French: 'a perfect knight.' A shabby provincial landowner gilds the elder in the gentry's fashionable second language — borrowed nobility, snapped off with the fingers.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p15",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a very pale, wan-looking monk",
+      "label": "wan",
+      "note": "pale and faint-looking, as from illness or fasting.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p17",
+      "placement": "inline",
+      "type": "context",
+      "quote": "to dine with him after your visit to the hermitage",
+      "label": "The dinner invitation",
+      "note": "A formal courtesy of rank: the Father Superior's lenten table, not gluttony. This invitation is the machine of the whole book: Book II is titled 'An Unfortunate Gathering.'",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n15",
+      "anchor": "p26",
+      "placement": "page",
+      "type": "context",
+      "quote": "He’s like von Sohn",
+      "title": "von Sohn: the corpse from the front pages",
+      "note": "The name Fyodor hangs on Maximov is a real corpse: the elderly St. Petersburg official von Sohn, murdered in a brothel in 1869, his body packed in a box and put aboard the train toward Moscow — a case the capital's newspapers ran for months, through a trial of grotesque detail. For readers meeting the novel in 1879, 'von Sohn' needed no footnote; it was a headline.\n\nThe joke's mechanics: everyone in the room knows the case, so Fyodor can christen the harmless Maximov with a famous dead man and defend the likeness with pseudo-expertise — 'I've seen his portrait... I can always tell from the physiognomy.' The buffoon claims connoisseurship of scandal the way newspapers claim authority: through familiarity with the picture, not knowledge of the facts.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "I can always tell from the physiognomy",
+      "label": "physiognomy",
+      "note": "the reading of character from facial features — taken seriously from Lavater's eighteenth-century science onward, later by criminal anthropology. Fyodor apes the expert: he knows the dead man's soul from his portrait.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p29",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "A fine smile, not without a certain slyness, came on to the pale, bloodless lips of the monk",
+      "label": "The monk's smile",
+      "note": "The chapter's one monastic counterstroke: silence, and a smile Fyodor's slyness cannot top. Miüsov's frown is the tell — irony needs a target, and this target declines to be one.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p30",
+      "placement": "after",
+      "type": "idea",
+      "quote": "An outer show elaborated through centuries, and nothing but charlatanism and nonsense underneath",
+      "label": "The liberal's reflex",
+      "note": "The chapter has been quietly assembling the rebuttal Miüsov is not looking at: flowers tended between the tombs, a monk who corrects legend instead of embellishing it, ladies received outside the wall by rule. Voltairean shorthand — outer show, inner charlatanism — saves him the trouble of looking, and his 'liberal irony' has been hardening into anger since the tombstones. The sentence is the anger, dressed as a verdict.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p32",
+      "placement": "inline",
+      "type": "context",
+      "quote": "made the sign of the cross to the saints painted above and on the sides of the gates",
+      "label": "Crossing at the gate",
+      "note": "Monastery gates carried painted icons, and the pious crossed themselves on passing through. Fyodor's crossing is 'repeatedly' — reverence doubled into performance, piety offered as theater.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p33",
+      "placement": "inline",
+      "type": "context",
+      "quote": "there are twenty-five saints being saved",
+      "label": "Twenty-five saints",
+      "note": "The skete's number of brethren, in travel-guide parody: 'They look at one another, and eat cabbages.' Even the grammar he mocks is doctrine — salvation in the present continuous, a lifelong process.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p34",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "lying in the portico there waiting",
+      "label": "portico",
+      "note": "a columned porch or covered arcade; here the sheltered gallery where peasant pilgrims wait their turn.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p34",
+      "placement": "inline",
+      "type": "context",
+      "quote": "two rooms have been built adjoining the portico, but outside the precincts",
+      "label": "How ladies see the elder",
+      "note": "The arrangement Fyodor is about to call a 'loophole' is rule-bound propriety: noblewomen wait and are received outside the skete wall, and the elder crosses to them only when his strength allows. The district's fashionable spiritual director, behind a fence.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p35",
+      "placement": "page",
+      "type": "context",
+      "quote": "at Athos not only the visits of women are not allowed, but no creature of the female sex",
+      "title": "Mount Athos and the avaton",
+      "note": "Fyodor's obscenity has a real address. Mount Athos — the self-governing peninsula of twenty monasteries in northern Greece, the heart of Orthodox monasticism — keeps the avaton, its ancient absolute ban on women setting foot on the mountain, traditionally stretched to cover every female creature: no hens, no cows, nothing of the female sex in sight.\n\nThe comparison is aimed ammunition, not travel-talk. The Russian eldership Alyosha lives under descends from the Athonite monastic revival carried north in the wake of Paisius Velichkovsky, and Optina Pustyn was its great Russian flowering. Setting Athos rigor beside the hermitage's ladies' annexe is how the buffoon turns an institution's floor plan into an innuendo. The monk answers with the floor plan: women of the people outside, two rooms outside the wall.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p37",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "what a vale of roses they live in",
+      "label": "vale",
+      "note": "a literary word for valley — whose usual companion is 'vale of tears.' Fyodor's irony dresses the garden as Eden; it is late August, and the roses are out of season.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p38",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "tended by a skillful hand",
+      "label": "The garden",
+      "note": "Evidence arrayed against 'charlatanism': rare autumn flowers between the tombs and around the elder's wooden house, kept by a skillful hand. The chapter states the case for the monastery in horticulture and lets Miüsov decline to look.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p40",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a great deal that’s told is foolishness. He never thrashed any one",
+      "label": "The legend of Varsonofy",
+      "note": "The monk quietly separates the man from the folklore that has grown over him: strange, yes; a lady-beater, no. Dostoevsky keeps doing this — distinguishing the legend about elders from the men — while letting the legend show how the world actually sees them.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p41",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "your compact, do you hear? Behave properly or I will pay you out!",
+      "label": "The compact",
+      "note": "'Compact': a binding agreement — the promise of good behavior Fyodor keeps citing. 'Pay you out' is the giveaway: get even with, punish. Miüsov has warned him twice on the path and now once at the threshold; he is keeping accounts, not hoping.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p42",
+      "placement": "inline",
+      "type": "context",
+      "quote": "he can tell by one’s eyes what one has come about",
+      "label": "Reading souls",
+      "note": "The elder's fabled gift of discernment — reading a visitor's secret business in his face at a glance — part of the starets' mystique that draws all Russia to Zossima's door. Fyodor invokes it to spook Miüsov: what do your eyes say you came for?",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p42",
+      "placement": "inline",
+      "type": "context",
+      "quote": "you, a Parisian, and so advanced",
+      "label": "'You, a Parisian'",
+      "note": "Fyodor's needle at Miüsov's Westernism — the Paris years, the European tastes, the contempt for Russian holy places; 'advanced' is the period's word for progressive. The buffoon's most reliable weapon remains accurate description.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p44",
+      "placement": "after",
+      "type": "idea",
+      "quote": "I shall lose my temper and begin to quarrel—and lower myself and my ideas",
+      "label": "Miüsov's forecast",
+      "note": "The exit line is a self-prophecy, and one of the novel's themes in miniature: the intelligent man watches himself fail and narrates the failure instead of stopping it. Knowing that he is about to lose his temper is not the same as not losing it; the chapter leaves Miüsov alone with the most accurate sentence he says all day.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The chapter is organized as a guided walk through Orthodox monastic space, and its real subject is access. The party crosses the monastery precincts, then the copse, to the hermitage — the skete, a separate walled settlement where the elder and his brethren live more strictly than the main community, four hundred paces off 'the other side of the copse.' The geography is that of Optina Pustyn, the monastery Dostoevsky visited in June 1878, weeks after his three-year-old son's death, and whose eldership underlies Zossima's. The traffic rules are stated with bureaucratic exactness by the monk: women of the people wait 'in the portico,' while for ladies of rank 'two rooms have been built adjoining the portico, but outside the precincts,' the elder reaching them 'by an inner passage when he is well enough' — female access never crosses the wall, and even the elder's end of the bridge is rationed by his failing health. Fyodor's counter-standard is Mount Athos and its ancient ban on every female creature, hens and cows included; his 'loopholes' sneer converts the arrangement into scandal, and the monk's flat reply is the institution defending its own floor plan.",
+      "The missing red carpet is the chapter's opening joke, and it is economic. The narrator itemizes what the visitors think they are owed — 'a donation of a thousand roubles,' a wealthy landowner 'upon whom all in the monastery were in a sense dependent, as a decision of the lawsuit might at any moment put their fishing rights in his hands' — and then sends them through the gate like any pilgrims. This is the visit staged in the previous chapter: Miüsov's own endless lawsuit with the monastery over the fishing rights, which he made the pretext for calling on the Superior. The monastery is receiving litigants, not venerating benefactors, and its calm punctures both men's self-importance at once. Miüsov's compensation is irony — the dead here 'paid a pretty penny for the right of lying in this holy place' — and the narrator charts the temperature precisely: 'His liberal irony was rapidly changing almost into anger.' Fyodor, who knows him, supplies the diagnosis at the threshold: 'Are you uneasy about your sins?' — 'you, a Parisian, and so advanced.' The advanced man is the one afraid of the monks' opinion; the buffoon's cruelty, again, is mostly accurate description.",
+      "'He's like von Sohn' needs no footnote in 1879 — which is why Garnett's text supplies none. The name was headline: an elderly Petersburg official murdered in a brothel in 1869, his body packed in a box and put aboard the Moscow train, the subsequent trial a feast of grotesque detail. Dostoevsky's serial readers carried the case the way Fyodor claims to carry the portrait — 'I can always tell from the physiognomy' — and the buffoon's expertise is the press's own method: recognition of pictures, not knowledge of facts. Against this amateur science of faces the chapter quietly sets its rival: 'They say he can tell by one's eyes what one has come about' — the elder's gift of spiritual discernment, the reading of hearts that has the Harkov lady waiting outside the precincts with her sick daughter. Two hermeneutics of the face meet in one chapter: the newspaper reader's physiognomy of scandal and the starets' discernment of souls. Miüsov, caught between them, trusts the first and dreads the second.",
+      "The walk is staged as a series of tests the liberal observer fails. Miüsov arrives with 'assumed ease,' sneers at the tombstones, and dismisses the whole establishment in one flash of Voltairean shorthand — 'An outer show elaborated through centuries, and nothing but charlatanism and nonsense underneath' — and the chapter answers him without arguing: autumn flowers 'tended by a skillful hand' between the tombs, a monk who corrects the Varsonofy legend instead of embellishing it ('a great deal that's told is foolishness. He never thrashed any one'), and a 'fine smile, not without a certain slyness' that declines to be provoked. The garden is the exhibit his formula has no slot for, and Dostoevsky plants it directly after the sneer about show. Even the alms are a quiet rebuke: the only money anyone gives away in this chapter is Kalganov's ten copecks, divided equally, God knows why. The chapter closes on Miüsov's own sentence — 'I shall lose my temper and begin to quarrel—and lower myself and my ideas' — self-knowledge delivered as prophecy, the narrator leaving him alone with it."
+    ]
+  }
+}

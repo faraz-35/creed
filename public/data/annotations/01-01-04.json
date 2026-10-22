@@ -1,0 +1,392 @@
+{
+  "chapter": "01-01-04",
+  "annotator": {
+    "agent": "bk-annotator",
+    "date": "2026-08-29",
+    "rev": 1
+  },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "was not a fanatic, and, in my opinion at least, was not even a mystic",
+      "label": "A saint, disclaimed",
+      "note": "The biographer opens by ruling out diagnoses — fanaticism, mysticism — an 1870s reader would reach for. Dostoevsky is writing a saint’s life for an age that explained vocations as symptoms; the chapter keeps insisting this is health, not sickness.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "the holy image, before it a lighted lamp",
+      "label": "The icon corner",
+      "note": "An Orthodox house kept its shrine in a corner: icons with a small oil lamp burning before them. The whole memory is staged as one — lamp, image, kneeling woman, child lifted toward it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p1",
+      "placement": "after",
+      "type": "idea",
+      "quote": "holding him out in both arms to the image as though to put him under the Mother’s protection",
+      "label": "The novel’s first scene is also its last",
+      "note": "The gesture enacts the Pokrov — the Mother of God’s protection — and the novel frames this fragment, “like a corner torn out of a huge picture,” as the founding event of Alyosha’s soul. He will retell this exact memory, in almost these words, to the boys at Ilyusha’s stone in the epilogue: whatever religion means in this book begins with a hysterical mother holding her child up to an icon while a nurse runs in “in terror.” Register it now; the book is built to return to it.",
+      "confidence": "likely",
+      "spoiler": true
+    },
+    {
+      "id": "n04",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "a wild fanatical modesty and chastity",
+      "label": "Chastity as scandal",
+      "note": "In the schoolyard the one unforgivable oddity is purity: the boys read Alyosha’s refusal to hear “certain words” as effeminacy (“a regular girl”). Dostoevsky treats chastity not as innocence but as a counter-cultural stance the world punishes, then forgives as a weakness.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "of which even soldiers would sometimes hesitate to speak",
+      "label": "Worse than the barracks",
+      "note": "The narrator’s jab at his own class: children of the “intellectual and higher classes” speak of what soldiers — his byword for coarseness — would balk at, and call it refinement. A standing theme of Dostoevsky’s journalism on gentry nurseries.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "bitterly conscious of living at the expense of his benefactor",
+      "label": "Two debts",
+      "note": "The chapter’s map of pride in money: Ivan maintained himself and burned with consciousness of the charity; Alyosha “never cared at whose expense he was living.” The same gift received, opposite shame — the two brothers defined by their relation to what they owe.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "on the score of money and bourgeois honesty",
+      "label": "Bourgeois honesty",
+      "note": "Honesty about money as a class performance. The phrase carries a Russian sneer — the merchant-decency code of the towns, as against gentry extravagance or Alyosha’s indifference. Miüsov’s praise of Alyosha is written in the idiom of his own virtue.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "context",
+      "quote": "he intended to go third class",
+      "label": "Third class",
+      "note": "The peasants’ car: bare wooden benches, the cheapest fare on the imperial railways. Alyosha returns half the ladies’ money to travel rough — voluntary poverty before he has a word for it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "context",
+      "quote": "since he had thrown earth upon her coffin",
+      "label": "A handful of earth",
+      "note": "In the Orthodox burial rite each mourner casts earth onto the coffin. Fyodor performed the bare gesture once and never went back — the chapter’s whole indictment of him in a single clause.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "term",
+      "quote": "a lot of low Jews, Jewesses, and Jewkins",
+      "label": "“Jewkins”",
+      "note": "Garnett’s odd coinage stands in for a pejorative diminutive of the Russian zhid (“Yid”). Odessa, the empire’s great Jewish port, appears in Fyodor’s mouth only as a slur with a balance sheet attached — first the “low,” then “Jews high and low alike.”",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a hundred thousand roubles or not much less",
+      "label": "A hundred thousand roubles",
+      "note": "A genuine fortune — on the order of a hundred middle-class annual incomes. And its engine is specified: taverns, and lending against “good security.” Fyodor’s money is the district’s drunkenness collected at retail.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p8",
+      "placement": "page",
+      "type": "term",
+      "quote": "‘the crazy woman’",
+      "title": "The klikusha, or “crazy woman”",
+      "note": "Russian: klikusha, “shrieker” — a woman given to fits of shrieking and collapse, which peasant belief explained as possession, sometimes sent by a curse or sorcery. A village category, not a diagnosis; later translators render Fyodor’s nickname “the Shrieker.”\n\nWhat the label erases: the memory in this chapter’s first paragraph shows the wife not as a demoniac but as a terrified, praying mother — “sobbing hysterically with cries and moans,” holding her child up to the icon. “Crazy woman” turns that scene into gossip, and Dostoevsky sets the two pictures side by side on purpose.\n\nGarnett’s plain “crazy woman” keeps the insult but drops the folk-demonic word that made it, in Russian, a curse.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p8",
+      "placement": "inline",
+      "type": "term",
+      "quote": "to pay for requiems for the soul of his wife",
+      "label": "Requiems (panikhida)",
+      "note": "The Orthodox service of prayers for the dead, commissioned by donation. A thousand roubles buys a mountain of panikhidas — and Fyodor aims them at the wrong wife, the one who thrashed him, while “the crazy woman” gets none.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "an ancient Roman patrician of the decadent period",
+      "label": "Patrician of the decadence",
+      "note": "Nineteenth-century historiography loved the trope of Late Rome’s decay — and Fyodor wears it as a boast, proud of the aquiline nose that makes the decay look aristocratic. Self-diagnosis and self-flattery in one costume.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p10",
+      "placement": "inline",
+      "type": "term",
+      "quote": "receive him as a novice",
+      "label": "Novice",
+      "note": "Russian poslushnik, “obedient”: the candidate lives under obedience in the monastery, sometimes for years, before any vows. Alyosha asks his father’s consent as a courtesy — the commitment behind it is already total.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p10",
+      "placement": "inline",
+      "type": "term",
+      "quote": "living in the monastery hermitage",
+      "label": "Hermitage (skete)",
+      "note": "A secluded cluster of cells for a stricter life within a monastery’s bounds — at Optina Pustyn, the model for this monastery, the elders lived in the skete. Dostoevsky met the Optina elders there on his 1878 pilgrimage.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p11",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "That is the most honest monk among them",
+      "label": "The buffoon certifies the elder",
+      "note": "Before we meet Zossima, his character arrives certified by the least reliable witness in the book — spoken half-drunk, and without irony. Even Fyodor exempts him; the drunkard’s tribute is a backhanded canonization.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "That’s a dowry for you",
+      "label": "A dowry for the monastery",
+      "note": "Fyodor can only understand a vocation as a transaction: the monastery as bride, Alyosha’s two thousand as dowry. Even his affection arrives as accounting — with the money, for once, acknowledged without a fight.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p12",
+      "placement": "page",
+      "type": "context",
+      "quote": "there are none but ‘the monks’ wives’ living",
+      "title": "“Monks’ wives”: the anti-monastic press",
+      "note": "Fyodor’s tavern gossip about a settlement of thirty women outside an unnamed monastery is assembled from a real genre: once the press loosened in the reform decades of the 1860s, liberal and scandal sheets ran exposés of monastic wealth, drunkenness, and kept women — “monks’ wives” outside the walls was the stock item, down to the round numbers.\n\nNote that he corrects himself midstream — “Well, there’s nothing of that sort here, no ‘monks’ wives,’ and two hundred monks. They’re honest. They keep the fasts. I admit it” — and laments only the absence of French women. The buffoon knows the slander and its refutation both; he tells it anyway, to the son who wants to be a monk.\n\nDostoevsky is stacking the deck for the monastery visit ahead: the accusation is already in circulation before anyone crosses the walls.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "context",
+      "quote": "more refined, more enlightened, more Lutheran",
+      "label": "Hell, Protestant edition",
+      "note": "Orthodox polemic used “Lutheran” as shorthand for rationalized religion, theology tidied for the enlightenment. A hell “without a ceiling” — no literal furniture, nothing for the hooks to hang from — is Fyodor’s own renovation of the afterlife.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p12",
+      "placement": "after",
+      "type": "idea",
+      "quote": "if they don’t drag me down what justice is there in the world?",
+      "label": "The drunkard’s argument from justice",
+      "note": "The heart of the monologue, and the chapter’s real theology. Fyodor believes nothing else — he has “probably never put a penny candle before the image of a saint” — but he cannot give up hell, because hell is what makes the world just: unpunished wickedness is intolerable to him, of all people. The buffoon has stumbled onto the argument his middle son will later make in full — that no harmony can be worth one tortured innocent’s tears. Two Karamazovs, one obsession with justice, running in opposite directions: the father needs the punishment guaranteed, the son cannot accept what the guarantee costs. And between them stands Alyosha, who answers the whole edifice in six words: “But there are no hooks there.”",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n22",
+      "anchor": "p12",
+      "placement": "page",
+      "type": "foreign",
+      "quote": "Il faudrait les inventer",
+      "title": "Voltaire, inverted: “they would have to be invented”",
+      "original": "Il faudrait les inventer",
+      "render": "they would have to be invented (the hooks)",
+      "note": "Fyodor’s French — the hooks must be invented, “on purpose for me alone.”\n\nBehind it stands Voltaire’s most quoted line, “Si Dieu n’existait pas, il faudrait l’inventer” (“If God did not exist, it would be necessary to invent him”), from the epistle against the “three impostors” treatise. Dostoevsky inverts it: not God but the instruments of punishment. Fyodor cannot manage belief; justice, however, requires furniture — so invent the hooks.\n\nThe inversion is the man. Of the whole creed he keeps only the clause that punishes him — and note that he worries the furniture like a tradesman: iron hooks, where would they forge them, “have they a foundry there of some sort?” The metaphysics of hell done in tavern arithmetic, in French.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p14",
+      "placement": "after",
+      "type": "idea",
+      "quote": "You will burn and you will burn out; you will be healed and come back again.",
+      "label": "The buffoon as prophet",
+      "note": "Fyodor reads his son with uncanny accuracy: the monastery will not hold Alyosha; grief will burn him, and he will come back to the world. The buffoon’s slapdash metaphysics keeps producing truth. And the confession underneath — “You’re the only creature in the world who has not condemned me” — is exactly what this chapter established in its first paragraph: the boy who “would never take it upon himself to criticize and would never condemn any one for anything” is the one person in whom the old man’s drunken sentimentality is not a performance. Which is why he can let him go: “That’s why I let you go, because I hope for that.”",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n24",
+      "anchor": "p14",
+      "placement": "page",
+      "type": "foreign",
+      "quote": "J’ai vu l’ombre d’un cocher qui avec l’ombre d’une brosse frottait l’ombre d’une carrosse.",
+      "title": "The shadow coachman: hell as shadows",
+      "original": "J’ai vu l’ombre d’un cocher qui avec l’ombre d’une brosse frottait l’ombre d’une carrosse.",
+      "render": "I saw the shadow of a coachman who with the shadow of a brush polished the shadow of a carriage.",
+      "note": "Fyodor’s tag — “That’s how a Frenchman described hell” — reduces the afterlife to shades imitating life: a coachman who is only a shadow, brushing a carriage that is only a shadow. It serves the argument of the hooks: if hell’s furnishings are incorporeal, the hooks too are “only the shadows of hooks.” Alyosha seconds exactly that (“But there are no hooks there”), and the father falls back on authority: “How do you know there are no hooks, darling?”\n\nThe line is a near-quotation of the famous shadow-coachman quatrain of the seventeenth-century French burlesque of Virgil’s underworld — Le Virgile travesti turns the shades of Aeneid VI into exactly such shadow-mockery — with Dostoevsky tweaking the verb (“frottait” against the quatrain’s usual “nettoyait”). The verse circulated in the anecdote books, attributed to Nicolas Perrault though it travels under Scarron’s name as well. The buffoon quotes it without owning it — erudition worn like everything else he wears.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p15",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "He was wicked and sentimental.",
+      "label": "Wicked and sentimental",
+      "note": "The chapter’s last word is a standing Dostoevskian verdict — in the Diary of a Writer he kept arguing that sentimentality and cruelty are neighbors. The tears over his son were real; so were the harlots.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "with sottish sentimentality",
+      "label": "sottish",
+      "note": "drunken; like a sot, a habitual drunkard.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a very sink of filthy debauchery",
+      "label": "sink",
+      "note": "in the older sense, a cesspool or drain — “a sink of iniquity” was the stock phrase; not the kitchen basin.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "he was by no means expansive",
+      "label": "expansive",
+      "note": "of a person, in the older sense: open and communicative in talk and feeling — not “spacious.” Alyosha “talked little indeed.”",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the provincial gymnasium",
+      "label": "gymnasium",
+      "note": "the classical secondary school of Imperial Russia, on the German model — nothing to do with a sports hall.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "conspicuously aquiline",
+      "label": "aquiline",
+      "note": "hooked or curved like an eagle’s beak — the “aristocratic” nose Fyodor is so proud of.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "His countenance at this time bore traces",
+      "label": "countenance",
+      "note": "a person’s face or facial expression — the literary word.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n32",
+      "anchor": "p14",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "it will be more seemly for you with the monks",
+      "label": "seemly",
+      "note": "proper, fitting, decorous — the older moral sense of what looks right.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n33",
+      "anchor": "p14",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a drunken old man and young harlots",
+      "label": "harlots",
+      "note": "prostitutes — the archaic, Biblical register.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The chapter is a saint’s life smuggled into a skeptical century, and its narrator knows it. He opens with defensive triage — Alyosha “was not a fanatic… not even a mystic,” “simply an early lover of humanity” — as though vocation were a diagnosis to be ruled out one symptom at a time. The school portrait is built the same way: each trait (never resents an insult, never “tried to show off,” puts his fingers in his ears at obscene talk) is entered as counter-evidence against the reading the age would give it. Dostoevsky had been circling such a hero since the “Life of a Great Sinner” notebook plan of 1869–70, and in 1879 was still telling correspondents that this novel was only the pre-history of its hero, whose real biography would follow in a second book that never came. At the chapter’s center sits the mother-memory, “like a corner torn out of a huge picture” — and composed like an icon: lamp, image, kneeling woman, child lifted to the Mother of God. It is the fragment on which the whole life is hung.",
+      "Alyosha’s monastery is Optina Pustyn in everything but name. Its “hermitage” is the skete, the secluded cluster of cells where the elders lived apart from the main monastery; behind Zossima stands Ambrose of Optina, the elder Dostoevsky traveled to meet in June 1878, weeks after his three-year-old son Alyosha died of a seizure. The technical vocabulary is exact, not decorative: a novice (poslushnik, “obedient”) lives under obedience before any vows, which is why Alyosha’s asking his father’s consent is courtesy rather than escape; a requiem is a panikhida, a service commissioned by donation — and Fyodor’s thousand roubles buy a mountain of them for the wrong wife, the one who used to thrash him, while the woman he calls “the crazy woman” gets none, and the man who pays has “probably never put a penny candle before the image of a saint.” His monologue about the settlement of “monks’ wives” is assembled from the anti-clerical press campaigns of the reform decades, down to the round numbers — and the buffoon corrects himself midstream (“Well, there’s nothing of that sort here… They’re honest. They keep the fasts”), because he knows the slander and its refutation both.",
+      "The chapter keeps a ledger. Alyosha “never cared at whose expense he was living” and would give a fortune away “for good works or perhaps to a clever rogue”; Ivan maintained himself by his own efforts and was “bitterly conscious of living at the expense of his benefactor” — the same charity received, opposite shame. Miüsov appears for a single paragraph to pronounce on “money and bourgeois honesty,” honesty as class performance in the idiom of his own virtue. And Fyodor’s fortune is itemized like an indictment: Odessa, “low Jews, Jewesses, and Jewkins,” new taverns across the district, “a hundred thousand roubles or not much less,” lending on “good security.” The money is the district’s drunkenness collected at retail; the slur-diminutive Garnett coins as “Jewkins” pins its origin to the empire’s great Jewish port — the speech of the gutter press, and uncomfortably near Dostoevsky’s own troubled handling of “the Jewish question” in his Diary of a Writer two years before. Against all this stands the son who returns half his traveling money to ride third class — and the father who can only answer such indifference with accounting: “you have your own two thousand. That’s a dowry for you.”",
+      "The chapter’s most quoted speech is a drunkard’s metaphysics delivered in two languages. Fyodor’s French — “Il faudrait les inventer,” Voltaire inverted, so that it is not God but the hooks that must be invented — sits beside the tag of the shadow coachman brushing the shadow of a carriage, “That’s how a Frenchman described hell,” a near-quotation of the shadow-coachman quatrain from the seventeenth-century French burlesque of Virgil’s underworld: the gentry’s second language, worn by the buffoon as costume. Underneath runs the one sincere anxiety in the monologue — “I’ve always been thinking who would pray for me, and whether there’s any one in the world to do it” — and the fuss about hell’s furniture, hooks and ceiling and foundry, is at bottom the question of whether the world is just. Garnett’s choices matter here: “the crazy woman” flattens the klikusha, the folk label for a shrieking, “possessed” woman; “Jewkins” coins an English pejorative where the Russian has one. And the closing sentence — “He was wicked and sentimental.” — is a standing Dostoevskian verdict, cousin to his Diary-of-a-Writer argument that sentimentality and cruelty are neighbors. The tears over his son are real; so are the harlots."
+    ]
+  }
+}

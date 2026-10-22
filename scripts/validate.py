@@ -11,7 +11,11 @@ Checks, for every public/data/annotations/<file>.json:
 Exit code 1 on any failure. This gate is what makes hallucinated
 anchors/quotes impossible to ship: they are checked against the
 actual chapter text, mechanically.
+
+Side effects: rewrites annotations/index.json and the PIPELINE.md
+done-count, appends a PROGRESS.log line.
 """
+import datetime
 import json
 import re
 import sys
@@ -100,6 +104,17 @@ def main() -> int:
     (AN / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+
+    # keep the human status page and progress log in step with the gate
+    pipeline = ROOT / "PIPELINE.md"
+    if pipeline.exists():
+        pipeline.write_text(re.sub(
+            r"(Status: \*\*)\d+( of )(\d+)( chapters done\*\*)",
+            rf"\g<1>{len(files)}\g<2>\g<3>\g<4>",
+            pipeline.read_text(encoding="utf-8"), count=1), encoding="utf-8")
+    with (ROOT / "PROGRESS.log").open("a") as logf:
+        logf.write(f"{datetime.datetime.now():%H:%M:%S} validate: "
+                   f"{len(files)} files, {checked} annotations, {failures} failures\n")
     print(f"\n{checked} annotations checked, {failures} failures")
     return 1 if failures else 0
 

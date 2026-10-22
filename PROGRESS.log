@@ -1,0 +1,25 @@
+21:15:19 wave start: arg=1, resolving target
+21:15:28 target=01-02-01 (Book II ch.1, They Arrive At The Monastery); spawning bk-annotator
+21:24:41 annotator done (30 notes: 26 inline/0 before/2 after/2 page); running npm run validate
+21:24:46 validate clean (0 failures); running review_annotations.py
+21:25:47 trimmed vocab n09 ingratiating, n10 honeyed (plain modern words); re-validating
+21:25:53 review clean; updating index ledger
+21:26:03 ledger+PIPELINE updated; running gate+build
+21:26:13 gate+build clean; spawning bk-verifier
+21:36:44 verifier fixes applied (n06/n07 rewrite, von Sohn 1869, commentary x2, 3 confidence upgrades); re-validating+building
+21:36:49 wave complete: 01-02-01 verified, 9/96 done
+14:53:34 wave start: annotating 01-02-03
+16:14:38 annotator 01-02-03 hung (inactive 600s); checking output
+16:14:58 relaunching annotator 01-02-03 (retry 1)
+16:28:54 01-02-03 written (29 anns); validating
+16:29:30 wave complete: 01-02-03 annotated (1 quote repair), 10/96 done
+20:37:19 validate: 10 files, 311 annotations, 0 failures
+20:37:27 validate: 10 files, 311 annotations, 0 failures
+20:38:49 port: wave -> .zcode/workflows/bk-wave.dwf.ts (dynamic workflow); deleted /bk-wave command, bk-annotator agent, scripts/update_index.py; validate.py now owns index.json + PIPELINE count + this log
+20:39:41 wave start: next 3 — 3 chapters
+20:56:20 validate: 12 files, 377 annotations, 0 failures
+20:57:26 validate: 12 files, 377 annotations, 0 failures
+20:59:00 validate: 13 files, 407 annotations, 0 failures
+20:59:10 validate: 13 files, 407 annotations, 0 failures
+20:59:10 validate: 13 files, 407 annotations, 0 failures
+20:59:12 wave complete: 01-02-04 01-02-06 01-02-07 annotated, validate clean, build clean

@@ -1,0 +1,351 @@
+{
+  "chapter": "01-02-04",
+  "annotator": { "agent": "Annotator 01-02-04", "date": "2026-10-20", "rev": 1 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "A visitor looking on the scene of his conversation with the peasants and his blessing them",
+      "label": "The lady of the title",
+      "note": "First appearance of the chapter’s protagonist: Madame Hohlakov — “a Harkov lady, Madame Hohlakov, waiting there now with her sick daughter,” announced in Book II, Chapter 1 — and, with her, her daughter Lise. The tears are for the previous chapter’s scene: peasant women telling the elder their griefs.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "our splendid Russian people, so simple in their greatness!",
+      "label": "Loving the people, from society",
+      "note": "The salon formula of the 1870s: educated society’s vogue for the common people — the decade when “going to the people” was a movement. Sincerity and cliché in one breath, and Dostoevsky lets both stand.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "context",
+      "quote": "merely by praying over her last Thursday and laying your hands upon her",
+      "label": "Laying on of hands",
+      "note": "The Gospel healing gesture — Christ heals by touch. The lady converts it into a credential (“great healer”), and the elder will spend the chapter handing the credit back.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "our homage",
+      "label": "homage",
+      "note": "public respect paid to a superior — honor offered outwardly, as to a shrine.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "she’ll be dancing a quadrille",
+      "label": "quadrille",
+      "note": "a square dance for four couples, the standard ballroom dance of the period — the skill a girl of Lise’s class was drilled in.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "context",
+      "quote": "I am amazed; I can make nothing of it.",
+      "label": "The doctor can make nothing of it",
+      "note": "Medicine’s whole verdict on the miracle: neither confirmation nor denial. Lise’s “night fevers” would have been filed under nervous illness — the boundary zone where faith-healing and half-cured symptoms are hard to tell apart.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p13",
+      "placement": "before",
+      "type": "context",
+      "quote": "it’s all to do with Dmitri Fyodorovitch and—what has happened lately",
+      "label": "A note from a stranger",
+      "note": "Katerina Ivanovna is named in the novel for the first time here — no introduction, only a note carried by hand and this half-explanation. What connects her to Dmitri is withheld until Book III, when this errand lands Alyosha in the middle of Dmitri’s confession about her (“The Confession of a Passionate Heart”).",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n08",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "a quick flush crimsoning his cheeks in an instant",
+      "label": "The blush",
+      "note": "The chapter’s second story ignites in one blush: Lise teases him precisely to force him to look at her, and it works. Worth registering now — Dostoevsky keeps accounts.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p20",
+      "placement": "inline",
+      "type": "context",
+      "quote": "from the far north, from Obdorsk, from Saint Sylvester",
+      "label": "Obdorsk",
+      "note": "A real fur-trading settlement on the lower Ob in western Siberia, at the edge of the Arctic (today Salekhard) — a monk from there has traveled from the world’s end. Note the narrator’s grading: faith “of the humblest, that is of the peasant, class.”",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p22",
+      "placement": "inline",
+      "type": "context",
+      "quote": "Relief is not complete cure, and may proceed from different causes",
+      "label": "The elder refuses the miracle",
+      "note": "The discipline of the healer-elder: credit diverted to God (“it is by no power but God’s will”), natural causes left open. The man being treated as a living saint adds, unprompted: “I am ill, and I know that my days are numbered.”",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p24",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "I am doing God’s will on earth",
+      "label": "God’s will on earth",
+      "note": "The Lord’s Prayer, line three: “Thy will be done, as in heaven, so on earth.” Zosima makes happiness the evidence of prayer fulfilled — the saints were happy because they were aligned.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "context",
+      "quote": "I suffer ... from lack of faith.",
+      "label": "Not quite what it says",
+      "note": "Notice the precision, extracted one line later: God she dare not doubt — it is the future life that is “such an enigma.” God without immortality was the era’s signature unbelief, and she has it exactly.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "distracts me to anguish",
+      "label": "distracts",
+      "note": "in the older sense: drives me to distraction — throws the mind into turmoil; nearer “deranges” than “diverts attention.”",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p33",
+      "placement": "after",
+      "type": "idea",
+      "quote": "there’s nothing but the burdocks growing on my grave?’ as I read in some author.",
+      "label": "Burdocks, and an unnamed book",
+      "note": "Her one piece of evidence for unbelief is a book she cannot name, and Dostoevsky leaves it anonymous — the terror needs no citation. Burdocks: the coarsest weed that grows, standing for sheer vegetating nothing. And her claim that “scarcely any one else cares” isolates her artificially: this exact question was one her decade’s serious press never stopped arguing. The elder will answer not the bibliography but the person.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p33",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "mechanically, without thinking of anything",
+      "label": "mechanically",
+      "note": "in the older sense: automatically, by rote — belief inherited like a machine’s motion, not built by thought.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p36",
+      "placement": "page",
+      "type": "idea",
+      "quote": "By the experience of active love",
+      "title": "No proving it — faith as practice",
+      "note": "Zosima’s sentence does the chapter’s real work: “But there’s no proving it, though you can be convinced of it.” The order matters — proof first is impossible; conviction is a product of practice. “Strive to love your neighbor actively and indefatigably. In as far as you advance in love you will grow surer of the reality of God and of the immortality of your soul.” Belief becomes the observed result of an experiment whose instrument is love.\n\nThe move inverts the era’s strategy. The churchly apologists of the 1870s argued evidence and miracle; Dostoevsky — who had spent his Diary of a Writer years (1876–77) face to face with educated Russians carrying exactly the lady’s complaint — makes practice prior to proof: unbelief is not a deduction but a condition, curable the way a habit is, not the way an error is.\n\n“This has been tried. This is certain” is offered as an empirical claim, and the novel treats it as one: Book VI will supply the case histories — Zosima’s own conversion, and the “mysterious visitor” carried through years of active love to a public confession and a pardon.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n17",
+      "anchor": "p37",
+      "placement": "page",
+      "type": "context",
+      "quote": "becoming a sister of mercy",
+      "title": "The Sisters of Mercy",
+      "note": "A real and recent institution. The first Russian community of sisters of mercy — the Exaltation of the Cross community — was founded in St. Petersburg in 1854, during the Crimean War, at the initiative of Grand Duchess Elena Pavlovna, with the surgeon N. I. Pirogov organizing the nursing at the front. By the 1870s the sister of mercy was Russia’s accepted image of active charity, and the Russo-Turkish War of 1877–78 — over months before this chapter ran in The Russian Messenger — filled the papers with wounded soldiers and the women nursing them.\n\nThe lady’s dream is therefore her era’s ready-made martyrdom: “No wounds, no festering sores could at that moment frighten me... I would be ready to kiss such wounds” — visible, dramatic, soon over. Zosima blesses the dream while quietly pricing it: “It is much, and well that your mind is full of such dreams and not others.”",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p39",
+      "placement": "after",
+      "type": "idea",
+      "quote": "I am a hired servant, I expect my payment at once—that is, praise, and the repayment of love with love.",
+      "label": "Love as wage-labor",
+      "note": "Her self-diagnosis is colder than the era’s psychology usually managed: love as employment, wages payable in praise. And watch the delivery — “a very paroxysm of self-castigation,” sealed with “defiant resolution.” The confession doubles as a performance, and two paragraphs on the elder will name the double motive exactly.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p41",
+      "placement": "page",
+      "type": "idea",
+      "quote": "The more I love humanity in general, the less I love man in particular",
+      "title": "The Doctor’s Complaint",
+      "note": "One of the novel’s most-quoted speeches, and a parody with an address. “I might actually have faced crucifixion if it had been suddenly necessary” — the martyred-reformer self-image was the native rhetoric of Dostoevsky’s own beginnings: the Petrashevsky circle of the 1840s, whose members met on Fridays to read Fourier and dream of humanity’s regeneration. Dostoevsky was arrested in that case in 1849, stood through a staged execution, and went to Siberia. The doctor’s arithmetic — love rising exactly as distance grows — is that generation’s confession, delivered “in jest, in bitter jest”; critics have often heard the author’s own temper in it.\n\nZosima’s reply declines to argue: “It is enough that you are distressed at it.” Horror at yourself is already the work begun — a pastoral, not a logical, answer; the same move the chapter makes with the lady’s tears.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p43",
+      "placement": "after",
+      "type": "idea",
+      "quote": "your whole life will slip away like a phantom",
+      "label": "The fork: phantom or practice",
+      "note": "The elder offers her a two-forked future, neither consoling. If the confession was appetite for praise, the dreams stay dreams and the life “slips away like a phantom” — and, note the chill, “you will of yourself grow calmer after a fashion in the end.” Calm here is not peace; it is the question going numb. Her answer — “You have crushed me!” — is the sound of the diagnosis landing.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p40",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "paroxysm of self-castigation",
+      "label": "self-castigation",
+      "note": "castigation: punishment, scourging; self-castigation — a sudden fit of punishing yourself.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p26",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "in a rush of fervent feeling",
+      "label": "fervent",
+      "note": "ardent, glowing with intense feeling (from Latin fervere, to boil).",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p36",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "actively and indefatigably",
+      "label": "indefatigably",
+      "note": "without tiring; incapable of being worn out.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p43",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "gain approbation for your frankness",
+      "label": "approbation",
+      "note": "formal approval, praise.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p45",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "active love is labor and fortitude",
+      "label": "fortitude",
+      "note": "courage in enduring pain or adversity patiently — one of the classical cardinal virtues.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p45",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "if only the ordeal does not last long",
+      "label": "ordeal",
+      "note": "a severe, prolonged trial of suffering; originally a judicial test of guilt by fire or water.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p48",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "I have seen her naughtiness all along",
+      "label": "naughtiness",
+      "note": "childish badness, mischief — the period word for a child’s misbehavior, said with affection.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p45",
+      "placement": "page",
+      "type": "idea",
+      "quote": "love in action is a harsh and dreadful thing compared with love in dreams",
+      "title": "Love in Dreams, Love in Action",
+      "note": "The chapter’s most famous sentence. The contrast is built like a stage direction: love in dreams is “greedy for immediate action, rapidly performed and in the sight of all” — done “with all looking on and applauding as though on the stage.” It is the lady’s nursing fantasy exactly, and it is the buffoon’s disease in holy form: virtue performed for applause.\n\nActive love is the opposite economy: “labor and fortitude,” unwatched, unpaid, “for some people too, perhaps, a complete science.” And the closing prediction refuses triumphalism — you will feel yourself getting farther from the goal precisely when you arrive: “at that very moment I predict that you will reach it.”\n\nThe sentence went on to a second life: Dorothy Day, the American Catholic radical, quoted it again and again as a motto of her work with the poor.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p51",
+      "placement": "after",
+      "type": "idea",
+      "quote": "he said that he would never forget me, that we were friends for ever, for ever, for ever!",
+      "label": "The mockery was a message",
+      "note": "The outburst decodes the whole teasing line: the laughing girl has been keeping accounts. “Why have you put that long gown on him? If he runs he’ll fall” — the gown is the novice’s cassock, and her grievance is that the gown replaced the boy she knew. Then the pivot: helpless laughter, then tears while kissing the elder’s hand. In this chapter feeling always arrives sideways, through performance.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p54",
+      "placement": "inline",
+      "type": "context",
+      "quote": "I will certainly send him,",
+      "label": "The elder’s pedagogy",
+      "note": "One spare sentence turns doctrine into logistics: Alyosha will be sent — to Katerina’s summons and to this house. The cell teaches by sending out.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "Every honor the lady piles on the elder in this chapter — “great healer,” a cure dated “last Thursday,” hands to kiss — had a real-world equivalent that made the Church nervous, and Zosima’s reply is the institution’s standing discipline: “Relief is not complete cure, and may proceed from different causes... It’s all from God.” Credit is diverted to God; natural causes — Lise’s “night fevers,” the decade’s fashionable nervous illness — are left open, with the town doctor’s shrug (“I am amazed; I can make nothing of it”) holding the ambiguity honestly. Dostoevsky knew the setting at first hand: the monastery of this novel is modeled on Optina Pustyn, which he visited in June 1878, weeks after his son Alyosha’s death, and where the elders — Ambrose above all — drew crowds of lay pilgrims seeking healing and counsel. The chapter turns that discipline into characterization. The man being canonized announces, unprompted, “I am ill, and I know that my days are numbered”; told he looks well, he answers, “I know that it’s only for a moment.” Book II, Chapter 1 had already observed that “of late he has been so weak that he has hardly shown himself even to the people.” The dying man is the chapter’s hidden premise; the lady reads his serenity as health, and the reader is allowed to see the misreading whole.",
+      "The lady’s “lack of faith” is a precise period specimen, and the chapter stages its arrival like a confession — “I am suffering! Forgive me! I am suffering!” She believes in God (“I dare not even think of that”) but the future life is “such an enigma! And no one, no one can solve it,” and her one credential is a book she cannot name: “as I read in some author.” God retained, immortality gone — this was the century’s signature educated unbelief, the theme Dostoevsky had been handling in public for a decade; his Diary of a Writer (1876–77) returns constantly to Russians who have lost the future life and know what they have lost. The design of the book makes the point structurally: the previous chapter is “Peasant Women Who Have Faith” — griefs carried to the elder from below — while this one hands the same territory to a woman whose class, as Book II, Chapter 1 noted, waits in rooms built outside the monastery precincts. Faith arrives from below; its crisis arrives from above, in an exquisitely gloved hand. And the answer is fitted to the case, not to the system: “there’s no proving it, though you can be convinced of it” — no metaphysics, a practice.",
+      "The chapter’s positive doctrine — “By the experience of active love... This has been tried. This is certain” — stands on a negative text: the doctor’s anecdote. Its rhetoric, “enthusiastic schemes for the service of humanity” and the readiness to “face crucifixion if it had been suddenly necessary,” is a self-parody of the utopian socialism of Dostoevsky’s own beginnings: the Petrashevsky circle of the 1840s, whose members met on Fridays to read Fourier and dream of humanity’s regeneration. Dostoevsky was arrested in that case in 1849, stood through a staged execution, and went to Siberia. The doctor’s arithmetic — love rising exactly as distance grows — is that generation’s confession, delivered “in jest, in bitter jest,” the same armor Fyodor Pavlovitch wears through this monastery’s dinner two chapters on. Against it Zosima builds the sentence this chapter contributed to world literature — “love in action is a harsh and dreadful thing compared with love in dreams” — with its theatrical diagnosis (“applauding as though on the stage”) aimed at both the lady’s nursing fantasy and the buffoon’s métier. Scholarship has long traced the idiom of Zosima’s teaching to St. Tikhon of Zadonsk; the sentence itself traveled further — Dorothy Day made it a working motto of the Catholic Worker movement.",
+      "The comedy is not relief from the chapter’s argument; it is the same argument at nursery temperature. Lise teases Alyosha because shyness makes him look at her; the teasing decodes into a real grievance — “we were friends for ever, for ever, for ever!” — and dissolves into tears while she kisses the elder’s hand: feeling arriving sideways through performance, the mechanism that drives Fyodor’s buffoonery all over this monastery day. The lady’s confession obeys the same double law: delivered in “a very paroxysm of self-castigation” and sealed with “defiant resolution,” it wins the very approbation the elder then names as its secret aim — and her gratitude (“You have revealed me to myself”) is itself a bid for praise, which he answers by simply leaving: “Forgive me for not being able to stay longer with you. They are waiting for me.” The chapter closes on method rather than doctrine. Zosima promises one thing only — “I will certainly send him” — and the novel obeys: the errand to Katerina Ivanovna, begun here with a note handed over by Madame Hohlakov, will deposit Alyosha in the middle of Dmitri’s confession in Book III. Active love, this chapter insists, is not argued into existence; it is dispatched."
+    ]
+  }
+}

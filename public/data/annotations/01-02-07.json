@@ -1,0 +1,395 @@
+{
+  "chapter": "01-02-07",
+  "annotator": { "agent": "Annotator 01-02-07", "date": "2026-10-20", "rev": 1 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a narrow iron bedstead, with a strip of felt for a mattress",
+      "label": "A cell at its barest",
+      "note": "Iron bed, felt for a mattress, Gospel and cross in the icon corner: the hermitage's rule of poverty. The monastery recalls Optina Pustyn, where Dostoevsky stayed in 1878 and talked with its elders.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "leave the monastery. Go away for good.",
+      "label": "Out of the monastery",
+      "note": "Dropped in one line, the novel's boldest instruction: the elder orders his novice out of monastic life, permanently. Alyosha 'started' — and the plot obeys the order.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n03",
+      "anchor": "p6",
+      "placement": "after",
+      "type": "idea",
+      "quote": "I bless you for great service in the world.",
+      "label": "A blessing is an assignment",
+      "note": "Elders bless as a command, not a farewell: pilgrimage, marriage, service in the world — everything a novice does not expect. The inventory reads, from the far side of the book, as the plot's map: the long pilgrimage, the wife, and 'in sorrow' the happiness are all ahead of him.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n04",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "context",
+      "quote": "the significance of his bowing to Dmitri",
+      "label": "The unexplained bow",
+      "note": "Zossima's earth-bow before Dmitri in the cell (Chapter V) stunned everyone; the elder offers no meaning. The explanation is long in coming — it lands only after catastrophe.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n05",
+      "anchor": "p10",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "through the copse",
+      "label": "copse",
+      "note": "a small wood or thicket of trees.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "context",
+      "quote": "you go and hand the sauces",
+      "label": "Waiting at table",
+      "note": "A novice's duty at a monastery feast: serving dishes and sauces at the abbot's table. The elder has just posted Alyosha to it — 'You will wait, and be of service.'",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "I shan’t be there",
+      "label": "shan’t",
+      "note": "'shall not' — the dated British contraction; part of Garnett's period English.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p14",
+      "placement": "inline",
+      "type": "term",
+      "quote": "tap the ground with his forehead",
+      "label": "The earth-bow, mocked",
+      "note": "Rakitin's verb for the full prostration — forehead to the floor — that Zossima made before Dmitri in the cell. 'Tap' strips the rite down to a stage move.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p20",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the usual holy mummery",
+      "label": "mummery",
+      "note": "showy ritual without meaning; mere performance — from the mummers, masked players.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p23",
+      "placement": "inline",
+      "type": "term",
+      "quote": "they cross themselves at the tavern and throw stones at the temple.",
+      "label": "An inverted proverb",
+      "note": "A proverb of inverted piety — devout in the tavern, hostile to the temple. Rakitin aims its terms at the cell scene: 'a just man' is Fyodor, 'a murderer' is Dmitri, and the elder, in his telling, has it exactly backwards.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p26",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "always between two stools",
+      "label": "between two stools",
+      "note": "an idiom for hedging a choice: trying to keep both seats, you lose both.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p27",
+      "placement": "after",
+      "type": "idea",
+      "quote": "I have,” answered Alyosha in a low voice. Even Rakitin was taken aback.",
+      "label": "The chapter's darkest sentence",
+      "note": "Asked point-blank whether he has thought of a crime in his own family, Alyosha answers like a man confessing — and Rakitin, who came to shock, is himself shocked. The correction only deepens it: the thought arrived with Rakitin's words, because Alyosha already knows his family. Suggestion works instantly on a mind with nothing false to defend.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p32",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a drunken and abandoned old sinner",
+      "label": "abandoned",
+      "note": "in the older moral sense: given over utterly to vice; reprobate — not 'deserted.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p34",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "he’s—a sensualist. That’s the very definition and inner essence of him.",
+      "label": "sensualist",
+      "note": "a person ruled by bodily appetite; in the period's moral vocabulary, lust as a governing vice — far stronger than modern 'sensual.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p34",
+      "placement": "after",
+      "type": "idea",
+      "quote": "these three sensualists are watching one another, with their knives in their belts. The three of them are knocking their heads together, and you may be the fourth.",
+      "label": "Three knives — and a fourth",
+      "note": "Rakitin counts the household: father, Dmitri, Ivan, appetite facing appetite, blades within reach — and adds a fourth place for Alyosha. The book never refutes the arithmetic; what it keeps asking is what Alyosha's fourth means. The sneer is the novel's own question in an unfriendly voice.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p36",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "Pushkin, the poet of women’s feet, sung of their feet in his verse.",
+      "title": "Pushkin, 'the poet of women's feet'",
+      "note": "The label is period-accurate abuse. Pushkin (1799–1837), Russia's national poet, filled his early lyrics and epigrams with erotic praise of women's little feet — a cult his whole reading public knew and joked about. Reducing the sacred name to feet is Rakitin's argument in miniature: if even Pushkin was a sensualist, then Dmitri's bondage ('he does [despise her], but he can’t tear himself away') is simply nature speaking.\n\nDostoevsky's own relation to Pushkin was otherwise: he himself would crown Pushkin in his famous 1880 Pushkin speech, delivered while the novel's later books were still appearing. Here the novelist lets his meanest character keep the feet — and lets Alyosha's stray 'I understand that' show where the argument actually bites.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p38",
+      "placement": "inline",
+      "type": "context",
+      "quote": "‘I’ll pull off his cassock,’ she says.",
+      "label": "Pull off his cassock",
+      "note": "Grushenka's joke on the novice: seduce him out of his habit — the cassock is a monk's outer garment — and see what is underneath. Rakitin relays it to wound; Alyosha answers, 'Thank her and say I’m not coming.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p40",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "for whom he is languishing",
+      "label": "languishing",
+      "note": "pining, consumed by an unsatisfied love or desire.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p40",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "she could filch a lot of money from the papa",
+      "label": "filch",
+      "note": "to steal slyly, in small amounts.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p40",
+      "placement": "inline",
+      "type": "context",
+      "quote": "pocket her dowry of sixty thousand",
+      "label": "Sixty thousand",
+      "note": "A great fortune for the provinces — decades of a modest man's income. It sharpens Rakitin's portrait: Ivan 'languishing' for a bride worth sixty thousand starts to look, in his telling, like appetite like anyone else's.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p40",
+      "placement": "inline",
+      "type": "context",
+      "quote": "the mistress of a dissolute old merchant, Samsonov, a coarse, uneducated, provincial mayor",
+      "label": "Samsonov",
+      "note": "The old merchant who kept Grushenka and discarded her. 'Provincial mayor' apparently renders gorodnichy, a small-town official under the old provincial system. He becomes important late in the novel, when Dmitri, desperate for money, comes to him.",
+      "confidence": "likely",
+      "spoiler": true
+    },
+    {
+      "id": "n22",
+      "anchor": "p47",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "don’t want millions, but an answer to their questions",
+      "label": "The answer, not the millions",
+      "note": "Alyosha borrows his elder's idiom to defend Ivan, and Rakitin instantly fines him for plagiarism — correctly. The line is still the novel's key to Ivan: he wants an answer, not comfort, and the book will pay him out in suffering.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n23",
+      "anchor": "p48",
+      "placement": "page",
+      "type": "idea",
+      "quote": "Humanity will find in itself the power to live for virtue even without believing in immortality. It will find it in love for freedom, for equality, for fraternity.",
+      "title": "Virtue without immortality",
+      "note": "The triad is the French Revolution's — liberty, equality, fraternity — and the position is the radical press of the 1860s: morality grounded not in God and immortality but in the love of freedom, equality, fraternity. That ethics had founding texts — Belinsky's Letter to Gogol above all, the document whose reading in the Petrashevsky circle led to Dostoevsky's arrest — and a price he knew: sentenced to death in 1849, reprieved at the last minute on the scaffold. He spent the rest of his life answering it.\n\nSo the chapter is a duel he had been fighting for thirty years, and he arms his opponent well: this is the strongest statement of the secular case in the novel so far, and it is delivered with real heat — 'Rakitin could hardly restrain himself' — before breaking off 'as though remembering something.' Note too the parody of liberal style: 'on the one hand we cannot but admit' and 'on the other it must be confessed!' — the evasive hedges of the journal article, which his readers recognized on sight.\n\nThe chapter also quietly locks the creed to Ivan's formula: 'if there’s no immortality of the soul, then there’s no virtue, and everything is lawful' — stated here, through a gossip's mouth, before Ivan's own arguments appear at length. Rakitin calls it 'an attractive theory for scoundrels,' then amends the noun to 'pedantic poseurs.' The novel will test both verdicts.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p48",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "for pedantic poseurs",
+      "label": "poseurs",
+      "note": "people who strike attitudes for effect — from the French poser, 'to pose.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p51",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "I guess from your warmth that you are not indifferent to Katerina Ivanovna yourself",
+      "label": "Alyosha's counterstroke",
+      "note": "The meek brother lands the mirror-jab: the heat of Rakitin's case against Ivan's mercenary marriage betrays his own interest in Katerina Ivanovna. He fights by diagnosis, not insult — and the diagnosis works.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p56",
+      "placement": "page",
+      "type": "context",
+      "quote": "get on to some solid magazine as a reviewer",
+      "title": "The career: Russia's magazine trade",
+      "note": "Ivan's mock-prophecy is a precise map of the literary profession of the 1860s–70s. The 'solid magazine' is the tolstyi zhurnal, the thick monthly carrying fiction, criticism and politics — Notes of the Fatherland and The Contemporary were the liberal giants — and rising from reviewer to owner was the real ladder; Nekrasov had climbed exactly that high. Dostoevsky knew the trade from inside: he edited and published Time (1861–63) and Epoch (1864–65) with his brother Mikhail, and later edited The Citizen — magazines were his workshop and his ruin.\n\nThe rest of the portrait is the anti-liberal cartoon of the day: an atheistic, socialistic line worn for the market, 'keeping in with both sides and hoodwinking the fools,' and the proceeds banked — 'under the guidance of some Jew,' the period's stock figure of the hidden financier, put in Ivan's mouth as reported mockery. The last touch is topographical: a great house 'near the new stone bridge across the Neva, which they say is to be built.' The novel's action sits in the mid-1860s, when a second permanent bridge over the Neva at Liteiny was still only a project; it opened in 1879.\n\nAlyosha's verdict — 'that’s just what will really happen, every word of it' — turns the cartoon into the chapter's title: a young man bent on a career.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p56",
+      "placement": "inline",
+      "type": "term",
+      "quote": "the career of an archimandrite",
+      "label": "archimandrite",
+      "note": "a monastic superior of high rank — abbot of a major monastery. The Church career was Rakitin's other road; Ivan's joke offers him the choice of mitres: archimandrite or magazine.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p56",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "laying by the proceeds",
+      "label": "lay by",
+      "note": "to save up, put aside — the older idiom for accumulating money.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p57",
+      "placement": "after",
+      "type": "idea",
+      "quote": "that’s just what will really happen, every word of it,",
+      "label": "The gentlest cruelty",
+      "note": "Alyosha's good-humored ratification is crueler than any insult: Ivan's parody of a Rakitin biography is, he says, exact. The chapter's title names the prophecy, and the gentlest character signs it — the one blow Alyosha strikes without a softener, and Rakitin feels it at once ('You are pleased to be sarcastic, too').",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n30",
+      "anchor": "p60",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "I was sitting in Grushenka’s bedroom",
+      "label": "Rakitin's newsroom",
+      "note": "Every hard fact in the chapter traces back to this posture: Rakitin posted in a woman's bedroom, listening through a wall to a story not meant for him. His public career begins in private listening.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p62",
+      "placement": "inline",
+      "type": "context",
+      "quote": "That Grushenka a relation of mine!",
+      "label": "The denied kinsman",
+      "note": "Alyosha's 'I heard so' is not malice — and the novel keeps a card up its sleeve: Grushenka later speaks of Rakitin as her kinsman, which is what makes his constant visits to her natural. His fury here is at the class insult, not the fact.",
+      "confidence": "likely",
+      "spoiler": true
+    },
+    {
+      "id": "n32",
+      "anchor": "p64",
+      "placement": "inline",
+      "type": "context",
+      "quote": "brag of being an ancient, noble family",
+      "label": "Class war",
+      "note": "Class resentment, both directions at once. The Karamazovs are new gentry — landowners of no ancient name — but they play at nobility; Rakitin, a priest's son of the seminary, is 'dirt' to such people regardless of his abilities. Behind money and God, the chapter's third duel is rank.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n33",
+      "anchor": "p64",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "so lightly and wantonly",
+      "label": "wantonly",
+      "note": "recklessly, without just cause; maliciously in sport.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n34",
+      "anchor": "p67",
+      "placement": "before",
+      "type": "context",
+      "quote": "They’ve broken out from the Father Superior’s.",
+      "label": "The wreckage first",
+      "note": "You are arriving late on purpose. The scandal at the Father Superior's table exploded while Alyosha and Rakitin talked in the copse; this chapter shows only its aftermath — father and son in flight, Miüsov's carriage pulling away — and the next chapter rewinds to show the scene itself from its beginning.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "Zossima's bedroom scene is short, and everything in it is instruction: 'Go, my dear boy, go'; 'leave the monastery. Go away for good'; 'I bless you for great service in the world. Yours will be a long pilgrimage. And you will have to take a wife, too. You will see great sorrow, and in that sorrow you will be happy.' In the elder tradition Dostoevsky had studied at first hand — the documented June 1878 stay at Optina Pustyn, with its conversations with Elder Ambrosy, the monk generally named as Zosima's model — a blessing was not a farewell but an assignment: elders directed disciples out of the monastery into marriage, work and the world, and the disciple's subsequent life was read as the blessing unfolding. Alyosha 'started' because the order reverses everything a novice expects; heard from the far side of the novel, it is the plot's first full outline. The one question Alyosha aches to ask — the meaning of the bow — the elder will not take up: 'Mysterious, and perhaps awful' is all this chapter allows, and the rest of the book is set to answer it.",
+      "Rakitin's question — 'what does that vision mean?' — drives the chapter, and his answer is the demystified one: publicity. 'All the pious people in the town will talk about it... \"He predicted the crime and marked the criminal!\"' What keeps this more than sneering is that the chapter stands on the novel's own scaffolding for parricide. Rakitin knows a line past which Dmitri would 'run at your father with a knife'; he counts the family 'with their knives in their belts' and assigns Alyosha 'the fourth'; and Alyosha's whispered 'I have' makes the first payment on both accounts. Dostoevsky had announced the pivot in an 1879 letter to Pobedonostsev — the novel would turn on a son killing his father — and grounded it in a case he had known in his Omsk prison camp: a young man convicted of parricide who served years in Siberia before the real murderers cleared him. The crime Rakitin predicts as church PR and the crime the letter plans are one and the same; the sneer and the prophecy ride a paragraph apart.",
+      "Rakitin's burst of theology is a period document the size of a paragraph. His formula — 'if there’s no immortality of the soul, then there’s no virtue, and everything is lawful' — states Ivan's thesis before Ivan gets to make it himself; his counter-creed grounds virtue 'in love for freedom, for equality, for fraternity' — the French Revolution's triad, the working creed of the radical journals of the 1860s. Dostoevsky had heard that ethics read aloud in the Petrashevsky circle and been sentenced for it; Belinsky's Letter to Gogol, the movement's founding text, cost him his freedom. The duel in the copse is that thirty-year polemic in miniature, and the novelist arms his adversary well: the secular case is stated here at its published best, complete with a parody of the liberal article's evasive rhythm — 'on the one hand we cannot but admit' and 'on the other it must be confessed!' — and it is Alyosha who notices the heat, 'I understand your getting hot about it,' before finding its private cause.",
+      "The chapter's title hangs on one paragraph of Ivan's reported mockery — and it is a map of the trade Dostoevsky himself worked in. The 'solid magazine' is the thick monthly of the era, fiction, criticism and politics under one cover; rising from reviewer to owner was the real career ladder, and Dostoevsky had lived it: Time (1861–63) and Epoch (1864–65), edited and published with his brother Mikhail, then The Citizen, then the Diary of a Writer in monthly installments — journalism as livelihood, battlefield and ruin. Around that core the portrait is the anti-liberal cartoon of the day: atheism and 'a socialistic tinge' worn for the market, hedging ('keeping in with both sides and hoodwinking the fools'), and the earnings banked 'under the guidance of some Jew' — the period's stock figure of the hidden financier, and a reminder of how cheaply such caricature came even to a great novelist. The last item is topographical: a great house 'near the new stone bridge across the Neva, which they say is to be built' — the action sits in the mid-1860s, when a bridge at Liteiny was still a project (it opened in 1879), so Rakitin's fantasy already has an address in the city's future. Alyosha's smiling 'every word of it' converts the cartoon into the chapter's verdict."
+    ]
+  }
+}

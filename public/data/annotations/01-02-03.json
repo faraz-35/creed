@@ -1,0 +1,340 @@
+{
+  "chapter": "01-02-03",
+  "annotator": { "agent": "subagent-01-02-03", "date": "2026-09-08", "rev": 1 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a separate part of it set aside for women of rank",
+      "label": "Class line at the threshold",
+      "note": "Even at the elder's door the estate system holds: peasant women crowd the ground below the steps, while the gentry wait on the portico in a section reserved for rank. The chapter's first movement is Zosima walking straight past that line, down to the peasants.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a long reclining chair",
+      "label": "Liza Khokhlakova",
+      "note": "This paralyzed fourteen-year-old is Liza Khokhlakova, who will become one of the novel's central young figures — and Alyosha's first love. Her long illness, and the strange turn it takes, are still far ahead.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n03",
+      "anchor": "p3",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "invalid carriage",
+      "label": "invalid carriage",
+      "note": "a wheeled, padded chair for the sick — something between a bath chair and a chaise, pushed by an attendant.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p4",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "put on his stole",
+      "label": "stole",
+      "note": "the long linen scarf a priest wears over neck and shoulders whenever he administers the sacraments. Laying it on the sick woman's forehead makes the act liturgical, not casual.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p5",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the trickery of the “clericals,”",
+      "label": "clericals",
+      "note": "churchmen; “the clericals” — period British usage for the clergy. The narrator lists the explanation he was given as a child: the fits were faked, and the clergy's sacrament was part of the show.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p5",
+      "placement": "page",
+      "type": "context",
+      "quote": "a terrible illness to which women are subject",
+      "title": "The klikusha: the “possessed” women",
+      "note": "The woman described here is a klikusha — Russian for “shrieker” (from klikat', to cry out). Her fits of shrieking, barking, and convulsion were read by village religion as demonic possession; folk belief held that the demon inside her named her tormentor. Almost all the afflicted were peasant women.\n\nIn Dostoevsky's decade the klikusha was a contested figure: church tradition claimed her for exorcism, the radical press called her a fraud — a woman feigning fits to escape field work — and Russian medical men classed the illness as a nervous disease of the overworked poor. The narrator takes the doctors' side (“medical specialists… no pretense about it”) and gives it his own mechanism: expectation of the miracle produces the fit, and the same expectation produces the cure. Belief is pathology and therapy at once.\n\nDostoevsky had made much the same case in his Diary of a Writer (1876), treating the klikusha's illness as the receipt for the peasant woman's hard lot — childbirth, toil, beatings — the exact catalogue this paragraph recites. Note what the scene itself does: Zosima performs no exorcism. He lays the stole on her forehead and reads “a short prayer,” and she is “at once soothed” — miracle and mechanism both, which is the novel's working position throughout.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p6",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "in sing-song voices",
+      "label": "sing-song",
+      "note": "in a regular chanting rise and fall — speech halfway to song. The phrase marks the women's cries as ritual utterance, not conversation.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p7",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "six versts",
+      "label": "verst",
+      "note": "1.07 kilometres, about two-thirds of a mile — the standard Russian measure of road distance.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "chanting a dirge",
+      "label": "dirge",
+      "note": "a chant for the dead; any slow, mournful, measured song of grief.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p9",
+      "placement": "page",
+      "type": "context",
+      "quote": "From two hundred miles from here",
+      "title": "The Russian lament: prichitanie",
+      "note": "Nastasya's entrance — “From afar off, Father, from afar off!”, repeated, head swaying, “as though she were chanting a dirge” — is not disorderly grief but a genre: the prichitanie, the ritual lament sung by Russian peasant women at funerals, at partings, at sons' conscription into the army. Skilled lamenters were semi-professionals, and the repetitions and address formulas (“O Father!”) were fixed by tradition.\n\nDostoevsky's decade was canonizing the genre: Elpidifor Barsov's multi-volume collection of northern laments began appearing in 1872, making the lamenting peasant woman a figure of national ethnography — the authenticated voice of illiterate Russia.\n\nThe chapter is organized around that voice rather than merely decorated with it. The narrator's intervening paragraph is a theory of lament — it “does not desire consolation,” it “feeds on the sense of its hopelessness,” it springs from “the constant craving to reopen the wound.” And Zosima's first response is to license the performance, not stop it: “Weep and be not consoled, but weep.” Only then, paragraph by paragraph, does he turn the same lament toward “quiet joy.” Folklore supplies the form; the elder supplies the redirection.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n11",
+      "anchor": "p10",
+      "placement": "after",
+      "type": "idea",
+      "quote": "Lamentations comfort only by lacerating the heart still more",
+      "label": "Two griefs, one verdict",
+      "note": "The chapter's thesis paragraph, written as psychology rather than sentiment: the silent grief and the wailed grief weigh the same, and lamentation is not release but repetition — it reopens the wound on schedule. Everything after this is built on it: Nastasya's chant, the elder's “Weep and be not consoled, but weep,” and the monastic principle that a wound must be kept open — attended, not closed — before it can heal.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p11",
+      "placement": "inline",
+      "type": "context",
+      "quote": "You are of the tradesman class?",
+      "label": "The tradesman class",
+      "note": "Russian society was legally sorted into estates (soslovie): peasants, town commoners (“tradesmen,” meshchane), merchants, clergy, nobility. Nastasya's answer blurs the sorting — townfolk, but peasants by blood — a small instance of the social blur the elder reads without comment.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "context",
+      "quote": "I have come on a pilgrimage",
+      "label": "A pilgrim's itinerary",
+      "note": "Pilgrimage between monasteries was a standing devotion of lay Russia; the roads were full of pilgrims, and monasteries lived on their visits. “Go, Nastasya, go to them” — one monastery's elders handing her on to the next, referral by reputation.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p15",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "how bold these little ones are before the throne of God",
+      "label": "The saint's tale",
+      "note": "A patristic-flavored legend rather than Scripture: dead infants are “bold” before God's throne and receive “the rank of angels” — the territory of the Orthodox funeral office for infants. Zosima marks his source honestly: “what the saint said to the weeping mother of old.”",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p18",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "embroidered sash",
+      "label": "sash",
+      "note": "a ribbon worn round the waist. The dead boy's little belt functions as a relic — the body reduced to its least possessions.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p19",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "It is Rachel of old",
+      "label": "Rachel weeping",
+      "note": "Jeremiah 31:15, as made famous by Matthew 2:18 — Rachel weeping for her children and refusing comfort, the verse of Bethlehem's murdered infants. The aptest possible text for a mother of the dead; and the elder adds what the scene in Scripture does not: the weeping is to be kept, and will “turn in the end into quiet joy.”",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p21",
+      "placement": "inline",
+      "type": "allusion",
+      "quote": "After Alexey, the man of God?",
+      "label": "Alexey, the man of God",
+      "note": "St. Alexius “the Man of God” — the saint who renounced wealth and lived unrecognized as a beggar beneath his own parents' stairs. The name is also the novel's: Alyosha Karamazov, present all through these monastery chapters, bears it.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p23",
+      "placement": "after",
+      "type": "idea",
+      "quote": "It is a sin for you to leave him",
+      "label": "Grief given work",
+      "note": "Zosima's cure for mourning is a task, not a consolation: the child is alive, watching, and needs his parents together — so go home, today. The dead boy even enters the household's dreams, which will turn from grieving dreams to “gentle dreams” once the family is repaired. Psychology and theology run in one sentence, and both are made to serve an ordinary marriage.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p24",
+      "placement": "inline",
+      "type": "context",
+      "quote": "in the commissariat service",
+      "label": "A son in Siberia",
+      "note": "The commissariat was the army's supply branch; it posted men to the far east of the Empire — Irkutsk lies in eastern Siberia — where a year without a letter was ordinary dread. Her folk remedy belongs to the same world of absence: practical magic against silence.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p26",
+      "placement": "inline",
+      "type": "context",
+      "quote": "akin to sorcery",
+      "label": "Folk magic and prophecy",
+      "note": "The Church drew a hard line between prayer and folk magic, and Zosima marks it sharply — the shamed question is “a great sin, akin to sorcery.” But his own answer stands as far from official routine: a prophecy — “Your son is alive, I tell you” — delivered as flatly as advice.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p28",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "consumptive-looking",
+      "label": "consumptive-looking",
+      "note": "showing the marks of consumption — tuberculosis, the century's great wasting disease.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n22",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "term",
+      "quote": "Absolve my soul, Father",
+      "label": "“Absolve my soul”",
+      "note": "The standard opening of Orthodox confession: the penitent kneels at the priest's feet and asks absolution; the priest is witness and physician of the soul, not judge. Next paragraph Zosima “sat down on the lower step” — at her level.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p34",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "went on in a low whisper, so that it was almost impossible to catch anything",
+      "label": "The withheld confession",
+      "note": "The reader is shut out of this confession, as everyone but the elder is. Its shape can be inferred: her old husband lay ill, she had a “thought,” and three years ago he died. Whether she only wished for his death or did something, the novel never says.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p43",
+      "placement": "after",
+      "type": "idea",
+      "quote": "All things are atoned for, all things are saved by love",
+      "label": "The chapter's summit — and the novel's",
+      "note": "This is the novel's theology in miniature: no sin can “exhaust the infinite love of God”; God loves you “with your sin, in your sin”; love can “redeem the whole world.” The text behind “more joy in heaven” is Luke 15:7 — one repentant sinner over ninety-nine righteous — though Zosima says “ten righteous men,” tightening the odds. The doctrine of active love is expounded at full length in Book VI, when Zosima's discourses are set down; this whispered scene on the steps is its first complete statement.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n25",
+      "anchor": "p44",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a little ikon",
+      "label": "ikon",
+      "note": "an icon: a painted image of Christ or a saint. He takes it from his own neck — a monk's small blessed icon worn on the breast — and gives it away.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p47",
+      "placement": "page",
+      "type": "translation",
+      "quote": "Five miles you have dragged yourself with the baby",
+      "title": "Versts and miles: Garnett's conversion",
+      "note": "Garnett's units wobble. Elsewhere in this chapter she keeps versts (the possessed woman comes from “only six versts” away), but for other distances she writes miles: Nastasya's “two hundred miles,” the widow's “Over three hundred miles away,” and the “Five miles” of this paragraph — all of them versts in the Russian text.\n\nA verst is about two-thirds of a mile (1.07 km), so the converted figures inflate the distances: 200 versts is about 133 miles. The cumulative effect is small but real — Russia reads vaster in English than in Russian, and a woman's pilgrimage reads as more impossible.\n\nLater translators generally keep versts throughout.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p48",
+      "placement": "inline",
+      "type": "context",
+      "quote": "You’ll live another twenty years",
+      "label": "The blessing banked",
+      "note": "Her cheerful arithmetic — an elder's blessing counted on like a deposit, and “there are plenty to pray for you” as her whole theory of grace. Zosima's reply, “I thank you for all, daughter,” accepts the gift without correcting the theology.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p50",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "Here are sixty copecks",
+      "label": "copecks",
+      "note": "copper coins; 100 copecks to the rouble. Sixty copecks is a small, carefully saved sum for a peasant woman.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p54",
+      "placement": "inline",
+      "type": "context",
+      "quote": "He blessed them all and bowed low to them.",
+      "label": "The bow",
+      "note": "The elder bows low to peasant women — and before this monastery visit ends he will do more: bow to the ground before Mitya Karamazov, stunning everyone present. Bowing to the image of God in the sinner is the gesture of his whole office; this quiet version is its rehearsal.",
+      "confidence": "certain",
+      "spoiler": true
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The chapter's opening miracle arrives with its case file attached. The shrieking woman healed by the stole, and the essay on the “possessed” that the narrator hangs on her, belong to a specific controversy of the 1870s: klikushestvo, the affliction of the klikusha — a peasant woman subject to fits of shrieking and barking, read by village religion as demon-possessed and dismissed by the radical press as a malingerer escaping field work. Russian medical men of the day classed it as a nervous disease of the overworked poor, and Dostoevsky had argued their case himself in his Diary of a Writer of 1876; this chapter's narrator takes the same position — “no pretense about it… a terrible illness,” “due to the hard lot of the peasant women” — and then goes a step beyond both parties: expectation of the miracle produces the fit, and the same expectation produces the cure. Belief is pathology and therapy at once, and the elder works the machinery knowingly, laying the stole on her forehead and reading “a short prayer.” The novel's double bookkeeping — mechanism and miracle, both standing — begins here.",
+      "Nastasya's entrance — “From afar off, Father, from afar off!”, repeated, head swaying, “as though she were chanting a dirge” — is a specimen of the prichitanie, the ritual lament of Russian peasant women: a sung genre of funerals, partings, and sons' conscription, performed within fixed formulas by semi-professional lamenters. Dostoevsky's decade was busy canonizing it: Elpidifor Barsov's multi-volume collection of northern laments began appearing in 1872, and the lamenting woman became a figure of national ethnography — the authenticated voice of illiterate Russia. The chapter is organized around that voice rather than decorated with it: the narrator's intervening paragraph is a theory of lament (“It feeds on the sense of its hopelessness”; “the constant craving to reopen the wound”), and Zosima's first move is to license the performance rather than stop it — “Weep and be not consoled, but weep” — before turning the same lament, paragraph by paragraph, toward “quiet joy.” Folklore supplies the form; the elder supplies the redirection.",
+      "Zosima's consolations here are almost entirely quotation, and the sources are legible. The saint's tale of the mother in the Temple — dead infants “bold” before God's throne, given “the rank of angels” — belongs to the Church's lore of the infant dead, the territory the Orthodox funeral office for children sings. “Weeping for her children, and will not be comforted because they are not” is Jeremiah 31:15 in the form Matthew 2:18 made famous — the verse of Bethlehem's murdered babies, invoked for a mother of the dead. The boy's name calls up St. Alexius “the man of God,” and is also the name of the novel's young hero in this same monastery. “More joy in heaven than over ten righteous men” is Luke 15:7 with the odds tightened (“ninety-nine righteous” in the Gospel). And the summit — “All things are atoned for, all things are saved by love” — carries the documented lineage of St. Tikhon of Zadonsk, Dostoevsky's chief source for Zosima's teaching. The elder invents almost nothing; the chapter shows the treasury being opened and spent.",
+      "The chapter is also a précis of a starets's public ministry as Russia actually knew it: the healing line at the portico, the stole laid on the afflicted, whispered confession on the steps, alms channeled through him — the woman with the baby hands him sixty copecks “to some one poorer” — and prophecy (“Your son is alive, I tell you”) delivered as casually as advice. The real-world model was Optina Pustyn, the monastery Dostoevsky visited in June 1878, weeks after his son Alyosha's death, conversing three times with its famed elder Ambrose, celebrated for exactly this gift of discernment; accounts of Ambrose describe an unceremonious, joking warmth with just such visitors. The chapter's own structure performs the theology it teaches: it moves from public wailing, through Prohorovna's folk-magic riddle, to the whisper “so that it was almost impossible to catch anything,” and the answer to that inaudible secret — “If you are penitent, you love. And if you love you are of God” — is the novel's first complete statement of active love, the teaching the rest of the book will spend itself proving."
+    ]
+  }
+}

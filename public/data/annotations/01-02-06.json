@@ -1,0 +1,373 @@
+{
+  "chapter": "01-02-06",
+  "annotator": { "agent": "Annotator 01-02-06", "date": "2026-10-20", "rev": 1 },
+  "schema": "v2",
+  "placements": {
+    "inline": "dotted underline on the exact words, hover box — glosses and quick context",
+    "before": "block above the paragraph — orientation you want before reading",
+    "after": "block below the paragraph — analysis best read after",
+    "page": "reference page (overlay) — deep material: translations, cases, background"
+  },
+  "annotations": [
+    {
+      "id": "n01",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "an unhealthy sallowness",
+      "label": "sallowness",
+      "note": "a sickly, yellowish pallor of the skin.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n02",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "context",
+      "quote": "our justice of the peace, Katchalnikov",
+      "label": "Justice of the peace",
+      "note": "An elected local magistrate for minor cases, created by Russia's 1864 judicial reform. The town quotes its new legal experts even in physiognomy: Dmitri is described like a case file.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n03",
+      "anchor": "p1",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "agreeable countenance",
+      "label": "countenance",
+      "note": "the face, or its expression — the literary word for a person's look.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n04",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "he still had mustaches and no beard",
+      "label": "The officer's face",
+      "note": "In 1870s Russia beards marked the civilian and the cleric; army officers were shaved and mustached. 'Only lately left the army' — Dmitri's face still carries the uniform he has just taken off.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n05",
+      "anchor": "p2",
+      "placement": "inline",
+      "type": "context",
+      "quote": "made him a low bow, and asked his blessing",
+      "label": "Asking a blessing",
+      "note": "A layman greets an elder with a bow and a request for blessing; the devout kiss the hand that blesses. Dmitri does it 'with intense feeling, almost anger' — reverence and grievance in a single gesture.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n06",
+      "anchor": "p9",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a certain well-bred nonchalance",
+      "label": "nonchalance",
+      "note": "unconcern; a coolly indifferent air — a French loanword; 'well-bred' makes the indifference itself a class marker.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n07",
+      "anchor": "p10",
+      "placement": "inline",
+      "type": "context",
+      "quote": "often mix up the final results of socialism with those of Christianity",
+      "label": "The police confuse the two",
+      "note": "Ivan's joke on a real phenomenon: European police watching the socialist movement kept confusing its language — brotherhood, community of goods — with Christianity's. 'Your Paris anecdote' points back to the story Miüsov was telling when Dmitri walked in.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n08",
+      "anchor": "p10",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "our liberal dilettanti",
+      "label": "dilettanti",
+      "note": "plural of dilettante: dabblers, amateurs — Ivan's jab at fashionably superficial Liberals.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n09",
+      "anchor": "p11",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "any love on earth hitherto",
+      "label": "hitherto",
+      "note": "until now — a formal, bookish adverb.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n10",
+      "anchor": "p11",
+      "placement": "page",
+      "type": "idea",
+      "quote": "everything would be lawful, even cannibalism",
+      "title": "'Everything would be lawful' — the formula's first airing",
+      "note": "Miüsov relays Ivan's five-days-old declaration as a chain: no God and no immortality, no natural law of love; belief in immortality is 'the whole natural law'; destroy it and 'every living force maintaining the life of the world' dries up; for the unbeliever, egoism 'even to crime' becomes 'the most rational, even honorable outcome.' This was the decade's real battleground: materialist and positivist writers argued that morality was human convention, and the conservative answer — Dostoevsky's answer — was that without God and the soul everything collapses into appetite, a reductio sharpened here to cannibalism. It is the novel's most famous formula, and Dmitri's flat 'I'll remember it' shows how it circulates — filed away by the man of passions. The novel lets Ivan argue it himself, at full scale, only much later.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n11",
+      "anchor": "p12",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "if I’ve heard aright",
+      "label": "aright",
+      "note": "correctly, rightly — an archaic-sounding adverb.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n12",
+      "anchor": "p14",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "I’ll remember it.",
+      "label": "Three flat words",
+      "note": "Dmitri says this and falls silent for the rest of the debate. The man of passions has pocketed the man of ideas' most dangerous sentence — that for the unbeliever crime can be 'the most rational outcome.' Dostoevsky keeps accounts of who holds which idea.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n13",
+      "anchor": "p20",
+      "placement": "inline",
+      "type": "context",
+      "quote": "your article on Church jurisdiction",
+      "label": "Ivan's article",
+      "note": "Ivan's published article argued for renewing the unity of Church and state: church courts replacing secular ones, penance replacing punishment. Zossima quotes it back at him — the deeper charge being that Ivan defends ideas he no longer believes.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n14",
+      "anchor": "p22",
+      "placement": "after",
+      "type": "idea",
+      "quote": "That question you have not answered, and it is your great grief, for it clamors for an answer.",
+      "label": "Zossima reads Ivan",
+      "note": "The chapter's hinge. 'Perhaps you are right! ... But I wasn't altogether joking' — Ivan's blush is a confession, and the elder names the pattern: unbelief as entertainment, the martyr amusing himself with his despair, arguing in magazines and society what he mocks inwardly with 'an aching heart.' The performance keeps the real question at bay; the question keeps pressing.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n15",
+      "anchor": "p22",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the martyr likes sometimes to divert himself",
+      "label": "divert",
+      "note": "to amuse, entertain oneself — the older reflexive sense; not 'turn aside.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n16",
+      "anchor": "p26",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "my most dutiful Karl Moor, so to speak",
+      "title": "Schiller's The Robbers (Die Räuber, 1781)",
+      "note": "Fyodor's casting speech is theater, and its script is Schiller's debut play — a sensation in Germany, and in nineteenth-century Russia the very volume of the Schiller cult: the schoolroom shorthand for noble rebellion, family war, and theatrical villainy.\n\nThe roles as Schiller wrote them: old Count von Moor, the deceived father; Karl, the passionate elder son, slandered and driven into banditry; Franz, the scheming younger brother who engineers it all to seize the inheritance. The buffoon assigns the parts upside down: Ivan 'my most dutiful Karl Moor,' Dmitri 'the undutiful Franz Moor,' himself 'the reigning Count von Moor' — the wronged patriarch. But the inheritance war in this cell runs the other way: Dmitri is the elder son whose patrimony his father is accused of swallowing ('hidden the children's money in my boots') — the play's Karl, handed Franz's mask, while the accuser costumes himself as victim.\n\nDmitri names the genre himself — 'An unseemly farce which I foresaw' — and the elder answers with the room's only anti-theatrical command: 'Speak without buffoonery.' Costume against confession; that fight runs to the end of the visit.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n17",
+      "anchor": "p29",
+      "placement": "inline",
+      "type": "context",
+      "quote": "hidden the children’s money in my boots",
+      "label": "The quarrel beneath the scene",
+      "note": "Fyodor was guardian of Dmitri's inheritance from his dead mother and, Dmitri believes, swallowed it — hence the demand for 'an account.' Even inside a monastery cell, father and son conduct the fight by bookkeeping.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n18",
+      "anchor": "p29",
+      "placement": "inline",
+      "type": "context",
+      "quote": "had the Anna Order on his breast",
+      "label": "The Anna Order",
+      "note": "The Order of St. Anna — a common imperial decoration for service, worn on the breast. It marks the girl's father as an honored colonel, Fyodor's point being how high the family stood that Dmitri's broken promise has disgraced.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n19",
+      "anchor": "p29",
+      "placement": "inline",
+      "type": "context",
+      "quote": "civil marriage with a respectable man",
+      "label": "The 'enchantress'",
+      "note": "This is Grushenka, already named as the woman both men pursue. 'Civil marriage' means an unregistered union: in imperial Russia only church marriage had legal force, so she had no legal claim on her keeper — hence 'so to speak' and 'just like a legal wife.'",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n20",
+      "anchor": "p30",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "to asperse the good name",
+      "label": "asperse",
+      "note": "to slander; to speckle a name with dirt — from Latin aspergere, to sprinkle.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n21",
+      "anchor": "p34",
+      "placement": "inline",
+      "type": "context",
+      "quote": "a captain who got into trouble and was discharged from the army",
+      "label": "The beaten captain",
+      "note": "This is Captain Snegiryov — the name is withheld here. The beaten man will be sought out and given scenes of his own, and the tavern insult returns as the engine of a child's vendetta.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n22",
+      "anchor": "p35",
+      "placement": "inline",
+      "type": "context",
+      "quote": "I.O.U.’s of mine",
+      "label": "I.O.U.'s",
+      "note": "Promissory notes — written promises to pay, enforceable in court. Dmitri treats 'get me into prison by means of them' as a real threat: in this period a lost suit on such notes could end in a debtor's jail cell.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n23",
+      "anchor": "p38",
+      "placement": "inline",
+      "type": "context",
+      "quote": "with pistols, at three paces ... across a handkerchief",
+      "label": "The barrier duel",
+      "note": "The era's most murderous dueling variant: a barrier so close the two could be spanned by a handkerchief, simultaneous fire at point-blank range. The challenge, from the man who trembles at his son, is honor's blood code as pure theater.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n24",
+      "anchor": "p39",
+      "placement": "after",
+      "type": "idea",
+      "quote": "With old liars who have been acting all their lives",
+      "label": "The theory of the earnest tear",
+      "note": "The narrator pauses the brawl to state a law of psychology: the lifelong performer weeps in earnest while knowing he lies — Fyodor's hysterical tear ('squeezing out a tear,' two paragraphs back) is the exhibit. Feeling is manufactured, then believed in the moment of manufacture. This is Dostoevsky's signature analysis of the second self, and it keeps the chapter from being mere farce: the buffoon's wrath is fake and real at once.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n25",
+      "anchor": "p41",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "a depraved profligate",
+      "label": "profligate",
+      "note": "recklessly immoral, wasteful — the period's stock word for a ruinous liver.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n26",
+      "anchor": "p45",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "Why is such a man alive?",
+      "label": "The chapter's title",
+      "note": "The cry that gives the chapter its name — and it is aimed not at the buffoon's sins but at his existence: can a life 'go on defiling the earth'? Note how Dmitri speaks, 'evenly and deliberately': this is no longer rage but verdict.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n27",
+      "anchor": "p46",
+      "placement": "page",
+      "type": "allusion",
+      "quote": "But she loved much, and Christ himself forgave the woman",
+      "title": "The woman 'who loved much' — Luke 7:36–50",
+      "note": "The passage: a 'woman in the city, which was a sinner' washes Christ's feet with tears and ointment at Simon the Pharisee's table; when Simon objects, Christ tells the parable of the two debtors and concludes (KJV): 'Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much.'\n\nThe verse carries a long-standing interpretive crux: does her love earn the forgiveness, or show it? The standard reading takes love as the evidence of pardon, not its purchase price — and Father Iosif's quiet correction, 'It was not for such love Christ forgave her,' takes exactly that side.\n\nThe scene's irony runs two ways. The buffoon quotes the Gospel against the monks, and with a real point: a monastery scandalized by the fallen woman stands where Simon the Pharisee stood. But the correction matters too — Fyodor's Scripture-defense turns mercy into an argument for his son's mistress, and the gentle monk, 'impatient' for once, is made to hold the line. Dostoevsky's pattern in the cell scenes: truth circulates through the mouths least fitted to hold it.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n28",
+      "anchor": "p48",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "You eat a gudgeon a day",
+      "label": "gudgeon",
+      "note": "a small, bony river fish — the monks' trivial daily fasting fare. To 'bribe God with gudgeon' is to purchase salvation with the cheapest coin of diet.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n29",
+      "anchor": "p50",
+      "placement": "after",
+      "type": "idea",
+      "quote": "bowed down at Dmitri’s feet till his forehead touched the floor",
+      "label": "The bow to the ground",
+      "note": "The chapter's hidden center. A prostration with the forehead to the floor is the deepest gesture in Orthodox practice — made before God and icons, and here before a man, and that man the novel's most violent. The text refuses to gloss it: Fyodor's 'Was it symbolic or what?' hangs unanswered, and Dmitri answers with the body — a cry and flight — what no one answers in words. The gesture's meaning is withheld until late in the book.",
+      "confidence": "certain",
+      "spoiler": true
+    },
+    {
+      "id": "n30",
+      "anchor": "p53",
+      "placement": "inline",
+      "type": "vocab",
+      "quote": "the precincts of the hermitage",
+      "label": "hermitage",
+      "note": "a secluded monastic settlement — Russian pustyn, 'desert place,' after the Desert Fathers; a complex of cells and churches, not one hermit's hut.",
+      "confidence": "certain",
+      "spoiler": false
+    },
+    {
+      "id": "n31",
+      "anchor": "p61",
+      "placement": "inline",
+      "type": "context",
+      "quote": "one man has the heart of Alexander of Macedon and another the heart of the little dog Fido",
+      "label": "Alexander and Fido",
+      "note": "A stock contrast of proverb and vaudeville: the heart of Alexander the Great against a lapdog's — Fido being the stage dog's name. Fyodor casts himself as the cur; Miüsov, watching 'with distrustful eyes,' suspects the humility is a costume too.",
+      "confidence": "likely",
+      "spoiler": false
+    },
+    {
+      "id": "n32",
+      "anchor": "p69",
+      "placement": "inline",
+      "type": "idea",
+      "quote": "A brazen face, and the conscience of a Karamazov!",
+      "label": "The name becomes a verdict",
+      "note": "Miüsov turns the surname into a diagnosis: shamelessness as inheritance. The sting is that it lands on Ivan — silent through the brawl, and now 'going to the dinner as though nothing had happened.' The family name contaminates even the son who stood apart.",
+      "confidence": "certain",
+      "spoiler": false
+    }
+  ],
+  "commentary": {
+    "scholarly": [
+      "The chapter stages the decade's standing public argument — whether morality can survive without belief in the soul's immortality — as a society performance. Miüsov reports Ivan's thesis like a review of a scandalous lecture: love exists only because men believe in immortality; destroy the belief and 'everything would be lawful, even cannibalism.' Zossima's answer is not a rebuttal but Scripture and diagnosis — 'our dwelling is in the heavens' (Philippians 3:20), then 'the martyr likes sometimes to divert himself with his despair.' The article on Church jurisdiction that the elder quotes back at Ivan ('what you have written yourself in your article') belongs to the same debate's official wing: church courts and penance against the secular criminal court. Dostoevsky had fought this battle in print since Notes from Underground (1864), against the rationalists' claim that enlightened self-interest could ground ethics; what is new here is the frame — the argument delivered secondhand ('From this paradox, gentlemen, you can judge'), interrupted by a latecomer's apology and a buffoon, and pocketed by Dmitri in three flat words: 'I'll remember it.'",
+      "Fyodor's casting speech is the chapter's theater, and its script is Schiller's The Robbers (1781) — the play of the Russian Schiller cult, the schoolroom shorthand for noble rebellion and family war. The roles as Schiller wrote them: old Count von Moor, the deceived father; Karl, the passionate elder son, slandered and disinherited, who takes to the forests with a band of robbers; Franz, the scheming younger brother who engineers it all. The buffoon assigns the parts upside down: Ivan 'my most dutiful Karl Moor,' Dmitri 'the undutiful Franz Moor,' himself 'the reigning Count von Moor' — the wronged patriarch. But the inheritance war in this cell runs the other way: Dmitri is the elder son whose patrimony his father stands accused of swallowing ('hidden the children's money in my boots') — the play's Karl, handed Franz's mask, while the accuser costumes himself as victim. Dmitri names the genre himself — 'An unseemly farce which I foresaw' — and the elder answers with the room's only anti-theatrical command: 'Speak without buffoonery.' Costume against confession: the rest of the visit keeps that fight up.",
+      "The brawl's sharpest theology is spoken by its least reputable theologian. Defending Grushenka against the monks, Fyodor reaches for Luke 7 — the fallen woman who washes Christ's feet with tears, 'her sins, which are many, are forgiven; for she loved much' — and the gentle Father Iosif at once corrects him: 'It was not for such love Christ forgave her.' Iosif is siding with the standard exegesis: the love is not the payment that earns pardon but the sign that pardon has been given. The irony runs two ways. The buffoon quotes the Gospel against the Church, and with a real point — a monastery scandalized by the 'creature' stands where Simon the Pharisee stood, shocked that a sinner touched the holy. But the correction matters too, for Fyodor's use of the verse ('she is virtuous, yes, holy Fathers, she is virtuous') turns mercy into an argument for his son's mistress, and the chapter keeps the monk's protest gentle and 'impatient' at once. Dostoevsky's pattern throughout the cell scenes holds here: truth circulates through the mouths least fitted to hold it.",
+      "Underneath the theology runs a ledger. The chapter opens by citing an expert witness — Katchalnikov, the town's justice of the peace, the elected magistrate created by Russia's 1864 judicial reform — and it prices every relationship: the patrimony Fyodor greets with 'isn't there a court of law?' while demanding 'documentary proof'; the I.O.U.'s allegedly to be moved into a creditor's hands so the debtor lands 'in prison'; the Anna Order on the dead colonel's breast, which raises the stakes of his daughter's compromised name; the duel 'at three paces ... across a handkerchief' — honor's blood code invoked by the one man in the room built for neither court nor field. The design is pointed: the cell is the one place where conflicts are still handled by blessing, bow, and correction, and the Karamazov party can only process it as suits, notes, decorations, and challenges. Zossima's reply stays deliberately outside the ledger: a bow to the floor, and 'Forgive me, all of you.'"
+    ]
+  }
+}
